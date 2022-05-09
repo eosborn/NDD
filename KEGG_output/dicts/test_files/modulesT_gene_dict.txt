@@ -1,0 +1,1 @@
+{'PIGN': ['hsa_M00065'], 'PIGW': ['hsa_M00065'], 'PIGP': ['hsa_M00065'], 'PIGA': ['hsa_M00065'], 'PIGC': ['hsa_M00065'], 'PIGH': ['hsa_M00065'], 'PIGG': ['hsa_M00065'], 'PIGV': ['hsa_M00065'], 'PIGO': ['hsa_M00065']}

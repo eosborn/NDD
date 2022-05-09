@@ -1,0 +1,10 @@
+hsa03036 Chromosome and associated proteins 
+STAG1
+KAT5
+NCOA2
+PRMT5
+SMC2
+PIBF1
+AKAP9
+TUBB3
+TUBB4A
