@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import json
+import sys
 
 def add_groups(sample_variant_file, **kwargs):
     """ Return the input sample variant file with new columns for each of the input groupings
@@ -22,26 +23,41 @@ def add_groups(sample_variant_file, **kwargs):
 
     d = {}
     for key, value in kwargs.items():
-        dict_file = open(value)
-        dict_string = dict_file.readline()
-        dict_file.close()
+        print(type(value))
+        d[key] = create_dict(value)
 
-        dict_string = dict_string.replace("\'","\"")
-        dict = json.loads(dict_string)
-        d[key] = dict
-
-    #now have a pandas df of variants, and a dictionary of dictionaries {key = grouping_name : value = grouping dictionary}
-    #next, want to loop through each dictionary, adding list of group names to each row of the 
     for group in d:
         dict = d[group]
         add_columns(df,group,dict)
 
-    return_df = df.to_csv(sep='\t')
+    return_df = df.to_csv(sep='\t', index=False)
     out_file_name = sample_variant_file[:-3] + "grouped.txt"
     writefile = open(out_file_name, "w")
     writefile.write(return_df)
     writefile.close
-    return(df.head())   
+    return(df.head()) 
+
+
+def create_dict(dict_file):
+    """ return a dictionary
+
+        Parameters
+        ----------
+            dict_file: <class 'str'>
+                file that needs to be transformed into a dictionary
+    
+        Return
+        ----------
+            dict : <class 'dict'>
+                
+    """
+    dict_file = open(dict_file)
+    dict_string = dict_file.readline()
+    dict_file.close()
+
+    dict_string = dict_string.replace("\'","\"")
+    dict = json.loads(dict_string)
+    return(dict)
 
 def add_columns(df,group,dict):
     """ return the input df with a new column for the input grouping name and dict
@@ -81,8 +97,11 @@ def add_group_lists(variant, dict):
             return(groups_list)
         except KeyError:
             return([])
-            
 
+#struggled to get this to work, can't use '=', going to put command line inputs on hold for now 
+#add_groups(sys.argv[1], sys.argv[2] = sys.argv[3])
+
+#saw this online, didn't really understand its utility, but kept it here so I could ask someone 
 ##if __name__ == '__main__':
 ##    print(add_groups.__doc__)
 ##    print(add_columns.__doc__)
