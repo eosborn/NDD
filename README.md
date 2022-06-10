@@ -1,4 +1,4 @@
-# NDD
+# Variant and Gene Identification in Neurodevelopmental Delay Cohort 
 ## project for the Translational Health Data Science Fellowship
 
 ### Aim 1: collect list of genes associated with neurodevelopemntal disorders (ASD, speech delay, nonverbal)
