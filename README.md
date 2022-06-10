@@ -4,6 +4,7 @@
 ### Aim 1: collect list of genes associated with neurodevelopemntal disorders (ASD, speech delay, nonverbal)
 - see `NDD_Gene_List.txt`
 - generated using a broad literature search
+
 To do:
 	1. add literature sources to repo 
 	
@@ -17,11 +18,13 @@ To do:
 
 ### Aim 3: apply gene list and groupings to existing sequencing data for patient cohort
 - see `add_groups.py` python script located in *Filtering/*
+
 To do:
 	1. make `add_groups.py` more efficient --> input list of files to loop over so that dictionaries don't need to be recreated every time the script is called 
 	2. make `add_groups.py` executable from the command line
 
 ### Aim 4: identify relevant genes/groupings for clinical interpretation  
+
 To do:
 	1. due to discovery of artifacts in original patient VCF files used for filtering, re-align raw FASTQ files, re-create VCF files and re-run filtering pipeline (including steps outlined in Aims 1-3)
 	2. write a script that groups samples by variants occuring in common groupings (pathways, networks, etc) 
