@@ -9,12 +9,15 @@ To do:
 	1. add literature sources to repo 
 	
 ### Aim 2: scrape KEGG mapper output for pathways/modules and create dictionaires to organize groupings
-- raw output located in *KEGG_output/*
+- raw KEGG mapper output located in *KEGG_output/*
 - parsed output (just grouping names and gene names) located in *KEGG_output/parsed*
 - dictionaries with gene names as *keys* located in *KEGG_output/dicts/gene_dicts*
 	- made using `dict_gene_script.py` python script
 - dictionaries with grouping names as *keys* located in *KEGG_output/dicts/grouping_dicts* 
 	- made using `dict_grouping_script.py` python script
+	
+To do:
+	1. include shell script used to parse KEGG output prior to dictionary creation
 
 ### Aim 3: apply gene list and groupings to existing sequencing data for patient cohort
 - see `add_groups.py` python script located in *Filtering/*
