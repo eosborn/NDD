@@ -1,9 +1,9 @@
 import pandas as pd
 import numpy as np
+import pyarrow.feather as feather
 import json
 import sys
 import os
-import sys
 
 #goal of script:
 #given tab delimited sample file(s) that contain a single variant per row,
@@ -40,6 +40,9 @@ def add_groups(sample_variant_file, dictionary):
     writefile = open(out_file_name, "w")
     writefile.write(return_df)
     writefile.close
+
+    feather.write_feather(df, sample_variant_file[:-3] + "grouped.feather")
+    
     return(df.head()) 
 
 
@@ -103,10 +106,14 @@ def add_group_lists(variant, dict):
         except KeyError:
             return([])
 
-#parse command line input 
-#sys.argv[0] will be name of this script
+##########
+#parse command line input
+#sys.argv[0] will be name of this script,
+        #[1] will be the directory containing the variant files, and
+        #[2,3],[2,5] etc will grouping names , dictionary file 
 directory = sys.argv[1]
 
+#create a dictionary of grouping dictionaries 
 d = {}
 for i in (range(len(sys.argv)-3)):
     if i % 2 == 0:
@@ -116,7 +123,9 @@ for i in (range(len(sys.argv)-3)):
 
 for file_name in os.listdir(directory):
     if file_name.endswith(".pDet.txt"):
-        add_groups(file_name, d)
+        print(file_name)
+        file_path = directory + file_name
+        add_groups(file_path, d)
     else:
         pass
 
