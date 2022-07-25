@@ -1,0 +1,2672 @@
+hsa03036 Chromosome and associated proteins (304)
+
+  hsa:10274 STAG1; stromal antigen 1
+  hsa:10524 KAT5; lysine acetyltransferase 5
+  hsa:10499 NCOA2; nuclear receptor coactivator 2
+  hsa:10419 PRMT5; protein arginine methyltransferase 5
+  hsa:10592 SMC2; structural maintenance of chromosomes 2
+  hsa:10464 PIBF1; progesterone immunomodulatory binding factor 1
+  hsa:10142 AKAP9; A-kinase anchoring protein 9
+  hsa:10381 TUBB3; tubulin beta 3 class III
+  hsa:10382 TUBB4A; tubulin beta 4A class IVa
+  hsa:10540 DCTN2; dynactin subunit 2
+  hsa:10297 APC2; APC regulator of WNT signaling pathway 2
+  hsa:1000 CDH2; cadherin 2
+  hsa:1012 CDH13; cadherin 13
+  hsa:10472 ZBTB18; zinc finger and BTB domain containing 18
+  hsa:10735 STAG2; stromal antigen 2
+  hsa:11198 SUPT16H; SPT16 homolog, facilitates chromatin remodeling subunit
+  hsa:1105 CHD1; chromodomain helicase DNA binding protein 1
+  hsa:10943 MSL3; MSL complex subunit 3
+  hsa:10765 KDM5B; lysine demethylase 5B
+  hsa:10771 ZMYND11; zinc finger MYND-type containing 11
+  hsa:1062 CENPE; centromere protein E
+  hsa:1063 CENPF; centromere protein F
+  hsa:11335 CBX3; chromobox 3
+  hsa:1107 CHD3; chromodomain helicase DNA binding protein 3
+  hsa:1108 CHD4; chromodomain helicase DNA binding protein 4
+  hsa:10841 FTCD; formimidoyltransferase cyclodeaminase
+  hsa:10806 SDCCAG8; SHH signaling and ciliogenesis regulator SDCCAG8
+  hsa:10733 PLK4; polo like kinase 4
+  hsa:10844 TUBGCP2; tubulin gamma complex associated protein 2
+  hsa:114791 TUBGCP5; tubulin gamma complex associated protein 5
+  hsa:10847 SRCAP; Snf2 related CREBBP activator protein
+  hsa:1106 CHD2; chromodomain helicase DNA binding protein 2
+  hsa:10664 CTCF; CCCTC-binding factor
+  hsa:1387 CREBBP; CREB binding protein
+  hsa:1460 CSNK2B; casein kinase 2 beta
+  hsa:1454 CSNK1E; casein kinase 1 epsilon
+  hsa:136647 MPLKIP; M-phase specific PLK1 interacting protein
+  hsa:157570 ESCO2; establishment of sister chromatid cohesion N-acetyltransferase 2
+  hsa:1663 DDX11; DEAD/H-box helicase 11
+  hsa:168400 DDX53; DEAD-box helicase 53
+  hsa:171023 ASXL1; ASXL transcriptional regulator 1
+  hsa:1778 DYNC1H1; dynein cytoplasmic 1 heavy chain 1
+  hsa:1781 DYNC1I2; dynein cytoplasmic 1 intermediate chain 2
+  hsa:1788 DNMT3A; DNA methyltransferase 3 alpha
+  hsa:1789 DNMT3B; DNA methyltransferase 3 beta
+  hsa:1654 DDX3X; DEAD-box helicase 3 X-linked
+  hsa:1656 DDX6; DEAD-box helicase 6
+  hsa:153241 CEP120; centrosomal protein 120
+  hsa:163786 SASS6; SAS-6 centriolar assembly protein
+  hsa:1641 DCX; doublecortin
+  hsa:150468 CKAP2L; cytoskeleton associated protein 2 like
+  hsa:1739 DLG1; discs large MAGUK scaffold protein 1
+  hsa:2033 EP300; E1A binding protein p300
+  hsa:2146 EZH2; enhancer of zeste 2 polycomb repressive complex 2 subunit
+  hsa:221656 KDM1B; lysine demethylase 1B
+  hsa:221037 JMJD1C; jumonji domain containing 1C
+  hsa:200424 TET3; tet methylcytosine dioxygenase 3
+  hsa:192669 AGO3; argonaute RISC catalytic component 3
+  hsa:192670 AGO4; argonaute RISC component 4
+  hsa:219844 HYLS1; HYLS1 centriolar and ciliogenesis associated
+  hsa:203068 TUBB; tubulin beta class I
+  hsa:196528 ARID2; AT-rich interaction domain 2
+  hsa:2074 ERCC6; ERCC excision repair 6, chromatin remodeling factor
+  hsa:2186 BPTF; bromodomain PHD finger transcription factor
+  hsa:23028 KDM1A; lysine demethylase 1A
+  hsa:23040 MYT1L; myelin transcription factor 1 like
+  hsa:23309 SIN3B; SIN3 transcription regulator family member B
+  hsa:23181 DIP2A; disco interacting protein 2 homolog A
+  hsa:23067 SETD1B; SET domain containing 1B, histone lysine methyltransferase
+  hsa:23054 NCOA6; nuclear receptor coactivator 6
+  hsa:23081 KDM4C; lysine demethylase 4C
+  hsa:23030 KDM4B; lysine demethylase 4B
+  hsa:23135 KDM6B; lysine demethylase 6B
+  hsa:23133 PHF8; PHD finger protein 8
+  hsa:22823 MTF2; metal response element binding transcription factor 2
+  hsa:23013 SPEN; spen family transcriptional repressor
+  hsa:23126 POGZ; pogo transposable element derived with ZNF domain
+  hsa:23112 TNRC6B; trinucleotide repeat containing adaptor 6B
+  hsa:22981 NINL; ninein like
+  hsa:23259 DDHD2; DDHD domain containing 2
+  hsa:22995 CEP152; centrosomal protein 152
+  hsa:23291 FBXW11; F-box and WD repeat domain containing 11
+  hsa:22880 MORC2; MORC family CW-type zinc finger 2
+  hsa:25836 NIPBL; NIPBL cohesin loading factor
+  hsa:23522 KAT6B; lysine acetyltransferase 6B
+  hsa:23450 SF3B3; splicing factor 3b subunit 3
+  hsa:23774 BRD1; bromodomain containing 1
+  hsa:23512 SUZ12; SUZ12 polycomb repressive complex 2 subunit
+  hsa:23394 ADNP; activity dependent neuroprotector homeobox
+  hsa:23332 CLASP1; cytoplasmic linker associated protein 1
+  hsa:23345 SYNE1; spectrin repeat containing nuclear envelope protein 1
+  hsa:23363 OBSL1; obscurin like cytoskeletal adaptor 1
+  hsa:23451 SF3B1; splicing factor 3b subunit 1
+  hsa:23476 BRD4; bromodomain containing 4
+  hsa:254048 UBN2; ubinuclein 2
+  hsa:23314 SATB2; SATB homeobox 2
+  hsa:23515 MORC3; MORC family CW-type zinc finger 3
+  hsa:25821 MTO1; mitochondrial tRNA translation optimization 1
+  hsa:26122 EPC2; enhancer of polycomb homolog 2
+  hsa:27154 BRPF3; bromodomain and PHD finger containing 3
+  hsa:26610 ELP4; elongator acetyltransferase complex subunit 4
+  hsa:25942 SIN3A; SIN3 transcription regulator family member A
+  hsa:26053 AUTS2; activator of transcription and developmental regulator AUTS2
+  hsa:26040 SETBP1; SET binding protein 1
+  hsa:27245 AHDC1; AT-hook DNA binding motif containing 1
+  hsa:26523 AGO1; argonaute RISC component 1
+  hsa:27161 AGO2; argonaute RISC catalytic component 2
+  hsa:25886 POC1A; POC1 centriolar protein A
+  hsa:27185 DISC1; DISC1 scaffold protein
+  hsa:27229 TUBGCP4; tubulin gamma complex associated protein 4
+  hsa:26057 ANKRD17; ankyrin repeat domain 17
+  hsa:259266 ASPM; assembly factor for spindle microtubules
+  hsa:3008 H1-4; H1.4 linker histone, cluster member
+  hsa:3020 H3-3A; H3.3 histone A
+  hsa:284058 KANSL1; KAT8 regulatory NSL complex subunit 1
+  hsa:29123 ANKRD11; ankyrin repeat domain containing 11
+  hsa:29072 SETD2; SET domain containing 2, histone lysine methyltransferase
+  hsa:29781 NCAPH2; non-SMC condensin II complex subunit H2
+  hsa:283489 CHAMP1; chromosome alignment maintaining phosphoprotein 1
+  hsa:284403 WDR62; WD repeat domain 62
+  hsa:29899 GPSM2; G protein signaling modulator 2
+  hsa:29998 BICRA; BRD4 interacting chromatin remodeling complex associated protein
+  hsa:3150 HMGN1; high mobility group nucleosome binding domain 1
+  hsa:3054 HCFC1; host cell factor C1
+  hsa:3720 JARID2; jumonji and AT-rich interaction domain containing 2
+  hsa:347733 TUBB2B; tubulin beta 2B class IIb
+  hsa:389856 USP27X; ubiquitin specific peptidase 27 X-linked
+  hsa:4297 KMT2A; lysine methyltransferase 2A
+  hsa:3796 KIF2A; kinesin family member 2A
+  hsa:4204 MECP2; methyl-CpG binding protein 2
+  hsa:4152 MBD1; methyl-CpG binding domain protein 1
+  hsa:3930 LBR; lamin B receptor
+  hsa:387119 CEP85L; centrosomal protein 85 like
+  hsa:3832 KIF11; kinesin family member 11
+  hsa:402569 KPNA7; karyopherin subunit alpha 7
+  hsa:4661 MYT1; myelin transcription factor 1
+  hsa:4998 ORC1; origin recognition complex subunit 1
+  hsa:5048 PAFAH1B1; platelet activating factor acetylhydrolase 1b regulatory subunit 1
+  hsa:5058 PAK1; p21 (RAC1) activated kinase 1
+  hsa:4643 MYO1E; myosin IE
+  hsa:51317 PHF21A; PHD finger protein 21A
+  hsa:51111 KMT5B; lysine methyltransferase 5B
+  hsa:51143 DYNC1LI1; dynein cytoplasmic 1 light intermediate chain 1
+  hsa:5116 PCNT; pericentrin
+  hsa:5108 PCM1; pericentriolar material 1
+  hsa:51134 CEP83; centrosomal protein 83
+  hsa:5076 PAX2; paired box 2
+  hsa:51412 ACTL6B; actin like 6B
+  hsa:54496 PRMT7; protein arginine methyltransferase 7
+  hsa:51780 KDM3B; lysine demethylase 3B
+  hsa:5253 PHF2; PHD finger protein 2
+  hsa:54790 TET2; tet methylcytosine dioxygenase 2
+  hsa:54880 BCOR; BCL6 corepressor
+  hsa:54892 NCAPG2; non-SMC condensin II complex subunit G2
+  hsa:53615 MBD3; methyl-CpG binding domain protein 3
+  hsa:546 ATRX; ATRX chromatin remodeler
+  hsa:51807 TUBA8; tubulin alpha 8
+  hsa:54820 NDE1; nudE neurodevelopment protein 1
+  hsa:51773 RSF1; remodeling and spacing factor 1
+  hsa:54891 INO80D; INO80 complex subunit D
+  hsa:55689 YEATS2; YEATS domain containing 2
+  hsa:55683 KANSL3; KAT8 regulatory NSL complex subunit 3
+  hsa:55250 ELP2; elongator acetyltransferase complex subunit 2
+  hsa:55869 HDAC8; histone deacetylase 8
+  hsa:55870 ASH1L; ASH1 like histone lysine methyltransferase
+  hsa:55252 ASXL2; ASXL transcriptional regulator 2
+  hsa:55209 SETD5; SET domain containing 5
+  hsa:55213 
+  hsa:55835 CENPJ; centromere protein J
+  hsa:55055 ZWILCH; zwilch kinetochore protein
+  hsa:5515 PPP2CA; protein phosphatase 2 catalytic subunit alpha
+  hsa:5519 PPP2R1B; protein phosphatase 2 scaffold subunit Abeta
+  hsa:5518 PPP2R1A; protein phosphatase 2 scaffold subunit Aalpha
+  hsa:5528 PPP2R5D; protein phosphatase 2 regulatory subunit B'delta
+  hsa:55777 MBD5; methyl-CpG binding domain protein 5
+  hsa:55165 CEP55; centrosomal protein 55
+  hsa:55857 KIZ; kizuna centrosomal protein
+  hsa:55755 CDK5RAP2; CDK5 regulatory subunit associated protein 2
+  hsa:5567 PRKACB; protein kinase cAMP-activated catalytic subunit beta
+  hsa:55746 NUP133; nucleoporin 133
+  hsa:55636 CHD7; chromodomain helicase DNA binding protein 7
+  hsa:55904 KMT2E; lysine methyltransferase 2E (inactive)
+  hsa:5594 MAPK1; mitogen-activated protein kinase 1
+  hsa:5595 MAPK3; mitogen-activated protein kinase 3
+  hsa:57519 STARD9; StAR related lipid transfer domain containing 9
+  hsa:56147 PCDHA1; protocadherin alpha 1
+  hsa:56135 PCDHAC1; protocadherin alpha subfamily C, 1
+  hsa:56142 PCDHA6; protocadherin alpha 6
+  hsa:56134 PCDHAC2; protocadherin alpha subfamily C, 2
+  hsa:56136 PCDHA13; protocadherin alpha 13
+  hsa:56137 PCDHA12; protocadherin alpha 12
+  hsa:56138 PCDHA11; protocadherin alpha 11
+  hsa:56139 PCDHA10; protocadherin alpha 10
+  hsa:56140 PCDHA8; protocadherin alpha 8
+  hsa:56141 PCDHA7; protocadherin alpha 7
+  hsa:56145 PCDHA3; protocadherin alpha 3
+  hsa:56143 PCDHA5; protocadherin alpha 5
+  hsa:56144 PCDHA4; protocadherin alpha 4
+  hsa:56146 
+  hsa:57122 NUP107; nucleoporin 107
+  hsa:57492 ARID1B; AT-rich interaction domain 1B
+  hsa:57459 GATAD2B; GATA zinc finger domain containing 2B
+  hsa:56916 SMARCAD1; SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1
+  hsa:5885 RAD21; RAD21 cohesin complex component
+  hsa:57634 EP400; E1A binding protein p400
+  hsa:60 ACTB; actin beta
+  hsa:5926 ARID4A; AT-rich interaction domain 4A
+  hsa:58508 KMT2C; lysine methyltransferase 2C
+  hsa:5927 KDM5A; lysine demethylase 5A
+  hsa:6299 SALL1; spalt like transcription factor 1
+  hsa:585 BBS4; Bardet-Biedl syndrome 4
+  hsa:57679 ALS2; alsin Rho guanine nucleotide exchange factor ALS2
+  hsa:6253 RTN2; reticulon 2
+  hsa:5977 DPF2; double PHD fingers 2
+  hsa:57680 CHD8; chromodomain helicase DNA binding protein 8
+  hsa:6304 SATB1; SATB homeobox 1
+  hsa:6418 SET; SET nuclear proto-oncogene
+  hsa:64324 NSD1; nuclear receptor binding SET domain protein 1
+  hsa:6491 STIL; STIL centriolar assembly protein
+  hsa:64682 ANAPC1; anaphase promoting complex subunit 1
+  hsa:6595 SMARCA2; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2
+  hsa:6597 SMARCA4; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4
+  hsa:6598 SMARCB1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1
+  hsa:6599 SMARCC1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 1
+  hsa:6601 SMARCC2; SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 2
+  hsa:6602 SMARCD1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1
+  hsa:6605 SMARCE1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1
+  hsa:6749 SSRP1; structure specific recognition protein 1
+  hsa:6872 TAF1; TATA-box binding protein associated factor 1
+  hsa:6877 TAF5; TATA-box binding protein associated factor 5
+  hsa:6878 TAF6; TATA-box binding protein associated factor 6
+  hsa:6873 TAF2; TATA-box binding protein associated factor 2
+  hsa:71 ACTG1; actin gamma 1
+  hsa:7153 TOP2A; DNA topoisomerase II alpha
+  hsa:701 BUB1B; BUB1 mitotic checkpoint serine/threonine kinase B
+  hsa:7283 TUBG1; tubulin gamma 1
+  hsa:7280 TUBB2A; tubulin beta 2A class IIa
+  hsa:672 BRCA1; BRCA1 DNA repair associated
+  hsa:675 BRCA2; BRCA2 DNA repair associated
+  hsa:7862 BRPF1; bromodomain and PHD finger containing 1
+  hsa:79813 EHMT1; euchromatic histone lysine methyltransferase 1
+  hsa:7468 NSD2; nuclear receptor binding SET domain protein 2
+  hsa:7403 KDM6A; lysine demethylase 6A
+  hsa:7703 PCGF2; polycomb group ring finger 2
+  hsa:7528 YY1; YY1 transcription factor
+  hsa:7846 TUBA1A; tubulin alpha 1a
+  hsa:7514 XPO1; exportin 1
+  hsa:7840 ALMS1; ALMS1 centrosome and basal body associated protein
+  hsa:79848 CSPP1; centrosome and spindle pole associated protein 1
+  hsa:79648 MCPH1; microcephalin 1
+  hsa:79023 NUP37; nucleoporin 37
+  hsa:8243 SMC1A; structural maintenance of chromosomes 1A
+  hsa:8260 NAA10; N-alpha-acetyltransferase 10, NatA catalytic subunit
+  hsa:80155 NAA15; N-alpha-acetyltransferase 15, NatA auxiliary subunit
+  hsa:8364 H4C3; H4 clustered histone 3
+  hsa:7994 KAT6A; lysine acetyltransferase 6A
+  hsa:8295 TRRAP; transformation/transcription domain associated protein
+  hsa:8085 KMT2D; lysine methyltransferase 2D
+  hsa:83852 SETDB2; SET domain bifurcated histone lysine methyltransferase 2
+  hsa:8242 KDM5C; lysine demethylase 5C
+  hsa:80816 ASXL3; ASXL transcriptional regulator 3
+  hsa:80184 CEP290; centrosomal protein 290
+  hsa:81620 CDT1; chromatin licensing and DNA replication factor 1
+  hsa:80254 CEP63; centrosomal protein 63
+  hsa:8289 ARID1A; AT-rich interaction domain 1A
+  hsa:80224 NUBPL; NUBP iron-sulfur cluster assembly factor, mitochondrial
+  hsa:84148 KAT8; lysine acetyltransferase 8
+  hsa:8648 NCOA1; nuclear receptor coactivator 1
+  hsa:86 ACTL6A; actin like 6A
+  hsa:8473 OGT; O-linked N-acetylglucosamine (GlcNAc) transferase
+  hsa:8575 PRKRA; protein activator of interferon induced protein kinase EIF2AK2
+  hsa:8481 OFD1; OFD1 centriole and centriolar satellite protein
+  hsa:85378 TUBGCP6; tubulin gamma complex associated protein 6
+  hsa:84461 NEURL4; neuralized E3 ubiquitin protein ligase 4
+  hsa:84984 CEP19; centrosomal protein 19
+  hsa:8480 RAE1; ribonucleic acid export 1
+  hsa:84295 PHF6; PHD finger protein 6
+  hsa:9126 SMC3; structural maintenance of chromosomes 3
+  hsa:8970 H2BC11; H2B clustered histone 11
+  hsa:8850 KAT2B; lysine acetyltransferase 2B
+  hsa:8888 MCM3AP; minichromosome maintenance complex component 3 associated protein
+  hsa:8726 EED; embryonic ectoderm development
+  hsa:8930 MBD4; methyl-CpG binding domain 4, DNA glycosylase
+  hsa:891 CCNB1; cyclin B1
+  hsa:8945 BTRC; beta-transducin repeat containing E3 ubiquitin protein ligase
+  hsa:9024 BRSK2; BR serine/threonine kinase 2
+  hsa:92558 BICDL1; BICD family like cargo adaptor 1
+  hsa:9229 DLGAP1; DLG associated protein 1
+  hsa:8924 HERC2; HECT and RLD domain containing E3 ubiquitin protein ligase 2
+  hsa:93426 SYCE1; synaptonemal complex central element protein 1
+  hsa:9759 HDAC4; histone deacetylase 4
+  hsa:9734 HDAC9; histone deacetylase 9
+  hsa:9757 KMT2B; lysine methyltransferase 2B
+  hsa:9739 SETD1A; SET domain containing 1A, histone lysine methyltransferase
+  hsa:9869 SETDB1; SET domain bifurcated histone lysine methyltransferase 1
+  hsa:95681 CEP41; centrosomal protein 41
+  hsa:9731 CEP104; centrosomal protein 104
+  hsa:9662 CEP135; centrosomal protein 135
+  hsa:9639 ARHGEF10; Rho guanine nucleotide exchange factor 10
+  hsa:9820 CUL7; cullin 7
+  hsa:9702 CEP57; centrosomal protein 57
+  hsa:9752 PCDHA9; protocadherin alpha 9
+  hsa:9894 TELO2; telomere maintenance 2
+  hsa:998 CDC42; cell division cycle 42
+
+hsa04131 Membrane trafficking (276)
+
+  hsa:10059 DNM1L; dynamin 1 like
+  hsa:10617 STAMBP; STAM binding protein
+  hsa:10564 ARFGEF2; ADP ribosylation factor guanine nucleotide exchange factor 2
+  hsa:10565 ARFGEF1; ADP ribosylation factor guanine nucleotide exchange factor 1
+  hsa:10466 COG5; component of oligomeric golgi complex 5
+  hsa:10273 STUB1; STIP1 homology and U-box containing protein 1
+  hsa:10071 MUC12; mucin 12, cell surface associated
+  hsa:11141 IL1RAPL1; interleukin 1 receptor accessory protein like 1
+  hsa:1121 CHM; CHM Rab escort protein
+  hsa:11336 EXOC3; exocyst complex component 3
+  hsa:10640 EXOC5; exocyst complex component 5
+  hsa:112755 STX1B; syntaxin 1B
+  hsa:10815 CPLX1; complexin 1
+  hsa:11059 WWP1; WW domain containing E3 ubiquitin protein ligase 1
+  hsa:11151 CORO1A; coronin 1A
+  hsa:10717 AP4B1; adaptor related protein complex 4 subunit beta 1
+  hsa:11154 AP4S1; adaptor related protein complex 4 subunit sigma 1
+  hsa:11069 RAPGEF4; Rap guanine nucleotide exchange factor 4
+  hsa:11253 
+  hsa:114880 OSBPL6; oxysterol binding protein like 6
+  hsa:114548 NLRP3; NLR family pyrin domain containing 3
+  hsa:10641 NPRL2; NPR2 like, GATOR1 complex subunit
+  hsa:11133 KPTN; kaptin, actin binding protein
+  hsa:116442 RAB39B; RAB39B, member RAS oncogene family
+  hsa:11152 WDR45; WD repeat domain 45
+  hsa:134957 STXBP5; syntaxin binding protein 5
+  hsa:1213 CLTC; clathrin heavy chain
+  hsa:1173 AP2M1; adaptor related protein complex 2 subunit mu 1
+  hsa:1175 AP2S1; adaptor related protein complex 2 subunit sigma 1
+  hsa:1487 CTBP1; C-terminal binding protein 1
+  hsa:137492 VPS37A; VPS37A subunit of ESCRT-I
+  hsa:116987 AGAP1; ArfGAP with GTPase domain, ankyrin repeat and PH domain 1
+  hsa:116986 AGAP2; ArfGAP with GTPase domain, ankyrin repeat and PH domain 2
+  hsa:122553 TRAPPC6B; trafficking protein particle complex subunit 6B
+  hsa:1174 AP1S1; adaptor related protein complex 1 subunit sigma 1
+  hsa:128637 TBC1D20; TBC1 domain family member 20
+  hsa:1314 COPA; COPI coat complex subunit alpha
+  hsa:133746 JMY; junction mediating and regulatory protein, p53 cofactor
+  hsa:1742 DLG4; discs large MAGUK scaffold protein 4
+  hsa:1759 DNM1; dynamin 1
+  hsa:161 AP2A2; adaptor related protein complex 2 subunit alpha 2
+  hsa:157680 VPS13B; vacuolar protein sorting 13 homolog B
+  hsa:162 AP1B1; adaptor related protein complex 1 subunit beta 1
+  hsa:1793 DOCK1; dedicator of cytokinesis 1
+  hsa:1795 DOCK3; dedicator of cytokinesis 3
+  hsa:1861 TOR1A; torsin family 1 member A
+  hsa:1859 DYRK1A; dual specificity tyrosine phosphorylation regulated kinase 1A
+  hsa:2218 FKTN; fukutin
+  hsa:2055 CLN8; CLN8 transmembrane ER and ERGIC protein
+  hsa:1917 EEF1A2; eukaryotic translation elongation factor 1 alpha 2
+  hsa:22999 RIMS1; regulating synaptic membrane exocytosis 1
+  hsa:23236 PLCB1; phospholipase C beta 1
+  hsa:22871 NLGN1; neuroligin 1
+  hsa:22829 NLGN4Y; neuroligin 4 Y-linked
+  hsa:22930 RAB3GAP1; RAB3 GTPase activating protein catalytic subunit 1
+  hsa:23233 EXOC6B; exocyst complex component 6B
+  hsa:23025 UNC13A; unc-13 homolog A
+  hsa:23054 NCOA6; nuclear receptor coactivator 6
+  hsa:23209 MLC1; modulator of VRAC current 1
+  hsa:23096 IQSEC2; IQ motif and Sec7 domain ArfGEF 2
+  hsa:23167 EFR3A; EFR3 homolog A
+  hsa:23046 KIF21B; kinesin family member 21B
+  hsa:23102 TBC1D2B; TBC1 domain family member 2B
+  hsa:23258 DENND5A; DENN domain containing 5A
+  hsa:22878 TRAPPC8; trafficking protein particle complex subunit 8
+  hsa:23065 EMC1; ER membrane protein complex subunit 1
+  hsa:23001 WDFY3; WD repeat and FYVE domain containing 3
+  hsa:23241 PACS2; phosphofurin acidic cluster sorting protein 2
+  hsa:22931 RAB18; RAB18, member RAS oncogene family
+  hsa:23229 ARHGEF9; Cdc42 guanine nucleotide exchange factor 9
+  hsa:25782 RAB3GAP2; RAB3 GTPase activating non-catalytic protein subunit 2
+  hsa:23312 DMXL2; Dmx like 2
+  hsa:23327 NEDD4L; NEDD4 like E3 ubiquitin protein ligase
+  hsa:23362 
+  hsa:23426 GRIP1; glutamate receptor interacting protein 1
+  hsa:23325 WASHC4; WASH complex subunit 4
+  hsa:25839 COG4; component of oligomeric golgi complex 4
+  hsa:23431 AP4E1; adaptor related protein complex 4 subunit epsilon 1
+  hsa:23732 FRRS1L; ferric chelate reductase 1 like
+  hsa:2475 MTOR; mechanistic target of rapamycin kinase
+  hsa:23334 SZT2; SZT2 subunit of KICSTOR complex
+  hsa:2683 B4GALT1; beta-1,4-galactosyltransferase 1
+  hsa:26280 IL1RAPL2; interleukin 1 receptor accessory protein like 2
+  hsa:25977 NECAP1; NECAP endocytosis associated 1
+  hsa:27131 SNX5; sorting nexin 5
+  hsa:27183 VPS4A; vacuolar protein sorting 4 homolog A
+  hsa:26960 NBEA; neurobeachin
+  hsa:26056 RAB11FIP5; RAB11 family interacting protein 5
+  hsa:27315 PGAP2; post-GPI attachment to proteins 2
+  hsa:2670 GFAP; glial fibrillary acidic protein
+  hsa:27445 PCLO; piccolo presynaptic cytomatrix protein
+  hsa:29967 LRP12; LDL receptor related protein 12
+  hsa:27352 SGSM3; small G protein signaling modulator 3
+  hsa:28952 CCDC22; coiled-coil domain containing 22
+  hsa:301 ANXA1; annexin A1
+  hsa:322 APBB1; amyloid beta precursor protein binding family B member 1
+  hsa:321 APBA2; amyloid beta precursor protein binding family A member 2
+  hsa:375 ARF1; ADP ribosylation factor 1
+  hsa:3685 ITGAV; integrin subunit alpha V
+  hsa:3690 ITGB3; integrin subunit beta 3
+  hsa:3265 HRAS; HRas proto-oncogene, GTPase
+  hsa:3064 HTT; huntingtin
+  hsa:372 ARCN1; archain 1
+  hsa:3098 HK1; hexokinase 1
+  hsa:3949 LDLR; low density lipoprotein receptor
+  hsa:4035 LRP1; LDL receptor related protein 1
+  hsa:4036 LRP2; LDL receptor related protein 2
+  hsa:3845 KRAS; KRAS proto-oncogene, GTPase
+  hsa:440073 IQSEC3; IQ motif and Sec7 domain ArfGEF 3
+  hsa:4137 MAPT; microtubule associated protein tau
+  hsa:3920 LAMP2; lysosomal associated membrane protein 2
+  hsa:3798 KIF5A; kinesin family member 5A
+  hsa:3800 KIF5C; kinesin family member 5C
+  hsa:394 ARHGAP5; Rho GTPase activating protein 5
+  hsa:5058 PAK1; p21 (RAC1) activated kinase 1
+  hsa:4952 OCRL; OCRL inositol polyphosphate-5-phosphatase
+  hsa:4481 MSR1; macrophage scavenger receptor 1
+  hsa:4643 MYO1E; myosin IE
+  hsa:4893 NRAS; NRAS proto-oncogene, GTPase
+  hsa:4925 NUCB2; nucleobindin 2
+  hsa:4644 MYO5A; myosin VA
+  hsa:4585 MUC4; mucin 4, cell surface associated
+  hsa:4983 OPHN1; oligophrenin 1
+  hsa:4650 MYO9B; myosin IXB
+  hsa:51760 SYT17; synaptotagmin 17
+  hsa:51100 SH3GLB1; SH3 domain containing GRB2 like, endophilin B1
+  hsa:50619 DEF6; DEF6 guanine nucleotide exchange factor
+  hsa:5119 CHMP1A; charged multivesicular body protein 1A
+  hsa:51715 
+  hsa:51143 DYNC1LI1; dynein cytoplasmic 1 light intermediate chain 1
+  hsa:5147 PDE6D; phosphodiesterase 6D
+  hsa:51256 TBC1D7; TBC1 domain family member 7
+  hsa:51075 TMX2; thioredoxin related transmembrane protein 2
+  hsa:50807 ASAP1; ArfGAP with SH3 domain, ankyrin repeat and PH domain 1
+  hsa:51693 TRAPPC2L; trafficking protein particle complex subunit 2L
+  hsa:51399 TRAPPC4; trafficking protein particle complex subunit 4
+  hsa:51112 TRAPPC12; trafficking protein particle complex subunit 12
+  hsa:51124 IER3IP1; immediate early response 3 interacting protein 1
+  hsa:51594 NBAS; NBAS subunit of NRZ tethering complex
+  hsa:5071 PRKN; parkin RBR E3 ubiquitin protein ligase
+  hsa:5076 PAX2; paired box 2
+  hsa:51322 WAC; WW domain containing adaptor with coiled-coil
+  hsa:5336 PLCG2; phospholipase C gamma 2
+  hsa:54413 NLGN3; neuroligin 3
+  hsa:54536 EXOC6; exocyst complex component 6
+  hsa:5290 PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+  hsa:5293 PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+  hsa:5294 PIK3CG; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma
+  hsa:5295 PIK3R1; phosphoinositide-3-kinase regulatory subunit 1
+  hsa:5296 PIK3R2; phosphoinositide-3-kinase regulatory subunit 2
+  hsa:54664 TMEM106B; transmembrane protein 106B
+  hsa:54809 SAMD9; sterile alpha motif domain containing 9
+  hsa:54551 MAGEL2; MAGE family member L2
+  hsa:54808 
+  hsa:5195 PEX14; peroxisomal biogenesis factor 14
+  hsa:5189 PEX1; peroxisomal biogenesis factor 1
+  hsa:5190 PEX6; peroxisomal biogenesis factor 6
+  hsa:55681 SCYL2; SCY1 like pseudokinase 2
+  hsa:5578 PRKCA; protein kinase C alpha
+  hsa:55823 VPS11; VPS11 core subunit of CORVET and HOPS complexes
+  hsa:55275 VPS53; VPS53 subunit of GARP complex
+  hsa:55773 TBC1D23; TBC1 domain family member 23
+  hsa:55187 VPS13D; vacuolar protein sorting 13 homolog D
+  hsa:55690 PACS1; phosphofurin acidic cluster sorting protein 1
+  hsa:55858 TMEM165; transmembrane protein 165
+  hsa:55165 CEP55; centrosomal protein 55
+  hsa:5515 PPP2CA; protein phosphatase 2 catalytic subunit alpha
+  hsa:57524 CASKIN1; CASK interacting protein 1
+  hsa:57555 NLGN2; neuroligin 2
+  hsa:57502 NLGN4X; neuroligin 4 X-linked
+  hsa:57154 SMURF1; SMAD specific E3 ubiquitin protein ligase 1
+  hsa:57465 TBC1D24; TBC1 domain family member 24
+  hsa:57511 COG6; component of oligomeric golgi complex 6
+  hsa:56975 FAM20C; FAM20C golgi associated secretory pathway kinase
+  hsa:56899 ANKS1B; ankyrin repeat and sterile alpha motif domain containing 1B
+  hsa:56270 WDR45B; WD repeat domain 45B
+  hsa:55930 MYO5C; myosin VC
+  hsa:57514 ARHGAP31; Rho GTPase activating protein 31
+  hsa:57572 DOCK6; dedicator of cytokinesis 6
+  hsa:5873 RAB27A; RAB27A, member RAS oncogene family
+  hsa:5830 PEX5; peroxisomal biogenesis factor 5
+  hsa:5879 RAC1; Rac family small GTPase 1
+  hsa:5898 RALA; RAS like proto-oncogene A
+  hsa:58513 EPS15L1; epidermal growth factor receptor pathway substrate 15 like 1
+  hsa:60684 TRAPPC11; trafficking protein particle complex subunit 11
+  hsa:5862 RAB2A; RAB2A, member RAS oncogene family
+  hsa:57589 RIC1; RIC1 homolog, RAB6A GEF complex partner 1
+  hsa:6253 RTN2; reticulon 2
+  hsa:57705 WDFY4; WDFY family member 4
+  hsa:57724 EPG5; ectopic P-granules 5 autophagy tethering factor
+  hsa:64130 LIN7B; lin-7 homolog B, crumbs cell polarity complex component
+  hsa:6616 SNAP25; synaptosome associated protein 25
+  hsa:6453 ITSN1; intersectin 1
+  hsa:64601 VPS16; VPS16 core subunit of CORVET and HOPS complexes
+  hsa:64801 ARV1; ARV1 homolog, fatty acid homeostasis modulator
+  hsa:63895 PIEZO2; piezo type mechanosensitive ion channel component 2
+  hsa:6857 SYT1; synaptotagmin 1
+  hsa:6853 SYN1; synapsin I
+  hsa:6854 SYN2; synapsin II
+  hsa:6812 STXBP1; syntaxin binding protein 1
+  hsa:6804 STX1A; syntaxin 1A
+  hsa:6844 VAMP2; vesicle associated membrane protein 2
+  hsa:7057 THBS1; thrombospondin 1
+  hsa:714 C1QC; complement C1q C chain
+  hsa:729092 AGAP5; ArfGAP with GTPase domain, ankyrin repeat and PH domain 5
+  hsa:6683 SPAST; spastin
+  hsa:7273 TTN; titin
+  hsa:7204 TRIO; trio Rho guanine nucleotide exchange factor
+  hsa:7436 VLDLR; very low density lipoprotein receptor
+  hsa:78989 COLEC11; collectin subfamily member 11
+  hsa:79147 FKRP; fukutin related protein
+  hsa:79109 MAPKAP1; MAPK associated protein 1
+  hsa:81 ACTN4; actinin alpha 4
+  hsa:8218 CLTCL1; clathrin heavy chain like 1
+  hsa:83737 ITCH; itchy E3 ubiquitin protein ligase
+  hsa:81573 ANKRD13C; ankyrin repeat domain 13C
+  hsa:79890 RIN3; Ras and Rab interactor 3
+  hsa:8120 AP3B2; adaptor related protein complex 3 subunit beta 2
+  hsa:81609 SNX27; sorting nexin 27
+  hsa:83696 TRAPPC9; trafficking protein particle complex subunit 9
+  hsa:80055 
+  hsa:80856 LNPK; lunapark, ER junction formation factor
+  hsa:81704 DOCK8; dedicator of cytokinesis 8
+  hsa:84812 PLCD4; phospholipase C delta 4
+  hsa:8573 CASK; calcium/calmodulin dependent serine protein kinase
+  hsa:8618 CADPS; calcium dependent secretion activator
+  hsa:84894 LINGO1; leucine rich repeat and Ig domain containing 1
+  hsa:84466 MEGF10; multiple EGF like domains 10
+  hsa:84465 MEGF11; multiple EGF like domains 11
+  hsa:84668 FAM126A; family with sequence similarity 126 member A
+  hsa:8546 AP3B1; adaptor related protein complex 3 subunit beta 1
+  hsa:84342 COG8; component of oligomeric golgi complex 8
+  hsa:84700 MYO18B; myosin XVIIIB
+  hsa:84317 CCDC115; coiled-coil domain containing 115
+  hsa:8504 PEX3; peroxisomal biogenesis factor 3
+  hsa:85440 DOCK7; dedicator of cytokinesis 7
+  hsa:9256 TSPOAP1; TSPO associated protein 1
+  hsa:9024 BRSK2; BR serine/threonine kinase 2
+  hsa:8867 SYNJ1; synaptojanin 1
+  hsa:867 CBL; Cbl proto-oncogene
+  hsa:8766 RAB11A; RAB11A, member RAS oncogene family
+  hsa:9230 RAB11B; RAB11B, member RAS oncogene family
+  hsa:92344 GORAB; golgin, RAB6 interacting
+  hsa:8853 ASAP2; ArfGAP with SH3 domain, ankyrin repeat and PH domain 2
+  hsa:91949 COG7; component of oligomeric golgi complex 7
+  hsa:8905 AP1S2; adaptor related protein complex 1 subunit sigma 2
+  hsa:9179 AP4M1; adaptor related protein complex 4 subunit mu 1
+  hsa:9276 COPB2; COPI coat complex subunit beta 2
+  hsa:8828 NRP2; neuropilin 2
+  hsa:91875 TTC5; tetratricopeptide repeat domain 5
+  hsa:89839 ARHGAP11B; Rho GTPase activating protein 11B
+  hsa:8997 KALRN; kalirin RhoGEF kinase
+  hsa:9699 RIMS2; regulating synaptic membrane exocytosis 2
+  hsa:9783 RIMS3; regulating synaptic membrane exocytosis 3
+  hsa:9378 NRXN1; neurexin 1
+  hsa:9379 NRXN2; neurexin 2
+  hsa:9369 NRXN3; neurexin 3
+  hsa:93664 CADPS2; calcium dependent secretion activator 2
+  hsa:9515 STXBP5L; syntaxin binding protein 5L
+  hsa:9342 SNAP29; synaptosome associated protein 29
+  hsa:9829 DNAJC6; DnaJ heat shock protein family (Hsp40) member C6
+  hsa:9901 SRGAP3; SLIT-ROBO Rho GTPase activating protein 3
+  hsa:9779 TBC1D5; TBC1 domain family member 5
+  hsa:987 LRBA; LPS responsive beige-like anchor protein
+  hsa:9897 WASHC5; WASH complex subunit 5
+  hsa:9382 COG1; component of oligomeric golgi complex 1
+  hsa:9853 RUSC2; RUN and SH3 domain containing 2
+  hsa:93210 PGAP3; post-GPI attachment to proteins phospholipase 3
+  hsa:9681 DEPDC5; DEP domain containing 5, GATOR1 subcomplex subunit
+  hsa:9895 TECPR2; tectonin beta-propeller repeat containing 2
+  hsa:9743 ARHGAP32; Rho GTPase activating protein 32
+  hsa:9639 ARHGEF10; Rho guanine nucleotide exchange factor 10
+  hsa:9732 DOCK4; dedicator of cytokinesis 4
+  hsa:998 CDC42; cell division cycle 42
+  hsa:9922 IQSEC1; IQ motif and Sec7 domain ArfGEF 1
+  hsa:9958 USP15; ubiquitin specific peptidase 15
+
+hsa03000 Transcription factors (175)
+
+  hsa:10472 ZBTB18; zinc finger and BTB domain containing 18
+  hsa:10524 KAT5; lysine acetyltransferase 5
+  hsa:10265 IRX5; iroquois homeobox 5
+  hsa:10522 DEAF1; DEAF1 transcription factor
+  hsa:10664 CTCF; CCCTC-binding factor
+  hsa:10743 RAI1; retinoic acid induced 1
+  hsa:116113 FOXP4; forkhead box P4
+  hsa:10716 TBR1; T-box brain transcription factor 1
+  hsa:148979 GLIS1; GLIS family zinc finger 1
+  hsa:147694 ZNF548; zinc finger protein 548
+  hsa:1387 CREBBP; CREB binding protein
+  hsa:1788 DNMT3A; DNA methyltransferase 3 alpha
+  hsa:1789 DNMT3B; DNA methyltransferase 3 beta
+  hsa:169792 GLIS3; GLIS family zinc finger 3
+  hsa:170825 GSX2; GS homeobox 2
+  hsa:1750 DLX6; distal-less homeobox 6
+  hsa:1746 DLX2; distal-less homeobox 2
+  hsa:1747 DLX3; distal-less homeobox 3
+  hsa:170302 ARX; aristaless related homeobox
+  hsa:158800 RHOXF1; Rhox homeobox family member 1
+  hsa:1523 CUX1; cut like homeobox 1
+  hsa:2100 ESR2; estrogen receptor 2
+  hsa:2103 ESRRB; estrogen related receptor beta
+  hsa:1960 EGR3; early growth response 3
+  hsa:200424 TET3; tet methylcytosine dioxygenase 3
+  hsa:2018 EMX2; empty spiracles homeobox 2
+  hsa:2020 EN2; engrailed homeobox 2
+  hsa:1997 ELF1; E74 like ETS transcription factor 1
+  hsa:2077 ERF; ETS2 repressor factor
+  hsa:2078 ERG; ETS transcription factor ERG
+  hsa:2033 EP300; E1A binding protein p300
+  hsa:22890 ZBTB1; zinc finger and BTB domain containing 1
+  hsa:23090 ZNF423; zinc finger protein 423
+  hsa:23040 MYT1L; myelin transcription factor 1 like
+  hsa:22823 MTF2; metal response element binding transcription factor 2
+  hsa:2290 FOXG1; forkhead box G1
+  hsa:23152 CIC; capicua transcriptional repressor
+  hsa:23261 CAMTA1; calmodulin binding transcription activator 1
+  hsa:2355 FOSL2; FOS like 2, AP-1 transcription factor subunit
+  hsa:256297 PTF1A; pancreas associated transcription factor 1a
+  hsa:23462 HEY1; hes related family bHLH transcription factor with YRPW motif 1
+  hsa:253738 EBF3; EBF transcription factor 3
+  hsa:23414 ZFPM2; zinc finger protein, FOG family member 2
+  hsa:23522 KAT6B; lysine acetyltransferase 6B
+  hsa:23394 ADNP; activity dependent neuroprotector homeobox
+  hsa:23316 CUX2; cut like homeobox 2
+  hsa:23314 SATB2; SATB homeobox 2
+  hsa:2627 GATA6; GATA binding protein 6
+  hsa:27107 ZBTB11; zinc finger and BTB domain containing 11
+  hsa:26137 ZBTB20; zinc finger and BTB domain containing 20
+  hsa:27332 ZNF638; zinc finger protein 638
+  hsa:27086 FOXP1; forkhead box P1
+  hsa:2736 GLI2; GLI family zinc finger 2
+  hsa:2737 GLI3; GLI family zinc finger 3
+  hsa:30062 RAX; retina and anterior neural fold homeobox
+  hsa:283078 MKX; mohawk homeobox
+  hsa:30009 TBX21; T-box transcription factor 21
+  hsa:367 
+  hsa:3097 HIVEP2; HIVEP zinc finger 2
+  hsa:340385 ZNF517; zinc finger protein 517
+  hsa:349075 ZNF713; zinc finger protein 713
+  hsa:3198 HOXA1; homeobox A1
+  hsa:3516 RBPJ; recombination signal binding protein for immunoglobulin kappa J region
+  hsa:4094 MAF; MAF bZIP transcription factor
+  hsa:4335 MNT; MAX network transcriptional repressor
+  hsa:4306 NR3C2; nuclear receptor subfamily 3 group C member 2
+  hsa:4297 KMT2A; lysine methyltransferase 2A
+  hsa:4152 MBD1; methyl-CpG binding domain protein 1
+  hsa:4010 LMX1B; LIM homeobox transcription factor 1 beta
+  hsa:4212 MEIS2; Meis homeobox 2
+  hsa:4208 MEF2C; myocyte enhancer factor 2C
+  hsa:4330 MN1; MN1 proto-oncogene, transcriptional regulator
+  hsa:4861 NPAS1; neuronal PAS domain protein 1
+  hsa:4862 NPAS2; neuronal PAS domain protein 2
+  hsa:4609 MYC; MYC proto-oncogene, bHLH transcription factor
+  hsa:4613 MYCN; MYCN proto-oncogene, bHLH transcription factor
+  hsa:4774 NFIA; nuclear factor I A
+  hsa:4781 NFIB; nuclear factor I B
+  hsa:4784 NFIX; nuclear factor I X
+  hsa:4929 NR4A2; nuclear receptor subfamily 4 group A member 2
+  hsa:473 RERE; arginine-glutamic acid dipeptide repeats
+  hsa:4520 MTF1; metal regulatory transcription factor 1
+  hsa:4661 MYT1; myelin transcription factor 1
+  hsa:4821 NKX2-2; NK2 homeobox 2
+  hsa:4488 MSX2; msh homeobox 2
+  hsa:5013 OTX1; orthodenticle homeobox 1
+  hsa:5015 OTX2; orthodenticle homeobox 2
+  hsa:463 ZFHX3; zinc finger homeobox 3
+  hsa:4775 NFATC3; nuclear factor of activated T cells 3
+  hsa:51341 ZBTB7A; zinc finger and BTB domain containing 7A
+  hsa:5076 PAX2; paired box 2
+  hsa:5077 PAX3; paired box 3
+  hsa:5079 PAX5; paired box 5
+  hsa:5080 PAX6; paired box 6
+  hsa:5087 PBX1; PBX homeobox 1
+  hsa:50943 FOXP3; forkhead box P3
+  hsa:50945 TBX22; T-box transcription factor 22
+  hsa:546 ATRX; ATRX chromatin remodeler
+  hsa:5324 PLAG1; PLAG1 zinc finger
+  hsa:53335 BCL11A; BAF chromatin remodeling complex subunit BCL11A
+  hsa:54897 CASZ1; castor zinc finger 1
+  hsa:54790 TET2; tet methylcytosine dioxygenase 2
+  hsa:5307 PITX1; paired like homeodomain 1
+  hsa:5455 POU3F3; POU class 3 homeobox 3
+  hsa:5316 PKNOX1; PBX/knotted 1 homeobox 1
+  hsa:54738 FEV; FEV transcription factor, ETS family member
+  hsa:55079 FEZF2; FEZ family zinc finger 2
+  hsa:55553 SOX6; SRY-box transcription factor 6
+  hsa:57459 GATAD2B; GATA zinc finger domain containing 2B
+  hsa:55906 ZC4H2; zinc finger C4H2-type containing
+  hsa:5991 RFX3; regulatory factor X3
+  hsa:5992 RFX4; regulatory factor X4
+  hsa:5915 RARB; retinoic acid receptor beta
+  hsa:6095 RORA; RAR related orphan receptor A
+  hsa:6096 RORB; RAR related orphan receptor B
+  hsa:57684 ZBTB26; zinc finger and BTB domain containing 26
+  hsa:5978 REST; RE1 silencing transcription factor
+  hsa:57616 TSHZ3; teashirt zinc finger homeobox 3
+  hsa:59269 HIVEP3; HIVEP zinc finger 3
+  hsa:58499 ZNF462; zinc finger protein 462
+  hsa:6304 SATB1; SATB homeobox 1
+  hsa:5934 RBL2; RB transcriptional corepressor like 2
+  hsa:5813 PURA; purine rich element binding protein A
+  hsa:6492 SIM1; SIM bHLH transcription factor 1
+  hsa:64919 BCL11B; BAF chromatin remodeling complex subunit BCL11B
+  hsa:63925 ZNF335; zinc finger protein 335
+  hsa:6473 SHOX; short stature homeobox
+  hsa:6496 SIX3; SIX homeobox 3
+  hsa:6657 SOX2; SRY-box transcription factor 2
+  hsa:6925 TCF4; transcription factor 4
+  hsa:6938 TCF12; transcription factor 12
+  hsa:7291 TWIST1; twist family bHLH transcription factor 1
+  hsa:7030 TFE3; transcription factor binding to IGHM enhancer 3
+  hsa:7067 THRA; thyroid hormone receptor alpha
+  hsa:7068 THRB; thyroid hormone receptor beta
+  hsa:7025 NR2F1; nuclear receptor subfamily 2 group F member 1
+  hsa:6942 TCF20; transcription factor 20
+  hsa:7080 NKX2-1; NK2 homeobox 1
+  hsa:7050 TGIF1; TGFB induced factor homeobox 1
+  hsa:6658 SOX3; SRY-box transcription factor 3
+  hsa:6659 SOX4; SRY-box transcription factor 4
+  hsa:6664 SOX11; SRY-box transcription factor 11
+  hsa:6660 SOX5; SRY-box transcription factor 5
+  hsa:6663 SOX10; SRY-box transcription factor 10
+  hsa:6934 TCF7L2; transcription factor 7 like 2
+  hsa:6749 SSRP1; structure specific recognition protein 1
+  hsa:7343 UBTF; upstream binding transcription factor
+  hsa:6899 TBX1; T-box transcription factor 1
+  hsa:6909 TBX2; T-box transcription factor 2
+  hsa:7421 VDR; vitamin D receptor
+  hsa:7545 ZIC1; Zic family member 1
+  hsa:7546 ZIC2; Zic family member 2
+  hsa:7704 ZBTB16; zinc finger and BTB domain containing 16
+  hsa:7528 YY1; YY1 transcription factor
+  hsa:7701 ZNF142; zinc finger protein 142
+  hsa:7707 ZNF148; zinc finger protein 148
+  hsa:7552 ZNF711; zinc finger protein 711
+  hsa:7566 ZNF18; zinc finger protein 18
+  hsa:7849 PAX8; paired box 8
+  hsa:83855 KLF16; Kruppel like factor 16
+  hsa:7994 KAT6A; lysine acetyltransferase 6A
+  hsa:8609 KLF7; Kruppel like factor 7
+  hsa:84527 ZNF559; zinc finger protein 559
+  hsa:84148 KAT8; lysine acetyltransferase 8
+  hsa:84295 PHF6; PHD finger protein 6
+  hsa:84504 NKX6-2; NK6 homeobox 2
+  hsa:8929 PHOX2B; paired like homeobox 2B
+  hsa:8820 HESX1; HESX homeobox 1
+  hsa:9603 NFE2L3; NFE2 like bZIP transcription factor 3
+  hsa:9915 ARNT2; aryl hydrocarbon receptor nuclear translocator 2
+  hsa:9572 NR1D1; nuclear receptor subfamily 1 group D member 1
+  hsa:9841 ZBTB24; zinc finger and BTB domain containing 24
+  hsa:9757 KMT2B; lysine methyltransferase 2B
+  hsa:9839 ZEB2; zinc finger E-box binding homeobox 2
+  hsa:93986 FOXP2; forkhead box P2
+
+hsa04147 Exosome (156)
+
+  hsa:10059 DNM1L; dynamin 1 like
+  hsa:10575 CCT4; chaperonin containing TCP1 subunit 4
+  hsa:10381 TUBB3; tubulin beta 3 class III
+  hsa:10382 TUBB4A; tubulin beta 4A class IVa
+  hsa:10060 ABCC9; ATP binding cassette subfamily C member 9
+  hsa:10844 TUBGCP2; tubulin gamma complex associated protein 2
+  hsa:11151 CORO1A; coronin 1A
+  hsa:112755 STX1B; syntaxin 1B
+  hsa:10768 AHCYL1; adenosylhomocysteinase like 1
+  hsa:10841 FTCD; formimidoyltransferase cyclodeaminase
+  hsa:10681 GNB5; G protein subunit beta 5
+  hsa:1213 CLTC; clathrin heavy chain
+  hsa:1200 TPP1; tripeptidyl peptidase 1
+  hsa:137492 VPS37A; VPS37A subunit of ESCRT-I
+  hsa:128239 IQGAP3; IQ motif containing GTPase activating protein 3
+  hsa:1314 COPA; COPI coat complex subunit alpha
+  hsa:1476 CSTB; cystatin B
+  hsa:1284 COL4A2; collagen type IV alpha 2 chain
+  hsa:1282 COL4A1; collagen type IV alpha 1 chain
+  hsa:1778 DYNC1H1; dynein cytoplasmic 1 heavy chain 1
+  hsa:1759 DNM1; dynamin 1
+  hsa:1803 DPP4; dipeptidyl peptidase 4
+  hsa:1636 ACE; angiotensin I converting enzyme
+  hsa:1509 CTSD; cathepsin D
+  hsa:1644 DDC; dopa decarboxylase
+  hsa:1738 DLD; dihydrolipoamide dehydrogenase
+  hsa:161 AP2A2; adaptor related protein complex 2 subunit alpha 2
+  hsa:2027 ENO3; enolase 3
+  hsa:1917 EEF1A2; eukaryotic translation elongation factor 1 alpha 2
+  hsa:2195 FAT1; FAT atypical cadherin 1
+  hsa:2194 FASN; fatty acid synthase
+  hsa:192666 KRT24; keratin 24
+  hsa:2182 ACSL4; acyl-CoA synthetase long chain family member 4
+  hsa:203068 TUBB; tubulin beta class I
+  hsa:191 AHCY; adenosylhomocysteinase
+  hsa:203 AK1; adenylate kinase 1
+  hsa:2184 FAH; fumarylacetoacetate hydrolase
+  hsa:2243 FGA; fibrinogen alpha chain
+  hsa:2108 ETFA; electron transfer flavoprotein subunit alpha
+  hsa:2316 FLNA; filamin A
+  hsa:2318 FLNC; filamin C
+  hsa:22930 RAB3GAP1; RAB3 GTPase activating protein catalytic subunit 1
+  hsa:22800 RRAS2; RAS related 2
+  hsa:2315 MLANA; melan-A
+  hsa:23002 DAAM1; dishevelled associated activator of morphogenesis 1
+  hsa:2348 FOLR1; folate receptor alpha
+  hsa:23545 ATP6V0A2; ATPase H+ transporting V0 subunit a2
+  hsa:2517 FUCA1; alpha-L-fucosidase 1
+  hsa:23784 POTEH; POTE ankyrin domain family member H
+  hsa:2664 GDI1; GDP dissociation inhibitor 1
+  hsa:2683 B4GALT1; beta-1,4-galactosyltransferase 1
+  hsa:2632 GBE1; 1,4-alpha-glucan branching enzyme 1
+  hsa:2710 GK; glycerol kinase
+  hsa:2720 GLB1; galactosidase beta 1
+  hsa:26227 PHGDH; phosphoglycerate dehydrogenase
+  hsa:2770 GNAI1; G protein subunit alpha i1
+  hsa:301 ANXA1; annexin A1
+  hsa:2778 GNAS; GNAS complex locus
+  hsa:2782 GNB1; G protein subunit beta 1
+  hsa:3020 H3-3A; H3.3 histone A
+  hsa:2752 GLUL; glutamate-ammonia ligase
+  hsa:2937 GSS; glutathione synthetase
+  hsa:2776 GNAQ; G protein subunit alpha q
+  hsa:2775 GNAO1; G protein subunit alpha o1
+  hsa:2760 GM2A; GM2 ganglioside activator
+  hsa:3028 HSD17B10; hydroxysteroid 17-beta dehydrogenase 10
+  hsa:3105 HLA-A; major histocompatibility complex, class I, A
+  hsa:3106 HLA-B; major histocompatibility complex, class I, B
+  hsa:3135 HLA-G; major histocompatibility complex, class I, G
+  hsa:375 ARF1; ADP ribosylation factor 1
+  hsa:3115 HLA-DPB1; major histocompatibility complex, class II, DP beta 1
+  hsa:3123 HLA-DRB1; major histocompatibility complex, class II, DR beta 1
+  hsa:3685 ITGAV; integrin subunit alpha V
+  hsa:3690 ITGB3; integrin subunit beta 3
+  hsa:3329 HSPD1; heat shock protein family D (Hsp60) member 1
+  hsa:3615 IMPDH2; inosine monophosphate dehydrogenase 2
+  hsa:343413 FCRL6; Fc receptor like 6
+  hsa:353288 KRT26; keratin 26
+  hsa:347733 TUBB2B; tubulin beta 2B class IIb
+  hsa:3176 HNMT; histamine N-methyltransferase
+  hsa:3242 HPD; 4-hydroxyphenylpyruvate dioxygenase
+  hsa:3265 HRAS; HRas proto-oncogene, GTPase
+  hsa:3339 HSPG2; heparan sulfate proteoglycan 2
+  hsa:340024 SLC6A19; solute carrier family 6 member 19
+  hsa:339122 RAB43; RAB43, member RAS oncogene family
+  hsa:3798 KIF5A; kinesin family member 5A
+  hsa:3800 KIF5C; kinesin family member 5C
+  hsa:4155 MBP; myelin basic protein
+  hsa:3827 KNG1; kininogen 1
+  hsa:3920 LAMP2; lysosomal associated membrane protein 2
+  hsa:415 ARSL; arylsulfatase L
+  hsa:427 ASAH1; N-acylsphingosine amidohydrolase 1
+  hsa:435 ASL; argininosuccinate lyase
+  hsa:4643 MYO1E; myosin IE
+  hsa:476 ATP1A1; ATPase Na+/K+ transporting subunit alpha 1
+  hsa:477 ATP1A2; ATPase Na+/K+ transporting subunit alpha 2
+  hsa:478 ATP1A3; ATPase Na+/K+ transporting subunit alpha 3
+  hsa:4893 NRAS; NRAS proto-oncogene, GTPase
+  hsa:5048 PAFAH1B1; platelet activating factor acetylhydrolase 1b regulatory subunit 1
+  hsa:4669 NAGLU; N-acetyl-alpha-glucosaminidase
+  hsa:471 ATIC; 5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase
+  hsa:5054 SERPINE1; serpin family E member 1
+  hsa:4627 MYH9; myosin heavy chain 9
+  hsa:4628 MYH10; myosin heavy chain 10
+  hsa:5119 CHMP1A; charged multivesicular body protein 1A
+  hsa:5092 PCBD1; pterin-4 alpha-carbinolamine dehydratase 1
+  hsa:5230 PGK1; phosphoglycerate kinase 1
+  hsa:51807 TUBA8; tubulin alpha 8
+  hsa:5354 PLP1; proteolipid protein 1
+  hsa:5444 PON1; paraoxonase 1
+  hsa:535 ATP6V0A1; ATPase H+ transporting V0 subunit a1
+  hsa:526 ATP6V1B2; ATPase H+ transporting V1 subunit B2
+  hsa:54862 CC2D1A; coiled-coil and C2 domain containing 1A
+  hsa:5515 PPP2CA; protein phosphatase 2 catalytic subunit alpha
+  hsa:5594 MAPK1; mitogen-activated protein kinase 1
+  hsa:5595 MAPK3; mitogen-activated protein kinase 3
+  hsa:5754 PTK7; protein tyrosine kinase 7 (inactive)
+  hsa:5660 PSAP; prosaposin
+  hsa:60 ACTB; actin beta
+  hsa:5862 RAB2A; RAB2A, member RAS oncogene family
+  hsa:5879 RAC1; Rac family small GTPase 1
+  hsa:6092 ROBO2; roundabout guidance receptor 2
+  hsa:71 ACTG1; actin gamma 1
+  hsa:7094 TLN1; talin 1
+  hsa:7102 TSPAN7; tetraspanin 7
+  hsa:721 C4B; complement C4B (Chido blood group)
+  hsa:7280 TUBB2A; tubulin beta 2A class IIa
+  hsa:6697 SPR; sepiapterin reductase
+  hsa:7273 TTN; titin
+  hsa:6812 STXBP1; syntaxin binding protein 1
+  hsa:7007 TECTA; tectorin alpha
+  hsa:70 ACTC1; actin alpha cardiac muscle 1
+  hsa:7106 
+  hsa:7167 TPI1; triosephosphate isomerase 1
+  hsa:7531 YWHAE; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon
+  hsa:7532 YWHAG; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma
+  hsa:7846 TUBA1A; tubulin alpha 1a
+  hsa:760 CA2; carbonic anhydrase 2
+  hsa:7841 MOGS; mannosyl-oligosaccharide glucosidase
+  hsa:79784 MYH14; myosin heavy chain 14
+  hsa:8218 CLTCL1; clathrin heavy chain like 1
+  hsa:81 ACTN4; actinin alpha 4
+  hsa:84100 ARL6; ADP ribosylation factor like GTPase 6
+  hsa:80781 COL18A1; collagen type XVIII alpha 1 chain
+  hsa:8450 CUL4B; cullin 4B
+  hsa:86 ACTL6A; actin like 6A
+  hsa:8665 EIF3F; eukaryotic translation initiation factor 3 subunit F
+  hsa:9230 RAB11B; RAB11B, member RAS oncogene family
+  hsa:8970 H2BC11; H2B clustered histone 11
+  hsa:8997 KALRN; kalirin RhoGEF kinase
+  hsa:8803 SUCLA2; succinate-CoA ligase ADP-forming subunit beta
+  hsa:8766 RAB11A; RAB11A, member RAS oncogene family
+  hsa:9276 COPB2; COPI coat complex subunit beta 2
+  hsa:9777 TM9SF4; transmembrane 9 superfamily member 4
+  hsa:95 ACY1; aminoacylase 1
+  hsa:998 CDC42; cell division cycle 42
+
+hsa04121 Ubiquitin system (112)
+
+  hsa:10055 SAE1; SUMO1 activating enzyme subunit 1
+  hsa:10075 HUWE1; HECT, UBA and WWE domain containing E3 ubiquitin protein ligase 1
+  hsa:10273 STUB1; STIP1 homology and U-box containing protein 1
+  hsa:10293 TRAIP; TRAF interacting protein
+  hsa:10116 FEM1B; fem-1 homolog B
+  hsa:10617 STAMBP; STAM binding protein
+  hsa:11059 WWP1; WW domain containing E3 ubiquitin protein ligase 1
+  hsa:11342 RNF13; ring finger protein 13
+  hsa:11275 KLHL2; kelch like family member 2
+  hsa:112939 NACC1; nucleus accumbens associated 1
+  hsa:1161 ERCC8; ERCC excision repair 8, CSA ubiquitin ligase complex subunit
+  hsa:11160 ERLIN2; ER lipid raft associated 2
+  hsa:143279 HECTD2; HECT domain E3 ubiquitin protein ligase 2
+  hsa:121551 BTBD11; BTB domain containing 11
+  hsa:142686 ASB14; ankyrin repeat and SOCS box containing 14
+  hsa:152006 RNF38; ring finger protein 38
+  hsa:154881 KCTD7; potassium channel tetramerization domain containing 7
+  hsa:161725 OTUD7A; OTU deubiquitinase 7A
+  hsa:197131 UBR1; ubiquitin protein ligase E3 component n-recognin 1
+  hsa:205564 SENP5; SUMO specific peptidase 5
+  hsa:22954 TRIM32; tripartite motif containing 32
+  hsa:23291 FBXW11; F-box and WD repeat domain containing 11
+  hsa:22890 ZBTB1; zinc finger and BTB domain containing 1
+  hsa:23221 RHOBTB2; Rho related BTB domain containing 2
+  hsa:23327 NEDD4L; NEDD4 like E3 ubiquitin protein ligase
+  hsa:254170 FBXO33; F-box protein 33
+  hsa:253980 KCTD13; potassium channel tetramerization domain containing 13
+  hsa:254065 BRWD3; bromodomain and WD repeat domain containing 3
+  hsa:26224 FBXL3; F-box and leucine rich repeat protein 3
+  hsa:26235 FBXL4; F-box and leucine rich repeat protein 4
+  hsa:26262 TSPAN17; tetraspanin 17
+  hsa:27107 ZBTB11; zinc finger and BTB domain containing 11
+  hsa:26137 ZBTB20; zinc finger and BTB domain containing 20
+  hsa:26054 SENP6; SUMO specific peptidase 6
+  hsa:283450 HECTD4; HECT domain E3 ubiquitin protein ligase 4
+  hsa:28952 CCDC22; coiled-coil domain containing 22
+  hsa:373 TRIM23; tripartite motif containing 23
+  hsa:344558 SH3RF3; SH3 domain containing ring finger 3
+  hsa:3652 IPP; intracisternal A particle-promoted polypeptide
+  hsa:4281 MID1; midline 1
+  hsa:389856 USP27X; ubiquitin specific peptidase 27 X-linked
+  hsa:4591 TRIM37; tripartite motif containing 37
+  hsa:51569 UFM1; ubiquitin fold modifier 1
+  hsa:51506 UFC1; ubiquitin-fold modifier conjugating enzyme 1
+  hsa:51366 UBR5; ubiquitin protein ligase E3 component n-recognin 5
+  hsa:5071 PRKN; parkin RBR E3 ubiquitin protein ligase
+  hsa:51592 TRIM33; tripartite motif containing 33
+  hsa:51132 RLIM; ring finger protein, LIM domain interacting
+  hsa:51588 PIAS4; protein inhibitor of activated STAT 4
+  hsa:51725 FBXO40; F-box protein 40
+  hsa:51341 ZBTB7A; zinc finger and BTB domain containing 7A
+  hsa:51133 KCTD3; potassium channel tetramerization domain containing 3
+  hsa:51185 CRBN; cereblon
+  hsa:51343 FZR1; fizzy and cell division cycle 20 related 1
+  hsa:51633 OTUD6B; OTU deubiquitinase 6B
+  hsa:5192 PEX10; peroxisomal biogenesis factor 10
+  hsa:5193 PEX12; peroxisomal biogenesis factor 12
+  hsa:54941 RNF125; ring finger protein 125
+  hsa:55023 PHIP; pleckstrin homology domain interacting protein
+  hsa:57448 BIRC6; baculoviral IAP repeat containing 6
+  hsa:57154 SMURF1; SMAD specific E3 ubiquitin protein ligase 1
+  hsa:57531 HACE1; HECT domain and ankyrin repeat containing E3 ubiquitin protein ligase 1
+  hsa:57520 HECW2; HECT, C2 and WW domain containing E3 ubiquitin protein ligase 2
+  hsa:57534 MIB1; MIB E3 ubiquitin protein ligase 1
+  hsa:55975 KLHL7; kelch like family member 7
+  hsa:5828 PEX2; peroxisomal biogenesis factor 2
+  hsa:57674 RNF213; ring finger protein 213
+  hsa:57684 ZBTB26; zinc finger and BTB domain containing 26
+  hsa:6477 SIAH1; siah E3 ubiquitin protein ligase 1
+  hsa:64219 PJA1; praja ring finger ubiquitin ligase 1
+  hsa:64320 RNF25; ring finger protein 25
+  hsa:64682 ANAPC1; anaphase promoting complex subunit 1
+  hsa:7319 UBE2A; ubiquitin conjugating enzyme E2 A
+  hsa:7328 UBE2H; ubiquitin conjugating enzyme E2 H
+  hsa:7337 UBE3A; ubiquitin protein ligase E3A
+  hsa:672 BRCA1; BRCA1 DNA repair associated
+  hsa:675 BRCA2; BRCA2 DNA repair associated
+  hsa:79876 UBA5; ubiquitin like modifier activating enzyme 5
+  hsa:79699 ZYG11B; zyg-11 family member B, cell cycle regulator
+  hsa:7704 ZBTB16; zinc finger and BTB domain containing 16
+  hsa:7874 USP7; ubiquitin specific peptidase 7
+  hsa:83737 ITCH; itchy E3 ubiquitin protein ligase
+  hsa:81603 TRIM8; tripartite motif containing 8
+  hsa:80204 FBXO11; F-box protein 11
+  hsa:80311 KLHL15; kelch like family member 15
+  hsa:8139 GAN; gigaxonin
+  hsa:8405 SPOP; speckle type BTB/POZ protein
+  hsa:8216 LZTR1; leucine zipper like transcription regulator 1
+  hsa:80344 DCAF11; DDB1 and CUL4 associated factor 11
+  hsa:80067 DCAF17; DDB1 and CUL4 associated factor 17
+  hsa:80232 WDR26; WD repeat domain 26
+  hsa:8239 USP9X; ubiquitin specific peptidase 9 X-linked
+  hsa:8287 USP9Y; ubiquitin specific peptidase 9 Y-linked
+  hsa:84231 TRAF7; TNF receptor associated factor 7
+  hsa:84282 RNF135; ring finger protein 135
+  hsa:8453 CUL2; cullin 2
+  hsa:8452 CUL3; cullin 3
+  hsa:84464 SLX4; SLX4 structure-specific endonuclease subunit
+  hsa:8450 CUL4B; cullin 4B
+  hsa:85015 USP45; ubiquitin specific peptidase 45
+  hsa:84132 USP42; ubiquitin specific peptidase 42
+  hsa:89910 UBE3B; ubiquitin protein ligase E3B
+  hsa:8925 HERC1; HECT and RLD domain containing E3 ubiquitin protein ligase family member 1
+  hsa:8924 HERC2; HECT and RLD domain containing E3 ubiquitin protein ligase 2
+  hsa:867 CBL; Cbl proto-oncogene
+  hsa:8945 BTRC; beta-transducin repeat containing E3 ubiquitin protein ligase
+  hsa:89970 RSPRY1; ring finger and SPRY domain containing 1
+  hsa:9690 UBE3C; ubiquitin protein ligase E3C
+  hsa:9320 TRIP12; thyroid hormone receptor interactor 12
+  hsa:9841 ZBTB24; zinc finger and BTB domain containing 24
+  hsa:9820 CUL7; cullin 7
+  hsa:9958 USP15; ubiquitin specific peptidase 15
+
+hsa01001 Protein kinases (104)
+
+  hsa:10000 AKT3; AKT serine/threonine kinase 3
+  hsa:1021 CDK6; cyclin dependent kinase 6
+  hsa:1024 CDK8; cyclin dependent kinase 8
+  hsa:1025 CDK9; cyclin dependent kinase 9
+  hsa:10295 BCKDK; branched chain keto acid dehydrogenase kinase
+  hsa:11113 CIT; citron rho-interacting serine/threonine kinase
+  hsa:112858 TP53RK; TP53 regulating kinase
+  hsa:10733 PLK4; polo like kinase 4
+  hsa:11011 TLK2; tousled like kinase 2
+  hsa:114783 LMTK3; lemur tyrosine kinase 3
+  hsa:1454 CSNK1E; casein kinase 1 epsilon
+  hsa:1457 CSNK2A1; casein kinase 2 alpha 1
+  hsa:149420 PDIK1L; PDLIM1 interacting kinase 1 like
+  hsa:1436 CSF1R; colony stimulating factor 1 receptor
+  hsa:1760 DMPK; DM1 protein kinase
+  hsa:150094 SIK1; salt inducible kinase 1
+  hsa:1859 DYRK1A; dual specificity tyrosine phosphorylation regulated kinase 1A
+  hsa:2260 
+  hsa:2263 FGFR2; fibroblast growth factor receptor 2
+  hsa:2261 FGFR3; fibroblast growth factor receptor 3
+  hsa:2048 EPHB2; EPH receptor B2
+  hsa:22983 MAST1; microtubule associated serine/threonine kinase 1
+  hsa:23097 CDK19; cyclin dependent kinase 19
+  hsa:23043 
+  hsa:23683 PRKD3; protein kinase D3
+  hsa:25865 PRKD2; protein kinase D2
+  hsa:23476 BRD4; bromodomain containing 4
+  hsa:2475 MTOR; mechanistic target of rapamycin kinase
+  hsa:2444 FRK; fyn related Src family tyrosine kinase
+  hsa:27347 STK39; serine/threonine kinase 39
+  hsa:2931 GSK3A; glycogen synthase kinase 3 alpha
+  hsa:30811 HUNK; hormonally up-regulated Neu-associated kinase
+  hsa:3480 IGF1R; insulin like growth factor 1 receptor
+  hsa:4139 MARK1; microtubule affinity regulating kinase 1
+  hsa:4217 MAP3K5; mitogen-activated protein kinase kinase kinase 5
+  hsa:4294 MAP3K10; mitogen-activated protein kinase kinase kinase 10
+  hsa:4233 MET; MET proto-oncogene, receptor tyrosine kinase
+  hsa:4638 MYLK; myosin light chain kinase
+  hsa:5058 PAK1; p21 (RAC1) activated kinase 1
+  hsa:472 ATM; ATM serine/threonine kinase
+  hsa:4914 NTRK1; neurotrophic receptor tyrosine kinase 1
+  hsa:4915 NTRK2; neurotrophic receptor tyrosine kinase 2
+  hsa:4916 NTRK3; neurotrophic receptor tyrosine kinase 3
+  hsa:4920 ROR2; receptor tyrosine kinase like orphan receptor 2
+  hsa:5062 PAK2; p21 (RAC1) activated kinase 2
+  hsa:5063 PAK3; p21 (RAC1) activated kinase 3
+  hsa:5164 PDK2; pyruvate dehydrogenase kinase 2
+  hsa:51592 TRIM33; tripartite motif containing 33
+  hsa:5159 PDGFRB; platelet derived growth factor receptor beta
+  hsa:53944 CSNK1G1; casein kinase 1 gamma 1
+  hsa:545 ATR; ATR serine/threonine kinase
+  hsa:5567 PRKACB; protein kinase cAMP-activated catalytic subunit beta
+  hsa:5578 PRKCA; protein kinase C alpha
+  hsa:5579 PRKCB; protein kinase C beta
+  hsa:5582 PRKCG; protein kinase C gamma
+  hsa:5586 PKN2; protein kinase N2
+  hsa:5587 PRKD1; protein kinase D1
+  hsa:55681 SCYL2; SCY1 like pseudokinase 2
+  hsa:55359 STYK1; serine/threonine/tyrosine kinase 1
+  hsa:5594 MAPK1; mitogen-activated protein kinase 1
+  hsa:5595 MAPK3; mitogen-activated protein kinase 3
+  hsa:5604 MAP2K1; mitogen-activated protein kinase kinase 1
+  hsa:5605 MAP2K2; mitogen-activated protein kinase kinase 2
+  hsa:57551 TAOK1; TAO kinase 1
+  hsa:5610 EIF2AK2; eukaryotic translation initiation factor 2 alpha kinase 2
+  hsa:57410 SCYL1; SCY1 like pseudokinase 1
+  hsa:56997 COQ8A; coenzyme Q8A
+  hsa:5591 PRKDC; protein kinase, DNA-activated, catalytic subunit
+  hsa:5754 PTK7; protein tyrosine kinase 7 (inactive)
+  hsa:6197 RPS6KA3; ribosomal protein S6 kinase A3
+  hsa:6196 RPS6KA2; ribosomal protein S6 kinase A2
+  hsa:5894 RAF1; Raf-1 proto-oncogene, serine/threonine kinase
+  hsa:65267 WNK3; WNK lysine deficient protein kinase 3
+  hsa:658 BMPR1B; bone morphogenetic protein receptor type 1B
+  hsa:7273 TTN; titin
+  hsa:7204 TRIO; trio Rho guanine nucleotide exchange factor
+  hsa:6792 CDKL5; cyclin dependent kinase like 5
+  hsa:6885 MAP3K7; mitogen-activated protein kinase kinase kinase 7
+  hsa:673 BRAF; B-Raf proto-oncogene, serine/threonine kinase
+  hsa:701 BUB1B; BUB1 mitotic checkpoint serine/threonine kinase B
+  hsa:6872 TAF1; TATA-box binding protein associated factor 1
+  hsa:7301 TYRO3; TYRO3 protein tyrosine kinase
+  hsa:7010 TEK; TEK receptor tyrosine kinase
+  hsa:7443 VRK1; VRK serine/threonine kinase 1
+  hsa:814 CAMK4; calcium/calmodulin dependent protein kinase IV
+  hsa:815 CAMK2A; calcium/calmodulin dependent protein kinase II alpha
+  hsa:816 CAMK2B; calcium/calmodulin dependent protein kinase II beta
+  hsa:818 CAMK2G; calcium/calmodulin dependent protein kinase II gamma
+  hsa:8317 CDC7; cell division cycle 7
+  hsa:8295 TRRAP; transformation/transcription domain associated protein
+  hsa:8573 CASK; calcium/calmodulin dependent serine protein kinase
+  hsa:8558 CDK10; cyclin dependent kinase 10
+  hsa:8621 CDK13; cyclin dependent kinase 13
+  hsa:8517 IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+  hsa:84197 POMK; protein O-mannose kinase
+  hsa:9024 BRSK2; BR serine/threonine kinase 2
+  hsa:8997 KALRN; kalirin RhoGEF kinase
+  hsa:92335 STRADA; STE20 related adaptor alpha
+  hsa:90 
+  hsa:9578 CDC42BPB; CDC42 binding protein kinase beta
+  hsa:9891 NUAK1; NUAK family kinase 1
+  hsa:9344 TAOK2; TAO kinase 2
+  hsa:9451 EIF2AK3; eukaryotic translation initiation factor 2 alpha kinase 3
+  hsa:93627 TBCK; TBC1 domain containing kinase
+
+hsa04040 Ion channels (99)
+
+  hsa:10369 CACNG2; calcium voltage-gated channel auxiliary subunit gamma 2
+  hsa:10089 KCNK7; potassium two pore domain channel subfamily K member 7
+  hsa:1135 CHRNA2; cholinergic receptor nicotinic alpha 2 subunit
+  hsa:1137 CHRNA4; cholinergic receptor nicotinic alpha 4 subunit
+  hsa:1139 CHRNA7; cholinergic receptor nicotinic alpha 7 subunit
+  hsa:1142 CHRNB3; cholinergic receptor nicotinic beta 3 subunit
+  hsa:1181 CLCN2; chloride voltage-gated channel 2
+  hsa:1183 CLCN4; chloride voltage-gated channel 4
+  hsa:1186 CLCN7; chloride voltage-gated channel 7
+  hsa:170572 HTR3C; 5-hydroxytryptamine receptor 3C
+  hsa:2554 GABRA1; gamma-aminobutyric acid type A receptor subunit alpha1
+  hsa:2555 GABRA2; gamma-aminobutyric acid type A receptor subunit alpha2
+  hsa:2556 GABRA3; gamma-aminobutyric acid type A receptor subunit alpha3
+  hsa:2557 GABRA4; gamma-aminobutyric acid type A receptor subunit alpha4
+  hsa:2558 GABRA5; gamma-aminobutyric acid type A receptor subunit alpha5
+  hsa:2560 GABRB1; gamma-aminobutyric acid type A receptor subunit beta1
+  hsa:2562 GABRB3; gamma-aminobutyric acid type A receptor subunit beta3
+  hsa:2561 GABRB2; gamma-aminobutyric acid type A receptor subunit beta2
+  hsa:2566 GABRG2; gamma-aminobutyric acid type A receptor subunit gamma2
+  hsa:2567 GABRG3; gamma-aminobutyric acid type A receptor subunit gamma3
+  hsa:27012 KCNV1; potassium voltage-gated channel modifier subfamily V member 1
+  hsa:259232 NALCN; sodium leak channel, non-selective
+  hsa:2742 GLRA2; glycine receptor alpha 2
+  hsa:2890 GRIA1; glutamate ionotropic receptor AMPA type subunit 1
+  hsa:2891 GRIA2; glutamate ionotropic receptor AMPA type subunit 2
+  hsa:2892 GRIA3; glutamate ionotropic receptor AMPA type subunit 3
+  hsa:2893 GRIA4; glutamate ionotropic receptor AMPA type subunit 4
+  hsa:2898 GRIK2; glutamate ionotropic receptor kainate type subunit 2
+  hsa:2899 GRIK3; glutamate ionotropic receptor kainate type subunit 3
+  hsa:2900 GRIK4; glutamate ionotropic receptor kainate type subunit 4
+  hsa:2901 GRIK5; glutamate ionotropic receptor kainate type subunit 5
+  hsa:2894 
+  hsa:2895 GRID2; glutamate ionotropic receptor delta type subunit 2
+  hsa:2902 GRIN1; glutamate ionotropic receptor NMDA type subunit 1
+  hsa:2903 GRIN2A; glutamate ionotropic receptor NMDA type subunit 2A
+  hsa:2904 GRIN2B; glutamate ionotropic receptor NMDA type subunit 2B
+  hsa:2906 GRIN2D; glutamate ionotropic receptor NMDA type subunit 2D
+  hsa:285175 UNC80; unc-80 homolog, NALCN channel complex subunit
+  hsa:3359 HTR3A; 5-hydroxytryptamine receptor 3A
+  hsa:3708 ITPR1; inositol 1,4,5-trisphosphate receptor type 1
+  hsa:3736 KCNA1; potassium voltage-gated channel subfamily A member 1
+  hsa:3737 KCNA2; potassium voltage-gated channel subfamily A member 2
+  hsa:3739 KCNA4; potassium voltage-gated channel subfamily A member 4
+  hsa:3745 KCNB1; potassium voltage-gated channel subfamily B member 1
+  hsa:3746 KCNC1; potassium voltage-gated channel subfamily C member 1
+  hsa:3751 KCND2; potassium voltage-gated channel subfamily D member 2
+  hsa:343450 KCNT2; potassium sodium-activated channel subfamily T member 2
+  hsa:348980 HCN1; hyperpolarization activated cyclic nucleotide gated potassium channel 1
+  hsa:3752 KCND3; potassium voltage-gated channel subfamily D member 3
+  hsa:3756 KCNH1; potassium voltage-gated channel subfamily H member 1
+  hsa:3785 KCNQ2; potassium voltage-gated channel subfamily Q member 2
+  hsa:3786 KCNQ3; potassium voltage-gated channel subfamily Q member 3
+  hsa:3790 KCNS3; potassium voltage-gated channel modifier subfamily S member 3
+  hsa:3778 KCNMA1; potassium calcium-activated channel subfamily M alpha 1
+  hsa:3782 KCNN3; potassium calcium-activated channel subfamily N member 3
+  hsa:3763 
+  hsa:3766 KCNJ10; potassium inwardly rectifying channel subfamily J member 10
+  hsa:3767 KCNJ11; potassium inwardly rectifying channel subfamily J member 11
+  hsa:3768 KCNJ12; potassium inwardly rectifying channel subfamily J member 12
+  hsa:3772 KCNJ15; potassium inwardly rectifying channel subfamily J member 15
+  hsa:4308 TRPM1; transient receptor potential cation channel subfamily M member 1
+  hsa:5026 P2RX5; purinergic receptor P2X 5
+  hsa:50801 KCNK4; potassium two pore domain channel subfamily K member 4
+  hsa:51305 KCNK9; potassium two pore domain channel subfamily K member 9
+  hsa:54714 CNGB3; cyclic nucleotide gated channel subunit beta 3
+  hsa:55799 CACNA2D3; calcium voltage-gated channel auxiliary subunit alpha2delta 3
+  hsa:55129 ANO10; anoctamin 10
+  hsa:56479 KCNQ5; potassium voltage-gated channel subfamily Q member 5
+  hsa:57192 MCOLN1; mucolipin TRP cation channel 1
+  hsa:6323 SCN1A; sodium voltage-gated channel alpha subunit 1
+  hsa:6324 SCN1B; sodium voltage-gated channel beta subunit 1
+  hsa:57582 KCNT1; potassium sodium-activated channel subfamily T member 1
+  hsa:59341 TRPV4; transient receptor potential cation channel subfamily V member 4
+  hsa:57578 UNC79; unc-79 homolog, NALCN channel complex subunit
+  hsa:6262 RYR2; ryanodine receptor 2
+  hsa:6326 SCN2A; sodium voltage-gated channel alpha subunit 2
+  hsa:6328 SCN3A; sodium voltage-gated channel alpha subunit 3
+  hsa:6329 SCN4A; sodium voltage-gated channel alpha subunit 4
+  hsa:6334 
+  hsa:6335 SCN9A; sodium voltage-gated channel alpha subunit 9
+  hsa:6336 SCN10A; sodium voltage-gated channel alpha subunit 10
+  hsa:63982 ANO3; anoctamin 3
+  hsa:63895 PIEZO2; piezo type mechanosensitive ion channel component 2
+  hsa:7225 TRPC6; transient receptor potential cation channel subfamily C member 6
+  hsa:773 CACNA1A; calcium voltage-gated channel subunit alpha1 A
+  hsa:774 CACNA1B; calcium voltage-gated channel subunit alpha1 B
+  hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+  hsa:776 CACNA1D; calcium voltage-gated channel subunit alpha1 D
+  hsa:777 CACNA1E; calcium voltage-gated channel subunit alpha1 E
+  hsa:778 CACNA1F; calcium voltage-gated channel subunit alpha1 F
+  hsa:781 CACNA2D1; calcium voltage-gated channel auxiliary subunit alpha2delta 1
+  hsa:782 CACNB1; calcium voltage-gated channel auxiliary subunit beta 1
+  hsa:783 CACNB2; calcium voltage-gated channel auxiliary subunit beta 2
+  hsa:80036 TRPM3; transient receptor potential cation channel subfamily M member 3
+  hsa:8913 CACNA1G; calcium voltage-gated channel subunit alpha1 G
+  hsa:8912 CACNA1H; calcium voltage-gated channel subunit alpha1 H
+  hsa:8911 CACNA1I; calcium voltage-gated channel subunit alpha1 I
+  hsa:9254 CACNA2D2; calcium voltage-gated channel auxiliary subunit alpha2delta 2
+  hsa:9132 KCNQ4; potassium voltage-gated channel subfamily Q member 4
+
+hsa02000 Transporters (98)
+
+  hsa:10347 ABCA7; ATP binding cassette subfamily A member 7
+  hsa:10349 ABCA10; ATP binding cassette subfamily A member 10
+  hsa:10060 ABCC9; ATP binding cassette subfamily C member 9
+  hsa:10479 SLC9A6; solute carrier family 9 member A6
+  hsa:10166 SLC25A15; solute carrier family 25 member 15
+  hsa:10237 SLC35B1; solute carrier family 35 member B1
+  hsa:10577 NPC2; NPC intracellular cholesterol transporter 2
+  hsa:114571 SLC22A9; solute carrier family 22 member 9
+  hsa:115286 SLC25A26; solute carrier family 25 member 26
+  hsa:10999 SLC27A4; solute carrier family 27 member 4
+  hsa:113235 SLC46A1; solute carrier family 46 member 1
+  hsa:113278 SLC52A3; solute carrier family 52 member 3
+  hsa:112476 PRRT2; proline rich transmembrane protein 2
+  hsa:124565 SLC38A10; solute carrier family 38 member 10
+  hsa:119559 SFXN4; sideroflexin 4
+  hsa:123606 NIPA1; NIPA magnesium transporter 1
+  hsa:154664 ABCA13; ATP binding cassette subfamily A member 13
+  hsa:1678 TIMM8A; translocase of inner mitochondrial membrane 8A
+  hsa:20 ABCA2; ATP binding cassette subfamily A member 2
+  hsa:22 ABCB7; ATP binding cassette subfamily B member 7
+  hsa:215 ABCD1; ATP binding cassette subfamily D member 1
+  hsa:222962 SLC29A4; solute carrier family 29 member 4
+  hsa:23428 SLC7A8; solute carrier family 7 member 8
+  hsa:25769 SLC24A2; solute carrier family 24 member 2
+  hsa:23443 SLC35A3; solute carrier family 35 member A3
+  hsa:23446 SLC44A1; solute carrier family 44 member 1
+  hsa:256471 MFSD8; major facilitator superfamily domain containing 8
+  hsa:2348 FOLR1; folate receptor alpha
+  hsa:26503 SLC17A5; solute carrier family 17 member 5
+  hsa:2706 GJB2; gap junction protein beta 2
+  hsa:285195 SLC9A9; solute carrier family 9 member A9
+  hsa:284111 SLC13A5; solute carrier family 13 member 5
+  hsa:28234 SLCO1B3; solute carrier organic anion transporter family member 1B3
+  hsa:284439 SLC25A42; solute carrier family 25 member 42
+  hsa:30061 SLC40A1; solute carrier family 40 member 1
+  hsa:28982 FLVCR1; FLVCR heme transporter 1
+  hsa:2944 GSTM1; glutathione S-transferase mu 1
+  hsa:340024 SLC6A19; solute carrier family 6 member 19
+  hsa:388662 SLC6A17; solute carrier family 6 member 17
+  hsa:4864 NPC1; NPC intracellular cholesterol transporter 1
+  hsa:51629 SLC25A39; solute carrier family 25 member 39
+  hsa:50651 SLC45A1; solute carrier family 45 member 1
+  hsa:5350 PLN; phospholamban
+  hsa:54499 TMCO1; transmembrane and coiled-coil domains 1
+  hsa:54805 CNNM2; cyclin and CBS domain divalent metal cation transport mediator 2
+  hsa:55356 SLC22A15; solute carrier family 22 member 15
+  hsa:55343 SLC35C1; solute carrier family 35 member C1
+  hsa:55640 FLVCR2; FLVCR heme transporter 2
+  hsa:55858 TMEM165; transmembrane protein 165
+  hsa:57282 SLC4A10; solute carrier family 4 member 10
+  hsa:57468 SLC12A5; solute carrier family 12 member 5
+  hsa:56172 ANKH; ANKH inorganic pyrophosphate transport regulator
+  hsa:57165 GJC2; gap junction protein gamma 2
+  hsa:5826 ABCD4; ATP binding cassette subfamily D member 4
+  hsa:60482 SLC5A7; solute carrier family 5 member 7
+  hsa:6505 SLC1A1; solute carrier family 1 member 1
+  hsa:6506 SLC1A2; solute carrier family 1 member 2
+  hsa:6509 SLC1A4; solute carrier family 1 member 4
+  hsa:6513 SLC2A1; solute carrier family 2 member 1
+  hsa:6529 SLC6A1; solute carrier family 6 member 1
+  hsa:6531 SLC6A3; solute carrier family 6 member 3
+  hsa:6532 SLC6A4; solute carrier family 6 member 4
+  hsa:6536 SLC6A9; solute carrier family 6 member 9
+  hsa:6535 SLC6A8; solute carrier family 6 member 8
+  hsa:6546 SLC8A1; solute carrier family 8 member A1
+  hsa:6550 SLC9A3; solute carrier family 9 member A3
+  hsa:6558 SLC12A2; solute carrier family 12 member 2
+  hsa:6567 SLC16A2; solute carrier family 16 member 2
+  hsa:6571 SLC18A2; solute carrier family 18 member A2
+  hsa:6572 SLC18A3; solute carrier family 18 member A3
+  hsa:6584 SLC22A5; solute carrier family 22 member 5
+  hsa:6576 SLC25A1; solute carrier family 25 member 1
+  hsa:64116 SLC39A8; solute carrier family 39 member 8
+  hsa:64220 STRA6; signaling receptor and transporter of retinol STRA6
+  hsa:6786 STIM1; stromal interaction molecule 1
+  hsa:79751 SLC25A22; solute carrier family 25 member 22
+  hsa:788 SLC25A20; solute carrier family 25 member 20
+  hsa:7355 SLC35A2; solute carrier family 35 member A2
+  hsa:79581 SLC52A2; solute carrier family 52 member 2
+  hsa:8140 SLC7A5; solute carrier family 7 member 5
+  hsa:80704 SLC19A3; solute carrier family 19 member 3
+  hsa:81614 NIPA2; NIPA magnesium transporter 2
+  hsa:7991 TUSC3; tumor suppressor candidate 3
+  hsa:84889 SLC7A3; solute carrier family 7 member 3
+  hsa:84679 SLC9A7; solute carrier family 9 member A7
+  hsa:8604 SLC25A12; solute carrier family 25 member 12
+  hsa:84879 MFSD2A; major facilitator superfamily domain containing 2A
+  hsa:8671 SLC4A4; solute carrier family 4 member 4
+  hsa:9152 SLC6A5; solute carrier family 6 member 5
+  hsa:9056 SLC7A7; solute carrier family 7 member 7
+  hsa:9197 SLC33A1; solute carrier family 33 member 1
+  hsa:89872 AQP10; aquaporin 10
+  hsa:8799 PEX11B; peroxisomal biogenesis factor 11 beta
+  hsa:91869 RFT1; RFT1 homolog
+  hsa:92609 TIMM50; translocase of inner mitochondrial membrane 50
+  hsa:9481 SLC25A27; solute carrier family 25 member 27
+  hsa:9725 TMEM63A; transmembrane protein 63A
+  hsa:9990 SLC12A6; solute carrier family 12 member 6
+
+hsa04812 Cytoskeleton proteins (98)
+
+  hsa:10381 TUBB3; tubulin beta 3 class III
+  hsa:10382 TUBB4A; tubulin beta 4A class IVa
+  hsa:10300 KATNB1; katanin regulatory subunit B1
+  hsa:10540 DCTN2; dynactin subunit 2
+  hsa:10297 APC2; APC regulator of WNT signaling pathway 2
+  hsa:11151 CORO1A; coronin 1A
+  hsa:10749 KIF1C; kinesin family member 1C
+  hsa:10844 TUBGCP2; tubulin gamma complex associated protein 2
+  hsa:114791 TUBGCP5; tubulin gamma complex associated protein 5
+  hsa:120 ADD3; adducin 3
+  hsa:128239 IQGAP3; IQ motif containing GTPase activating protein 3
+  hsa:1729 DIAPH1; diaphanous related formin 1
+  hsa:1496 CTNNA2; catenin alpha 2
+  hsa:1756 DMD; dystrophin
+  hsa:1778 DYNC1H1; dynein cytoplasmic 1 heavy chain 1
+  hsa:1781 DYNC1I2; dynein cytoplasmic 1 intermediate chain 2
+  hsa:1641 DCX; doublecortin
+  hsa:192666 KRT24; keratin 24
+  hsa:203068 TUBB; tubulin beta class I
+  hsa:2009 EML1; EMAP like 1
+  hsa:196385 DNAH10; dynein axonemal heavy chain 10
+  hsa:23026 MYO16; myosin XVI
+  hsa:2316 FLNA; filamin A
+  hsa:2318 FLNC; filamin C
+  hsa:2312 FLG; filaggrin
+  hsa:23095 KIF1B; kinesin family member 1B
+  hsa:23303 KIF13B; kinesin family member 13B
+  hsa:23046 KIF21B; kinesin family member 21B
+  hsa:23384 SPECC1L; sperm antigen with calponin homology and coiled-coil domains 1 like
+  hsa:24137 KIF4A; kinesin family member 4A
+  hsa:23332 CLASP1; cytoplasmic linker associated protein 1
+  hsa:23499 MACF1; microtubule actin crosslinking factor 1
+  hsa:2620 GAS2; growth arrest specific 2
+  hsa:2670 GFAP; glial fibrillary acidic protein
+  hsa:27229 TUBGCP4; tubulin gamma complex associated protein 4
+  hsa:26128 KIFBP; kinesin family binding protein
+  hsa:29119 CTNNA3; catenin alpha 3
+  hsa:287 ANK2; ankyrin 2
+  hsa:288 ANK3; ankyrin 3
+  hsa:353288 KRT26; keratin 26
+  hsa:347733 TUBB2B; tubulin beta 2B class IIb
+  hsa:374654 KIF7; kinesin family member 7
+  hsa:4001 LMNB1; lamin B1
+  hsa:3796 KIF2A; kinesin family member 2A
+  hsa:3798 KIF5A; kinesin family member 5A
+  hsa:3800 KIF5C; kinesin family member 5C
+  hsa:3832 KIF11; kinesin family member 11
+  hsa:4130 MAP1A; microtubule associated protein 1A
+  hsa:4131 MAP1B; microtubule associated protein 1B
+  hsa:4137 MAPT; microtubule associated protein tau
+  hsa:4139 MARK1; microtubule affinity regulating kinase 1
+  hsa:4643 MYO1E; myosin IE
+  hsa:4644 MYO5A; myosin VA
+  hsa:4650 MYO9B; myosin IXB
+  hsa:4622 MYH4; myosin heavy chain 4
+  hsa:4627 MYH9; myosin heavy chain 9
+  hsa:4628 MYH10; myosin heavy chain 10
+  hsa:4810 NHS; NHS actin remodeling regulator
+  hsa:51143 DYNC1LI1; dynein cytoplasmic 1 light intermediate chain 1
+  hsa:51072 MEMO1; mediator of cell motility 1
+  hsa:5339 PLEC; plectin
+  hsa:51807 TUBA8; tubulin alpha 8
+  hsa:547 KIF1A; kinesin family member 1A
+  hsa:55083 KIF26B; kinesin family member 26B
+  hsa:55567 DNAH3; dynein axonemal heavy chain 3
+  hsa:55930 MYO5C; myosin VC
+  hsa:56776 FMN2; formin 2
+  hsa:57477 SHROOM4; shroom family member 4
+  hsa:60 ACTB; actin beta
+  hsa:57731 
+  hsa:57609 DIP2B; disco interacting protein 2 homolog B
+  hsa:70 ACTC1; actin alpha cardiac muscle 1
+  hsa:71 ACTG1; actin gamma 1
+  hsa:6709 SPTAN1; spectrin alpha, non-erythrocytic 1
+  hsa:6710 SPTB; spectrin beta, erythrocytic
+  hsa:6711 SPTBN1; spectrin beta, non-erythrocytic 1
+  hsa:6712 SPTBN2; spectrin beta, non-erythrocytic 2
+  hsa:7273 TTN; titin
+  hsa:667 DST; dystonin
+  hsa:7280 TUBB2A; tubulin beta 2A class IIa
+  hsa:7283 TUBG1; tubulin gamma 1
+  hsa:6904 TBCD; tubulin folding cofactor D
+  hsa:6905 TBCE; tubulin folding cofactor E
+  hsa:79784 MYH14; myosin heavy chain 14
+  hsa:7429 VIL1; villin 1
+  hsa:7846 TUBA1A; tubulin alpha 1a
+  hsa:7461 CLIP2; CAP-Gly domain containing linker protein 2
+  hsa:81 ACTN4; actinin alpha 4
+  hsa:84056 KATNAL1; katanin catalytic subunit A1 like 1
+  hsa:83473 KATNAL2; katanin catalytic subunit A1 like 2
+  hsa:79884 MAP9; microtubule associated protein 9
+  hsa:84700 MYO18B; myosin XVIIIB
+  hsa:84687 PPP1R9B; protein phosphatase 1 regulatory subunit 9B
+  hsa:84823 LMNB2; lamin B2
+  hsa:8632 DNAH17; dynein axonemal heavy chain 17
+  hsa:85378 TUBGCP6; tubulin gamma complex associated protein 6
+  hsa:8936 WASF1; WASP family member 1
+  hsa:9928 KIF14; kinesin family member 14
+
+hsa03019 Messenger RNA biogenesis (89)
+
+  hsa:10482 NXF1; nuclear RNA export factor 1
+  hsa:10522 DEAF1; DEAF1 transcription factor
+  hsa:10456 HAX1; HCLS1 associated protein X-1
+  hsa:10978 CLP1; cleavage factor polyribonucleotide kinase subunit 1
+  hsa:11340 EXOSC8; exosome component 8
+  hsa:129563 DIS3L2; DIS3 like 3'-5' exoribonuclease 2
+  hsa:1654 DDX3X; DEAD-box helicase 3 X-linked
+  hsa:1656 DDX6; DEAD-box helicase 6
+  hsa:1993 ELAVL2; ELAV like RNA binding protein 2
+  hsa:1995 ELAVL3; ELAV like RNA binding protein 3
+  hsa:1977 EIF4E; eukaryotic translation initiation factor 4E
+  hsa:1981 EIF4G1; eukaryotic translation initiation factor 4 gamma 1
+  hsa:1917 EEF1A2; eukaryotic translation elongation factor 1 alpha 2
+  hsa:192669 AGO3; argonaute RISC catalytic component 3
+  hsa:192670 AGO4; argonaute RISC component 4
+  hsa:2027 ENO3; enolase 3
+  hsa:23070 CMTR1; cap methyltransferase 1
+  hsa:23283 CSTF2T; cleavage stimulation factor subunit 2 tau variant
+  hsa:23191 CYFIP1; cytoplasmic FMR1 interacting protein 1
+  hsa:23293 SMG6; SMG6 nonsense mediated mRNA decay factor
+  hsa:23112 TNRC6B; trinucleotide repeat containing adaptor 6B
+  hsa:23019 CNOT1; CCR4-NOT transcription complex subunit 1
+  hsa:23185 LARP4B; La ribonucleoprotein 4B
+  hsa:23511 NUP188; nucleoporin 188
+  hsa:2332 FMR1; FMRP translational regulator 1
+  hsa:23708 GSPT2; G1 to S phase transition 2
+  hsa:23367 LARP1; La ribonucleoprotein 1, translational regulator
+  hsa:253943 YTHDF3; YTH N6-methyladenosine RNA binding protein 3
+  hsa:23404 EXOSC2; exosome component 2
+  hsa:26999 CYFIP2; cytoplasmic FMR1 interacting protein 2
+  hsa:26058 GIGYF2; GRB10 interacting GYF protein 2
+  hsa:26019 UPF2; UPF2 regulator of nonsense mediated mRNA decay
+  hsa:2657 GDF1; growth differentiation factor 1
+  hsa:26523 AGO1; argonaute RISC component 1
+  hsa:27161 AGO2; argonaute RISC catalytic component 2
+  hsa:29890 RBM15B; RNA binding motif protein 15B
+  hsa:28960 DCPS; decapping enzyme, scavenger
+  hsa:3064 HTT; huntingtin
+  hsa:3329 HSPD1; heat shock protein family D (Hsp60) member 1
+  hsa:4155 MBP; myelin basic protein
+  hsa:4076 CAPRIN1; cell cycle associated protein 1
+  hsa:4644 MYO5A; myosin VA
+  hsa:4609 MYC; MYC proto-oncogene, bHLH transcription factor
+  hsa:4849 CNOT3; CCR4-NOT transcription complex subunit 3
+  hsa:51244 CCDC174; coiled-coil domain containing 174
+  hsa:51010 EXOSC3; exosome component 3
+  hsa:5073 PARN; poly(A)-specific ribonuclease
+  hsa:51807 TUBA8; tubulin alpha 8
+  hsa:5393 EXOSC9; exosome component 9
+  hsa:5500 PPP1CB; protein phosphatase 1 catalytic subunit beta
+  hsa:55746 NUP133; nucleoporin 133
+  hsa:5515 PPP2CA; protein phosphatase 2 catalytic subunit alpha
+  hsa:5519 PPP2R1B; protein phosphatase 2 scaffold subunit Abeta
+  hsa:5518 PPP2R1A; protein phosphatase 2 scaffold subunit Aalpha
+  hsa:5528 PPP2R5D; protein phosphatase 2 regulatory subunit B'delta
+  hsa:5567 PRKACB; protein kinase cAMP-activated catalytic subunit beta
+  hsa:57187 THOC2; THO complex 2
+  hsa:57122 NUP107; nucleoporin 107
+  hsa:56006 SMG9; SMG9 nonsense mediated mRNA decay factor
+  hsa:55930 MYO5C; myosin VC
+  hsa:5610 EIF2AK2; eukaryotic translation initiation factor 2 alpha kinase 2
+  hsa:5813 PURA; purine rich element binding protein A
+  hsa:60 ACTB; actin beta
+  hsa:6197 RPS6KA3; ribosomal protein S6 kinase A3
+  hsa:6196 RPS6KA2; ribosomal protein S6 kinase A2
+  hsa:6628 SNRPB; small nuclear ribonucleoprotein polypeptides B and B1
+  hsa:64895 PAPOLG; poly(A) polymerase gamma
+  hsa:64901 RANBP17; RAN binding protein 17
+  hsa:64599 GIGYF1; GRB10 interacting GYF protein 1
+  hsa:65109 UPF3B; UPF3B regulator of nonsense mediated mRNA decay
+  hsa:71 ACTG1; actin gamma 1
+  hsa:79068 FTO; FTO alpha-ketoglutarate dependent dioxygenase
+  hsa:79228 THOC6; THO complex 6
+  hsa:79023 NUP37; nucleoporin 37
+  hsa:7514 XPO1; exportin 1
+  hsa:7846 TUBA1A; tubulin alpha 1a
+  hsa:79882 ZC3H14; zinc finger CCCH-type containing 14
+  hsa:8021 NUP214; nucleoporin 214
+  hsa:8125 ANP32A; acidic nuclear phosphoprotein 32 family member A
+  hsa:8087 FXR1; FMR1 autosomal homolog 1
+  hsa:80315 CPEB4; cytoplasmic polyadenylation element binding protein 4
+  hsa:8480 RAE1; ribonucleic acid export 1
+  hsa:8562 DENR; density regulated re-initiation and release factor
+  hsa:8888 MCM3AP; minichromosome maintenance complex component 3 associated protein
+  hsa:87178 PNPT1; polyribonucleotide nucleotidyltransferase 1
+  hsa:9775 EIF4A3; eukaryotic translation initiation factor 4A3
+  hsa:9631 NUP155; nucleoporin 155
+  hsa:9877 ZC3H11A; zinc finger CCCH-type containing 11A
+  hsa:9652 TTC37; tetratricopeptide repeat domain 37
+
+hsa03029 Mitochondrial biogenesis (80)
+
+  hsa:10102 TSFM; Ts translation elongation factor, mitochondrial
+  hsa:10367 MICU1; mitochondrial calcium uptake 1
+  hsa:100131801 PET100; PET100 cytochrome c oxidase chaperone
+  hsa:10128 LRPPRC; leucine rich pentatricopeptide repeat containing
+  hsa:10059 DNM1L; dynamin 1 like
+  hsa:125988 MICOS13; mitochondrial contact site and cristae organizing system subunit 13
+  hsa:131118 DNAJC19; DnaJ heat shock protein family (Hsp40) member C19
+  hsa:1387 CREBBP; CREB binding protein
+  hsa:122961 ISCA2; iron-sulfur cluster assembly 2
+  hsa:119559 SFXN4; sideroflexin 4
+  hsa:1352 COX10; cytochrome c oxidase assembly factor heme A:farnesyltransferase COX10
+  hsa:1355 COX15; cytochrome c oxidase assembly homolog COX15
+  hsa:1678 TIMM8A; translocase of inner mitochondrial membrane 8A
+  hsa:2033 EP300; E1A binding protein p300
+  hsa:2103 ESRRB; estrogen related receptor beta
+  hsa:22907 DHX30; DExH-box helicase 30
+  hsa:22868 FASTKD2; FAST kinase domains 2
+  hsa:23203 PMPCA; peptidase, mitochondrial processing subunit alpha
+  hsa:23395 LARS2; leucyl-tRNA synthetase 2, mitochondrial
+  hsa:23474 ETHE1; ETHE1 persulfide dioxygenase
+  hsa:2395 FXN; frataxin
+  hsa:2671 GFER; growth factor, augmenter of liver regeneration
+  hsa:27247 NFU1; NFU1 iron-sulfur cluster scaffold
+  hsa:26235 FBXL4; F-box and leucine rich repeat protein 4
+  hsa:3028 HSD17B10; hydroxysteroid 17-beta dehydrogenase 10
+  hsa:284184 NDUFAF8; NADH:ubiquinone oxidoreductase complex assembly factor 8
+  hsa:28976 ACAD9; acyl-CoA dehydrogenase family member 9
+  hsa:3329 HSPD1; heat shock protein family D (Hsp60) member 1
+  hsa:3054 HCFC1; host cell factor C1
+  hsa:3064 HTT; huntingtin
+  hsa:388962 BOLA3; bolA family member 3
+  hsa:4540 ND5; NADH dehydrogenase subunit 5
+  hsa:4512 COX1; cytochrome c oxidase subunit I
+  hsa:4513 COX2; cytochrome c oxidase subunit II
+  hsa:4514 COX3; cytochrome c oxidase subunit III
+  hsa:4508 ATP6; ATP synthase F0 subunit 6
+  hsa:4976 OPA1; OPA1 mitochondrial dynamin like GTPase
+  hsa:4644 MYO5A; myosin VA
+  hsa:51100 SH3GLB1; SH3 domain containing GRB2 like, endophilin B1
+  hsa:5071 PRKN; parkin RBR E3 ubiquitin protein ligase
+  hsa:5428 POLG; DNA polymerase gamma, catalytic subunit
+  hsa:54902 TTC19; tetratricopeptide repeat domain 19
+  hsa:54968 TMEM70; transmembrane protein 70
+  hsa:55157 DARS2; aspartyl-tRNA synthetase 2, mitochondrial
+  hsa:55005 RMND1; required for meiotic nuclear division 1 homolog
+  hsa:55210 ATAD3A; ATPase family AAA domain containing 3A
+  hsa:55526 DHTKD1; dehydrogenase E1 and transketolase domain containing 1
+  hsa:55572 FOXRED1; FAD dependent oxidoreductase domain containing 1
+  hsa:55074 OXR1; oxidation resistance 1
+  hsa:56945 MRPS22; mitochondrial ribosomal protein S22
+  hsa:57038 RARS2; arginyl-tRNA synthetase 2, mitochondrial
+  hsa:56652 TWNK; twinkle mtDNA helicase
+  hsa:56947 MFF; mitochondrial fission factor
+  hsa:55930 MYO5C; myosin VC
+  hsa:57154 SMURF1; SMAD specific E3 ubiquitin protein ligase 1
+  hsa:5917 RARS1; arginyl-tRNA synthetase 1
+  hsa:617 BCS1L; BCS1 homolog, ubiquinol-cytochrome c reductase complex chaperone
+  hsa:60 ACTB; actin beta
+  hsa:64216 TFB2M; transcription factor B2, mitochondrial
+  hsa:64374 SIL1; SIL1 nucleotide exchange factor
+  hsa:644096 SDHAF1; succinate dehydrogenase complex assembly factor 1
+  hsa:6341 SCO1; synthesis of cytochrome C oxidase 1
+  hsa:6834 SURF1; SURF1 cytochrome c oxidase assembly factor
+  hsa:71 ACTG1; actin gamma 1
+  hsa:7528 YY1; YY1 transcription factor
+  hsa:79133 NDUFAF5; NADH:ubiquinone oxidoreductase complex assembly factor 5
+  hsa:83943 IMMP2L; inner mitochondrial membrane peptidase subunit 2
+  hsa:80224 NUBPL; NUBP iron-sulfur cluster assembly factor, mitochondrial
+  hsa:80347 COASY; Coenzyme A synthase
+  hsa:8398 PLA2G6; phospholipase A2 group VI
+  hsa:84340 GFM2; GTP dependent ribosome recycling factor mitochondrial 2
+  hsa:85476 GFM1; G elongation factor mitochondrial 1
+  hsa:84947 SERAC1; serine active site containing 1
+  hsa:84816 RTN4IP1; reticulon 4 interacting protein 1
+  hsa:84334 COA8; cytochrome c oxidase assembly factor 8
+  hsa:92667 MGME1; mitochondrial genome maintenance exonuclease 1
+  hsa:92609 TIMM50; translocase of inner mitochondrial membrane 50
+  hsa:9512 PMPCB; peptidase, mitochondrial processing subunit beta
+  hsa:9361 LONP1; lon peptidase 1, mitochondrial
+  hsa:9997 SCO2; synthesis of cytochrome C oxidase 2
+
+hsa01009 Protein phosphatases and associated proteins (77)
+
+  hsa:10142 AKAP9; A-kinase anchoring protein 9
+  hsa:10297 APC2; APC regulator of WNT signaling pathway 2
+  hsa:10199 MPHOSPH10; M-phase phosphoprotein 10
+  hsa:100506658 OCLN; occludin
+  hsa:1062 CENPE; centromere protein E
+  hsa:10768 AHCYL1; adenosylhomocysteinase like 1
+  hsa:10765 KDM5B; lysine demethylase 5B
+  hsa:114783 LMTK3; lemur tyrosine kinase 3
+  hsa:11122 PTPRT; protein tyrosine phosphatase receptor type T
+  hsa:11284 PNKP; polynucleotide kinase 3'-phosphatase
+  hsa:129285 PPP1R21; protein phosphatase 1 regulatory subunit 21
+  hsa:1186 CLCN7; chloride voltage-gated channel 7
+  hsa:121256 TMEM132D; transmembrane protein 132D
+  hsa:124997 WDR81; WD repeat domain 81
+  hsa:128853 DUSP15; dual specificity phosphatase 15
+  hsa:1740 DLG2; discs large MAGUK scaffold protein 2
+  hsa:1741 DLG3; discs large MAGUK scaffold protein 3
+  hsa:161742 SPRED1; sprouty related EVH1 domain containing 1
+  hsa:191 AHCY; adenosylhomocysteinase
+  hsa:2138 EYA1; EYA transcriptional coactivator and phosphatase 1
+  hsa:23243 ANKRD28; ankyrin repeat domain 28
+  hsa:23026 MYO16; myosin XVI
+  hsa:23239 PHLPP1; PH domain and leucine rich repeat protein phosphatase 1
+  hsa:23322 RPGRIP1L; RPGRIP1 like
+  hsa:254048 UBN2; ubinuclein 2
+  hsa:23371 TNS2; tensin 2
+  hsa:27328 PCDH11X; protocadherin 11 X-linked
+  hsa:25930 
+  hsa:2911 GRM1; glutamate metabotropic receptor 1
+  hsa:2917 GRM7; glutamate metabotropic receptor 7
+  hsa:344558 SH3RF3; SH3 domain containing ring finger 3
+  hsa:3054 HCFC1; host cell factor C1
+  hsa:3708 ITPR1; inositol 1,4,5-trisphosphate receptor type 1
+  hsa:4130 MAP1A; microtubule associated protein 1A
+  hsa:4131 MAP1B; microtubule associated protein 1B
+  hsa:4137 MAPT; microtubule associated protein tau
+  hsa:4659 PPP1R12A; protein phosphatase 1 regulatory subunit 12A
+  hsa:4643 MYO1E; myosin IE
+  hsa:51100 SH3GLB1; SH3 domain containing GRB2 like, endophilin B1
+  hsa:5101 PCDH9; protocadherin 9
+  hsa:54768 HYDIN; HYDIN axonemal central pair apparatus protein
+  hsa:5495 PPM1B; protein phosphatase, Mg2+/Mn2+ dependent 1B
+  hsa:5500 PPP1CB; protein phosphatase 1 catalytic subunit beta
+  hsa:5515 PPP2CA; protein phosphatase 2 catalytic subunit alpha
+  hsa:5519 PPP2R1B; protein phosphatase 2 scaffold subunit Abeta
+  hsa:5518 PPP2R1A; protein phosphatase 2 scaffold subunit Aalpha
+  hsa:5528 PPP2R5D; protein phosphatase 2 regulatory subunit B'delta
+  hsa:5530 PPP3CA; protein phosphatase 3 catalytic subunit alpha
+  hsa:5532 PPP3CB; protein phosphatase 3 catalytic subunit beta
+  hsa:5536 PPP5C; protein phosphatase 5 catalytic subunit
+  hsa:55066 PDPR; pyruvate dehydrogenase phosphatase regulatory subunit
+  hsa:5610 EIF2AK2; eukaryotic translation initiation factor 2 alpha kinase 2
+  hsa:5728 PTEN; phosphatase and tensin homolog
+  hsa:5723 PSPH; phosphoserine phosphatase
+  hsa:5927 KDM5A; lysine demethylase 5A
+  hsa:57661 PHRF1; PHD and ring finger domains 1
+  hsa:5787 PTPRB; protein tyrosine phosphatase receptor type B
+  hsa:5788 PTPRC; protein tyrosine phosphatase receptor type C
+  hsa:5781 PTPN11; protein tyrosine phosphatase non-receptor type 11
+  hsa:6305 SBF1; SET binding factor 1
+  hsa:64478 CSMD1; CUB and Sushi multiple domains 1
+  hsa:6558 SLC12A2; solute carrier family 12 member 2
+  hsa:6598 SMARCB1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1
+  hsa:6434 TRA2B; transformer 2 beta homolog
+  hsa:65267 WNK3; WNK lysine deficient protein kinase 3
+  hsa:672 BRCA1; BRCA1 DNA repair associated
+  hsa:7249 TSC2; TSC complex subunit 2
+  hsa:7532 YWHAG; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma
+  hsa:7421 VDR; vitamin D receptor
+  hsa:8242 KDM5C; lysine demethylase 5C
+  hsa:84152 PPP1R1B; protein phosphatase 1 regulatory inhibitor subunit 1B
+  hsa:84687 PPP1R9B; protein phosphatase 1 regulatory subunit 9B
+  hsa:84919 PPP1R15B; protein phosphatase 1 regulatory subunit 15B
+  hsa:8493 PPM1D; protein phosphatase, Mg2+/Mn2+ dependent 1D
+  hsa:9150 CTDP1; CTD phosphatase subunit 1
+  hsa:9611 NCOR1; nuclear receptor corepressor 1
+  hsa:9989 PPP4R1; protein phosphatase 4 regulatory subunit 1
+
+hsa03037 Cilium and associated proteins (72)
+
+  hsa:10575 CCT4; chaperonin containing TCP1 subunit 4
+  hsa:10518 CIB2; calcium and integrin binding family member 2
+  hsa:10806 SDCCAG8; SHH signaling and ciliogenesis regulator SDCCAG8
+  hsa:129880 BBS5; Bardet-Biedl syndrome 5
+  hsa:123016 TTC8; tetratricopeptide repeat domain 8
+  hsa:166379 BBS12; Bardet-Biedl syndrome 12
+  hsa:200894 ARL13B; ADP ribosylation factor like GTPase 13B
+  hsa:196385 DNAH10; dynein axonemal heavy chain 10
+  hsa:23090 ZNF423; zinc finger protein 423
+  hsa:23116 TOGARAM1; TOG array regulator of axonemal microtubules 1
+  hsa:23247 KATNIP; katanin interacting protein
+  hsa:23322 RPGRIP1L; RPGRIP1 like
+  hsa:25776 CBY1; chibby family member 1, beta catenin antagonist
+  hsa:27241 BBS9; Bardet-Biedl syndrome 9
+  hsa:26160 IFT172; intraflagellar transport 172
+  hsa:26123 TCTN3; tectonic family member 3
+  hsa:27077 B9D1; B9 domain containing 1
+  hsa:27185 DISC1; DISC1 scaffold protein
+  hsa:25886 POC1A; POC1 centriolar protein A
+  hsa:25930 
+  hsa:25914 RTTN; rotatin
+  hsa:284451 ODF3L2; outer dense fiber of sperm tails 3 like 2
+  hsa:29899 GPSM2; G protein signaling modulator 2
+  hsa:317662 FAM149B1; family with sequence similarity 149 member B1
+  hsa:403 ARL3; ADP ribosylation factor like GTPase 3
+  hsa:4867 NPHP1; nephrocystin 1
+  hsa:49855 SCAPER; S-phase cyclin A associated protein in the ER
+  hsa:51259 TMEM216; transmembrane protein 216
+  hsa:51057 WDPCP; WD repeat containing planar cell polarity effector
+  hsa:5108 PCM1; pericentriolar material 1
+  hsa:51684 SUFU; SUFU negative regulator of hedgehog signaling
+  hsa:51134 CEP83; centrosomal protein 83
+  hsa:54585 LZTFL1; leucine zipper transcription factor like 1
+  hsa:54903 MKS1; MKS transition zone complex subunit 1
+  hsa:54806 AHI1; Abelson helper integration site 1
+  hsa:54768 HYDIN; HYDIN axonemal central pair apparatus protein
+  hsa:55212 BBS7; Bardet-Biedl syndrome 7
+  hsa:55112 DYNC2I1; dynein 2 intermediate chain 1
+  hsa:55704 CCDC88A; coiled-coil domain containing 88A
+  hsa:55567 DNAH3; dynein axonemal heavy chain 3
+  hsa:57545 CC2D2A; coiled-coil and C2 domain containing 2A
+  hsa:57465 TBC1D24; TBC1 domain family member 24
+  hsa:582 BBS1; Bardet-Biedl syndrome 1
+  hsa:583 BBS2; Bardet-Biedl syndrome 2
+  hsa:585 BBS4; Bardet-Biedl syndrome 4
+  hsa:57688 ZSWIM6; zinc finger SWIM-type containing 6
+  hsa:65062 TMEM237; transmembrane protein 237
+  hsa:65250 CPLANE1; ciliogenesis and planar polarity effector complex subunit 1
+  hsa:65217 PCDH15; protocadherin related 15
+  hsa:7275 TUB; TUB bipartite transcription factor
+  hsa:7007 TECTA; tectorin alpha
+  hsa:79738 BBS10; Bardet-Biedl syndrome 10
+  hsa:79583 TMEM231; transmembrane protein 231
+  hsa:79867 TCTN2; tectonic family member 2
+  hsa:7399 USH2A; usherin
+  hsa:7840 ALMS1; ALMS1 centrosome and basal body associated protein
+  hsa:79848 CSPP1; centrosome and spindle pole associated protein 1
+  hsa:84100 ARL6; ADP ribosylation factor like GTPase 6
+  hsa:8195 MKKS; MKKS centrosomal shuttling protein
+  hsa:80184 CEP290; centrosomal protein 290
+  hsa:80210 ARMC9; armadillo repeat containing 9
+  hsa:84314 TMEM107; transmembrane protein 107
+  hsa:8573 CASK; calcium/calmodulin dependent serine protein kinase
+  hsa:8481 OFD1; OFD1 centriole and centriolar satellite protein
+  hsa:84984 CEP19; centrosomal protein 19
+  hsa:8632 DNAH17; dynein axonemal heavy chain 17
+  hsa:91147 TMEM67; transmembrane protein 67
+  hsa:9732 DOCK4; dedicator of cytokinesis 4
+  hsa:95681 CEP41; centrosomal protein 41
+  hsa:9731 CEP104; centrosomal protein 104
+  hsa:9662 CEP135; centrosomal protein 135
+  hsa:9456 
+
+hsa03041 Spliceosome (70)
+
+  hsa:10084 PQBP1; polyglutamine binding protein 1
+  hsa:10283 CWC27; CWC27 spliceosome associated cyclophilin
+  hsa:10236 HNRNPR; heterogeneous nuclear ribonucleoprotein R
+  hsa:10492 SYNCRIP; synaptotagmin binding cytoplasmic RNA interacting protein
+  hsa:103 ADAR; adenosine deaminase RNA specific
+  hsa:104 ADARB1; adenosine deaminase RNA specific B1
+  hsa:10419 PRMT5; protein arginine methyltransferase 5
+  hsa:11338 U2AF2; U2 small nuclear RNA auxiliary factor 2
+  hsa:11335 CBX3; chromobox 3
+  hsa:114034 TOE1; target of EGR1, exonuclease
+  hsa:10659 CELF2; CUGBP Elav-like family member 2
+  hsa:118924 FRA10AC1; FRA10A associated CGG repeat 1
+  hsa:1654 DDX3X; DEAD-box helicase 3 X-linked
+  hsa:202559 KHDRBS2; KH RNA binding domain containing, signal transduction associated 2
+  hsa:1993 ELAVL2; ELAV like RNA binding protein 2
+  hsa:1995 ELAVL3; ELAV like RNA binding protein 3
+  hsa:22827 PUF60; poly(U) binding splicing factor 60
+  hsa:22907 DHX30; DExH-box helicase 30
+  hsa:23451 SF3B1; splicing factor 3b subunit 1
+  hsa:23450 SF3B3; splicing factor 3b subunit 3
+  hsa:2483 FRG1; FSHD region gene 1
+  hsa:23524 SRRM2; serine/arginine repetitive matrix 2
+  hsa:2547 XRCC6; X-ray repair cross complementing 6
+  hsa:26173 INTS1; integrator complex subunit 1
+  hsa:26512 INTS6; integrator complex subunit 6
+  hsa:25957 PNISR; PNN interacting serine and arginine rich protein
+  hsa:29890 RBM15B; RNA binding motif protein 15B
+  hsa:3190 HNRNPK; heterogeneous nuclear ribonucleoprotein K
+  hsa:3192 HNRNPU; heterogeneous nuclear ribonucleoprotein U
+  hsa:3608 ILF2; interleukin enhancer binding factor 2
+  hsa:3187 HNRNPH1; heterogeneous nuclear ribonucleoprotein H1
+  hsa:3185 HNRNPF; heterogeneous nuclear ribonucleoprotein F
+  hsa:3188 HNRNPH2; heterogeneous nuclear ribonucleoprotein H2
+  hsa:3184 HNRNPD; heterogeneous nuclear ribonucleoprotein D
+  hsa:4858 NOVA2; NOVA alternative splicing regulator 2
+  hsa:4841 NONO; non-POU domain containing octamer binding
+  hsa:51244 CCDC174; coiled-coil domain containing 174
+  hsa:51319 RSRC1; arginine and serine rich coiled-coil 1
+  hsa:50628 GEMIN4; gem nuclear organelle associated protein 4
+  hsa:54439 RBM27; RNA binding motif protein 27
+  hsa:54715 RBFOX1; RNA binding fox-1 homolog 1
+  hsa:55656 INTS8; integrator complex subunit 8
+  hsa:55174 INTS10; integrator complex subunit 10
+  hsa:5500 PPP1CB; protein phosphatase 1 catalytic subunit beta
+  hsa:55015 PRPF39; pre-mRNA processing factor 39
+  hsa:55280 CWF19L1; CWF19 like cell cycle control factor 1
+  hsa:57187 THOC2; THO complex 2
+  hsa:57508 INTS2; integrator complex subunit 2
+  hsa:57466 SCAF4; SR-related CTD associated factor 4
+  hsa:56853 CELF4; CUGBP Elav-like family member 4
+  hsa:5977 DPF2; double PHD fingers 2
+  hsa:60677 CELF6; CUGBP Elav-like family member 6
+  hsa:58155 PTBP2; polypyrimidine tract binding protein 2
+  hsa:6426 SRSF1; serine and arginine rich splicing factor 1
+  hsa:6434 TRA2B; transformer 2 beta homolog
+  hsa:6628 SNRPB; small nuclear ribonucleoprotein polypeptides B and B1
+  hsa:6651 SON; SON DNA and RNA binding protein
+  hsa:64848 YTHDC2; YTH domain containing 2
+  hsa:7737 RNF113A; ring finger protein 113A
+  hsa:79228 THOC6; THO complex 6
+  hsa:8241 RBM10; RNA binding motif protein 10
+  hsa:84991 
+  hsa:8559 PRPF18; pre-mRNA processing factor 18
+  hsa:9130 FAM50A; family with sequence similarity 50 member A
+  hsa:9343 EFTUD2; elongation factor Tu GTP binding domain containing 2
+  hsa:9416 DDX23; DEAD-box helicase 23
+  hsa:9775 EIF4A3; eukaryotic translation initiation factor 4A3
+  hsa:9419 CRIPT; CXXC repeat containing interactor of PDZ3 domain
+  hsa:9295 SRSF11; serine and arginine rich splicing factor 11
+  hsa:9829 DNAJC6; DnaJ heat shock protein family (Hsp40) member C6
+
+hsa04990 Domain-containing proteins not elsewhere classified (63)
+
+  hsa:10580 SORBS1; sorbin and SH3 domain containing 1
+  hsa:10087 CERT1; ceramide transporter 1
+  hsa:10518 CIB2; calcium and integrin binding family member 2
+  hsa:10367 MICU1; mitochondrial calcium uptake 1
+  hsa:10256 CNKSR1; connector enhancer of kinase suppressor of Ras 1
+  hsa:10178 TENM1; teneurin transmembrane protein 1
+  hsa:11033 ADAP1; ArfGAP with dual PH domains 1
+  hsa:114902 C1QTNF5; C1q and TNF related 5
+  hsa:129684 CNTNAP5; contactin associated protein family member 5
+  hsa:145581 LRFN5; leucine rich repeat and fibronectin type III domain containing 5
+  hsa:139411 PTCHD1; patched domain containing 1
+  hsa:164633 CABP7; calcium binding protein 7
+  hsa:1762 DMWD; DM1 locus, WD repeat containing
+  hsa:2245 FGD1; FYVE, RhoGEF and PH domain containing 1
+  hsa:1954 MEGF8; multiple EGF like domains 8
+  hsa:22866 CNKSR2; connector enhancer of kinase suppressor of Ras 2
+  hsa:23245 ASTN2; astrotactin 2
+  hsa:22884 WDR37; WD repeat domain 37
+  hsa:23328 SASH1; SAM and SH3 domain containing 1
+  hsa:23613 ZMYND8; zinc finger MYND-type containing 8
+  hsa:27131 SNX5; sorting nexin 5
+  hsa:26047 CNTNAP2; contactin associated protein 2
+  hsa:26011 TENM4; teneurin transmembrane protein 4
+  hsa:26470 SEZ6L2; seizure related 6 homolog like 2
+  hsa:27286 SRPX2; sushi repeat containing protein X-linked 2
+  hsa:285190 RGPD4; RANBP2 like and GRIP domain containing 4
+  hsa:4925 NUCB2; nucleobindin 2
+  hsa:4868 NPHS1; NPHS1 adhesion molecule, nephrin
+  hsa:51741 WWOX; WW domain containing oxidoreductase
+  hsa:5118 PCOLCE; procollagen C-endopeptidase enhancer
+  hsa:54681 P4HTM; prolyl 4-hydroxylase, transmembrane
+  hsa:54221 SNTG2; syntrophin gamma 2
+  hsa:54584 GNB1L; G protein subunit beta 1 like
+  hsa:55691 FRMD4A; FERM domain containing 4A
+  hsa:55061 SUSD4; sushi domain containing 4
+  hsa:57554 LRRC7; leucine rich repeat containing 7
+  hsa:57231 SNX14; sorting nexin 14
+  hsa:57497 LRFN2; leucine rich repeat and fibronectin type III domain containing 2
+  hsa:57451 TENM2; teneurin transmembrane protein 2
+  hsa:6262 RYR2; ryanodine receptor 2
+  hsa:5913 RAPSN; receptor associated protein of the synapse
+  hsa:5937 RBMS1; RNA binding motif single stranded interacting protein 1
+  hsa:64857 PLEKHG2; pleckstrin homology and RhoGEF domain containing G2
+  hsa:7275 TUB; TUB bipartite transcription factor
+  hsa:7750 ZMYM2; zinc finger MYM-type containing 2
+  hsa:81609 SNX27; sorting nexin 27
+  hsa:79937 CNTNAP3; contactin associated protein family member 3
+  hsa:80737 VWA7; von Willebrand factor A domain containing 7
+  hsa:83552 MFRP; membrane frizzled-related protein
+  hsa:8506 CNTNAP1; contactin associated protein 1
+  hsa:85445 CNTNAP4; contactin associated protein family member 4
+  hsa:84466 MEGF10; multiple EGF like domains 10
+  hsa:84465 MEGF11; multiple EGF like domains 11
+  hsa:84942 WDR73; WD repeat domain 73
+  hsa:84978 FRMD5; FERM domain containing 5
+  hsa:8861 LDB1; LIM domain binding 1
+  hsa:9244 CRLF1; cytokine receptor like factor 1
+  hsa:92737 DNER; delta/notch like EGF repeat containing
+  hsa:90167 FRMD7; FERM domain containing 7
+  hsa:881 CCIN; calicin
+  hsa:9846 GAB2; GRB2 associated binding protein 2
+  hsa:9649 RALGPS1; Ral GEF with PH domain and SH3 binding motif 1
+  hsa:9758 FRMPD4; FERM and PDZ domain containing 4
+
+hsa03400 DNA repair and recombination proteins (61)
+
+  hsa:11284 PNKP; polynucleotide kinase 3'-phosphatase
+  hsa:1161 ERCC8; ERCC excision repair 8, CSA ubiquitin ligase complex subunit
+  hsa:11277 TREX1; three prime repair exonuclease 1
+  hsa:126520 PLK5; polo like kinase 5 (inactive)
+  hsa:2074 ERCC6; ERCC excision repair 6, chromatin remodeling factor
+  hsa:2071 ERCC3; ERCC excision repair 3, TFIIH core complex helicase subunit
+  hsa:2068 ERCC2; ERCC excision repair 2, TFIIH core complex helicase subunit
+  hsa:2067 ERCC1; ERCC excision repair 1, endonuclease non-catalytic subunit
+  hsa:2072 ERCC4; ERCC excision repair 4, endonuclease catalytic subunit
+  hsa:2073 ERCC5; ERCC excision repair 5, endonuclease
+  hsa:221927 BRAT1; BRCA1 associated ATM activator 1
+  hsa:2175 FANCA; FA complementation group A
+  hsa:2177 FANCD2; FA complementation group D2
+  hsa:23132 RAD54L2; RAD54 like 2
+  hsa:22909 FAN1; FANCD2 and FANCI associated nuclease 1
+  hsa:23243 ANKRD28; ankyrin repeat domain 28
+  hsa:23189 KANK1; KN motif and ankyrin repeat domains 1
+  hsa:23503 ZFYVE26; zinc finger FYVE-type containing 26
+  hsa:2547 XRCC6; X-ray repair cross complementing 6
+  hsa:25939 SAMHD1; SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1
+  hsa:27183 VPS4A; vacuolar protein sorting 4 homolog A
+  hsa:29980 DONSON; DNA replication fork stabilization factor DONSON
+  hsa:404672 GTF2H5; general transcription factor IIH subunit 5
+  hsa:4361 MRE11; MRE11 homolog, double strand break repair nuclease
+  hsa:3981 LIG4; DNA ligase 4
+  hsa:375748 ERCC6L2; ERCC excision repair 6 like 2
+  hsa:4683 NBN; nibrin
+  hsa:472 ATM; ATM serine/threonine kinase
+  hsa:50484 RRM2B; ribonucleotide reductase regulatory TP53 inducible subunit M2B
+  hsa:51720 UIMC1; ubiquitin interaction motif containing 1
+  hsa:51567 TDP2; tyrosyl-DNA phosphodiesterase 2
+  hsa:54840 APTX; aprataxin
+  hsa:5430 POLR2A; RNA polymerase II subunit A
+  hsa:545 ATR; ATR serine/threonine kinase
+  hsa:5187 PER1; period circadian regulator 1
+  hsa:56160 NSMCE3; NSE3 homolog, SMC5-SMC6 complex component
+  hsa:5591 PRKDC; protein kinase, DNA-activated, catalytic subunit
+  hsa:5932 RBBP8; RB binding protein 8, endonuclease
+  hsa:6240 RRM1; ribonucleotide reductase catalytic subunit M1
+  hsa:641 BLM; BLM RecQ like helicase
+  hsa:672 BRCA1; BRCA1 DNA repair associated
+  hsa:675 BRCA2; BRCA2 DNA repair associated
+  hsa:7156 TOP3A; DNA topoisomerase III alpha
+  hsa:7319 UBE2A; ubiquitin conjugating enzyme E2 A
+  hsa:7508 XPC; XPC complex subunit, DNA damage recognition and repair factor
+  hsa:7507 XPA; XPA, DNA damage recognition and repair factor
+  hsa:7518 XRCC4; X-ray repair cross complementing 4
+  hsa:7532 YWHAG; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma
+  hsa:7531 YWHAE; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon
+  hsa:80208 SPG11; SPG11 vesicle trafficking associated, spatacsin
+  hsa:80185 TTI2; TELO2 interacting protein 2
+  hsa:8450 CUL4B; cullin 4B
+  hsa:8452 CUL3; cullin 3
+  hsa:84464 SLX4; SLX4 structure-specific endonuclease subunit
+  hsa:8930 MBD4; methyl-CpG binding domain 4, DNA glycosylase
+  hsa:8940 TOP3B; DNA topoisomerase III beta
+  hsa:8924 HERC2; HECT and RLD domain containing E3 ubiquitin protein ligase 2
+  hsa:89797 NAV2; neuron navigator 2
+  hsa:8864 PER2; period circadian regulator 2
+  hsa:9894 TELO2; telomere maintenance 2
+  hsa:9989 PPP4R1; protein phosphatase 4 regulatory subunit 1
+
+hsa03021 Transcription machinery (59)
+
+  hsa:1024 CDK8; cyclin dependent kinase 8
+  hsa:1025 CDK9; cyclin dependent kinase 9
+  hsa:10302 SNAPC5; small nuclear RNA activating complex polypeptide 5
+  hsa:1105 CHD1; chromodomain helicase DNA binding protein 1
+  hsa:11128 POLR3A; RNA polymerase III subunit A
+  hsa:116931 MED12L; mediator complex subunit 12L
+  hsa:123169 LEO1; LEO1 homolog, Paf1/RNA polymerase II complex component
+  hsa:2071 ERCC3; ERCC excision repair 3, TFIIH core complex helicase subunit
+  hsa:2068 ERCC2; ERCC excision repair 2, TFIIH core complex helicase subunit
+  hsa:196528 ARID2; AT-rich interaction domain 2
+  hsa:23097 CDK19; cyclin dependent kinase 19
+  hsa:23168 RTF1; RTF1 homolog, Paf1/RNA polymerase II complex component
+  hsa:23389 MED13L; mediator complex subunit 13L
+  hsa:23450 SF3B3; splicing factor 3b subunit 3
+  hsa:23476 BRD4; bromodomain containing 4
+  hsa:2334 AFF2; AF4/FMR2 family member 2
+  hsa:25885 POLR1A; RNA polymerase I subunit A
+  hsa:27125 AFF4; AF4/FMR2 family member 4
+  hsa:2961 GTF2E2; general transcription factor IIE subunit 2
+  hsa:2969 GTF2I; general transcription factor IIi
+  hsa:2972 BRF1; BRF1 RNA polymerase III transcription initiation factor subunit
+  hsa:404672 GTF2H5; general transcription factor IIH subunit 5
+  hsa:389856 USP27X; ubiquitin specific peptidase 27 X-linked
+  hsa:51412 ACTL6B; actin like 6B
+  hsa:51574 LARP7; La ribonucleoprotein 7, transcriptional regulator
+  hsa:5430 POLR2A; RNA polymerase II subunit A
+  hsa:5500 PPP1CB; protein phosphatase 1 catalytic subunit beta
+  hsa:55703 POLR3B; RNA polymerase III subunit B
+  hsa:57492 ARID1B; AT-rich interaction domain 1B
+  hsa:57466 SCAF4; SR-related CTD associated factor 4
+  hsa:60 ACTB; actin beta
+  hsa:6595 SMARCA2; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2
+  hsa:6597 SMARCA4; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4
+  hsa:6598 SMARCB1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1
+  hsa:6599 SMARCC1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 1
+  hsa:6601 SMARCC2; SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 2
+  hsa:6602 SMARCD1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1
+  hsa:6605 SMARCE1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1
+  hsa:6872 TAF1; TATA-box binding protein associated factor 1
+  hsa:6873 TAF2; TATA-box binding protein associated factor 2
+  hsa:6877 TAF5; TATA-box binding protein associated factor 5
+  hsa:6878 TAF6; TATA-box binding protein associated factor 6
+  hsa:6884 TAF13; TATA-box binding protein associated factor 13
+  hsa:71 ACTG1; actin gamma 1
+  hsa:7343 UBTF; upstream binding transcription factor
+  hsa:81857 MED25; mediator complex subunit 25
+  hsa:8295 TRRAP; transformation/transcription domain associated protein
+  hsa:8289 ARID1A; AT-rich interaction domain 1A
+  hsa:86 ACTL6A; actin like 6A
+  hsa:8850 KAT2B; lysine acetyltransferase 2B
+  hsa:9044 BTAF1; B-TFIID TATA-box binding protein associated factor 1
+  hsa:9150 CTDP1; CTD phosphatase subunit 1
+  hsa:8812 CCNK; cyclin K
+  hsa:9013 TAF1C; TATA-box binding protein associated factor, RNA polymerase I subunit C
+  hsa:9440 MED17; mediator complex subunit 17
+  hsa:9439 MED23; mediator complex subunit 23
+  hsa:9533 POLR1C; RNA polymerase I and III subunit C
+  hsa:9968 MED12; mediator complex subunit 12
+  hsa:9969 MED13; mediator complex subunit 13
+
+hsa01002 Peptidases and inhibitors (58)
+
+  hsa:10072 DPP3; dipeptidyl peptidase 3
+  hsa:10617 STAMBP; STAM binding protein
+  hsa:11132 CAPN10; calpain 10
+  hsa:147968 CAPN12; calpain 12
+  hsa:1373 CPS1; carbamoyl-phosphate synthase 1
+  hsa:118856 MMP21; matrix metallopeptidase 21
+  hsa:1363 CPE; carboxypeptidase E
+  hsa:1200 TPP1; tripeptidyl peptidase 1
+  hsa:1476 CSTB; cystatin B
+  hsa:1509 CTSD; cathepsin D
+  hsa:161725 OTUD7A; OTU deubiquitinase 7A
+  hsa:1636 ACE; angiotensin I converting enzyme
+  hsa:1803 DPP4; dipeptidyl peptidase 4
+  hsa:205564 SENP5; SUMO specific peptidase 5
+  hsa:23287 AGTPBP1; ATP/GTP binding carboxypeptidase 1
+  hsa:23203 PMPCA; peptidase, mitochondrial processing subunit alpha
+  hsa:23266 ADGRL2; adhesion G protein-coupled receptor L2
+  hsa:254827 NAALADL2; N-acetylated alpha-linked acidic dipeptidase like 2
+  hsa:26054 SENP6; SUMO specific peptidase 6
+  hsa:27429 HTRA2; HtrA serine peptidase 2
+  hsa:3249 HPN; hepsin
+  hsa:340267 COL28A1; collagen type XXVIII alpha 1 chain
+  hsa:389856 USP27X; ubiquitin specific peptidase 27 X-linked
+  hsa:440 ASNS; asparagine synthetase (glutamine-hydrolyzing)
+  hsa:427 ASAH1; N-acylsphingosine amidohydrolase 1
+  hsa:4323 MMP14; matrix metallopeptidase 14
+  hsa:3827 KNG1; kininogen 1
+  hsa:5054 SERPINE1; serpin family E member 1
+  hsa:51360 MBTPS2; membrane bound transcription factor peptidase, site 2
+  hsa:51099 ABHD5; abhydrolase domain containing 5, lysophosphatidic acid acyltransferase
+  hsa:5184 PEPD; peptidase D
+  hsa:54878 DPP8; dipeptidyl peptidase 8
+  hsa:55617 TASP1; taspase 1
+  hsa:57094 CPA6; carboxypeptidase A6
+  hsa:5648 MASP1; MBL associated serine protease 1
+  hsa:57448 BIRC6; baculoviral IAP repeat containing 6
+  hsa:6650 CAPN15; calpain 15
+  hsa:6469 SHH; sonic hedgehog signaling molecule
+  hsa:6873 TAF2; TATA-box binding protein associated factor 2
+  hsa:721 C4B; complement C4B (Chido blood group)
+  hsa:7874 USP7; ubiquitin specific peptidase 7
+  hsa:790 CAD; carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase
+  hsa:8239 USP9X; ubiquitin specific peptidase 9 X-linked
+  hsa:8287 USP9Y; ubiquitin specific peptidase 9 Y-linked
+  hsa:8192 CLPP; caseinolytic mitochondrial matrix peptidase proteolytic subunit
+  hsa:83943 IMMP2L; inner mitochondrial membrane peptidase subunit 2
+  hsa:85015 USP45; ubiquitin specific peptidase 45
+  hsa:84132 USP42; ubiquitin specific peptidase 42
+  hsa:8532 CPZ; carboxypeptidase Z
+  hsa:84871 AGBL4; AGBL carboxypeptidase 4
+  hsa:8492 PRSS12; serine protease 12
+  hsa:8833 GMPS; guanine monophosphate synthase
+  hsa:9289 ADGRG1; adhesion G protein-coupled receptor G1
+  hsa:9512 PMPCB; peptidase, mitochondrial processing subunit beta
+  hsa:95 ACY1; aminoacylase 1
+  hsa:9581 PREPL; prolyl endopeptidase like
+  hsa:9361 LONP1; lon peptidase 1, mitochondrial
+  hsa:9958 USP15; ubiquitin specific peptidase 15
+
+hsa03016 Transfer RNA biogenesis (56)
+
+  hsa:10352 WARS2; tryptophanyl tRNA synthetase 2, mitochondrial
+  hsa:10667 FARS2; phenylalanyl-tRNA synthetase 2, mitochondrial
+  hsa:113179 ADAT3; adenosine deaminase tRNA specific 3
+  hsa:10785 WDR4; WD repeat domain 4
+  hsa:112858 TP53RK; TP53 regulating kinase
+  hsa:116461 TSEN15; tRNA splicing endonuclease subunit 15
+  hsa:124454 EARS2; glutamyl-tRNA synthetase 2, mitochondrial
+  hsa:1615 DARS1; aspartyl-tRNA synthetase 1
+  hsa:16 AARS1; alanyl-tRNA synthetase 1
+  hsa:1917 EEF1A2; eukaryotic translation elongation factor 1 alpha 2
+  hsa:2058 EPRS1; glutamyl-prolyl-tRNA synthetase 1
+  hsa:23534 TNPO3; transportin 3
+  hsa:23395 LARS2; leucyl-tRNA synthetase 2, mitochondrial
+  hsa:24140 FTSJ1; FtsJ RNA 2'-O-methyltransferase 1
+  hsa:25821 MTO1; mitochondrial tRNA translation optimization 1
+  hsa:25973 PARS2; prolyl-tRNA synthetase 2, mitochondrial
+  hsa:26610 ELP4; elongator acetyltransferase complex subunit 4
+  hsa:283989 TSEN54; tRNA splicing endonuclease subunit 54
+  hsa:3376 IARS1; isoleucyl-tRNA synthetase 1
+  hsa:3735 KARS1; lysyl-tRNA synthetase 1
+  hsa:3035 HARS1; histidyl-tRNA synthetase 1
+  hsa:348180 CTU2; cytosolic thiouridylase subunit 2
+  hsa:4677 NARS1; asparaginyl-tRNA synthetase 1
+  hsa:51095 TRNT1; tRNA nucleotidyl transferase 1
+  hsa:51002 TPRKB; TP53RK binding protein
+  hsa:54888 NSUN2; NOP2/Sun RNA methyltransferase 2
+  hsa:54517 PUS7; pseudouridine synthase 7
+  hsa:54802 TRIT1; tRNA isopentenyltransferase 1
+  hsa:55157 DARS2; aspartyl-tRNA synthetase 2, mitochondrial
+  hsa:55621 TRMT1; tRNA methyltransferase 1
+  hsa:55644 OSGEP; O-sialoglycoprotein endopeptidase
+  hsa:55250 ELP2; elongator acetyltransferase complex subunit 2
+  hsa:54974 THG1L; tRNA-histidine guanylyltransferase 1 like
+  hsa:57410 SCYL1; SCY1 like pseudokinase 1
+  hsa:57038 RARS2; arginyl-tRNA synthetase 2, mitochondrial
+  hsa:57176 VARS2; valyl-tRNA synthetase 2, mitochondrial
+  hsa:60528 ELAC2; elaC ribonuclease Z 2
+  hsa:5859 QARS1; glutaminyl-tRNA synthetase 1
+  hsa:5917 RARS1; arginyl-tRNA synthetase 1
+  hsa:5805 PTS; 6-pyruvoyltetrahydropterin synthase
+  hsa:7514 XPO1; exportin 1
+  hsa:7965 AIMP2; aminoacyl tRNA synthetase complex interacting multifunctional protein 2
+  hsa:79731 NARS2; asparaginyl-tRNA synthetase 2, mitochondrial
+  hsa:79587 CARS2; cysteinyl-tRNA synthetase 2, mitochondrial
+  hsa:7407 VARS1; valyl-tRNA synthetase 1
+  hsa:80746 TSEN2; tRNA splicing endonuclease subunit 2
+  hsa:833 CARS1; cysteinyl-tRNA synthetase 1
+  hsa:80324 PUS1; pseudouridine synthase 1
+  hsa:83480 PUS3; pseudouridine synthase 3
+  hsa:8270 LAGE3; L antigen family member 3
+  hsa:8635 RNASET2; ribonuclease T2
+  hsa:84705 GTPBP3; GTP binding protein 3, mitochondrial
+  hsa:9255 AIMP1; aminoacyl tRNA synthetase complex interacting multifunctional protein 1
+  hsa:91801 ALKBH8; alkB homolog 8, tRNA methyltransferase
+  hsa:87178 PNPT1; polyribonucleotide nucleotidyltransferase 1
+  hsa:93587 TRMT10A; tRNA methyltransferase 10A
+
+hsa01003 Glycosyltransferases (51)
+
+  hsa:10195 ALG3; ALG3 alpha-1,3- mannosyltransferase
+  hsa:10585 POMT1; protein O-mannosyltransferase 1
+  hsa:10329 RXYLT1; ribitol xylosyltransferase 1
+  hsa:114805 GALNT13; polypeptide N-acetylgalactosaminyltransferase 13
+  hsa:11285 B4GALT7; beta-1,4-galactosyltransferase 7
+  hsa:126792 B3GALT6; beta-1,3-galactosyltransferase 6
+  hsa:145173 B3GLCT; beta 3-glucosyltransferase
+  hsa:148789 B3GALNT2; beta-1,3-N-acetylgalactosaminyltransferase 2
+  hsa:1798 DPAGT1; dolichyl-phosphate N-acetylglucosaminephosphotransferase 1
+  hsa:160418 TMTC3; transmembrane O-mannosyltransferase targeting cadherins 3
+  hsa:201595 STT3B; STT3 oligosaccharyltransferase complex catalytic subunit B
+  hsa:2131 EXT1; exostosin glycosyltransferase 1
+  hsa:2132 EXT2; exostosin glycosyltransferase 2
+  hsa:2137 EXTL3; exostosin like glycosyltransferase 3
+  hsa:2218 FKTN; fukutin
+  hsa:222537 HS3ST5; heparan sulfate-glucosamine 3-sulfotransferase 5
+  hsa:2530 FUT8; fucosyltransferase 8
+  hsa:2583 B4GALNT1; beta-1,4-N-acetyl-galactosaminyltransferase 1
+  hsa:2590 GALNT2; polypeptide N-acetylgalactosaminyltransferase 2
+  hsa:26290 GALNT8; polypeptide N-acetylgalactosaminyltransferase 8
+  hsa:2683 B4GALT1; beta-1,4-galactosyltransferase 1
+  hsa:29929 ALG6; ALG6 alpha-1,3-glucosyltransferase
+  hsa:29954 POMT2; protein O-mannosyltransferase 2
+  hsa:3703 STT3A; STT3 oligosaccharyltransferase complex catalytic subunit A
+  hsa:3340 NDST1; N-deacetylase and N-sulfotransferase 1
+  hsa:440138 ALG11; ALG11 alpha-1,2-mannosyltransferase
+  hsa:4247 MGAT2; alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase
+  hsa:5277 PIGA; phosphatidylinositol glycan anchor biosynthesis class A
+  hsa:55568 GALNT10; polypeptide N-acetylgalactosaminyltransferase 10
+  hsa:55650 PIGV; phosphatidylinositol glycan anchor biosynthesis class V
+  hsa:55790 CSGALNACT1; chondroitin sulfate N-acetylgalactosaminyltransferase 1
+  hsa:55624 POMGNT1; protein O-linked mannose N-acetylglucosaminyltransferase 1 (beta 1,2-)
+  hsa:56052 ALG1; ALG1 chitobiosyldiphosphodolichol beta-mannosyltransferase
+  hsa:64131 XYLT1; xylosyltransferase 1
+  hsa:6487 ST3GAL3; ST3 beta-galactoside alpha-2,3-sialyltransferase 3
+  hsa:79868 ALG13; ALG13 UDP-N-acetylglucosaminyltransferase subunit
+  hsa:79087 ALG12; ALG12 alpha-1,6-mannosyltransferase
+  hsa:79796 ALG9; ALG9 alpha-1,2-mannosyltransferase
+  hsa:79053 ALG8; ALG8 alpha-1,3-glucosyltransferase
+  hsa:79623 GALNT14; polypeptide N-acetylgalactosaminyltransferase 14
+  hsa:79147 FKRP; fukutin related protein
+  hsa:8128 ST8SIA2; ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2
+  hsa:85365 ALG2; ALG2 alpha-1,3/1,6-mannosyltransferase
+  hsa:8473 OGT; O-linked N-acetylglucosamine (GlcNAc) transferase
+  hsa:84892 POMGNT2; protein O-linked mannose N-acetylglucosaminyltransferase 2 (beta 1,4-)
+  hsa:8813 DPM1; dolichyl-phosphate mannosyltransferase subunit 1, catalytic
+  hsa:9215 LARGE1; LARGE xylosyl- and glucuronyltransferase 1
+  hsa:8869 ST3GAL5; ST3 beta-galactoside alpha-2,3-sialyltransferase 5
+  hsa:9488 PIGB; phosphatidylinositol glycan anchor biosynthesis class B
+  hsa:9526 MPDU1; mannose-P-dolichol utilization defect 1
+  hsa:9653 HS2ST1; heparan sulfate 2-O-sulfotransferase 1
+
+hsa04515 Cell adhesion molecules (47)
+
+  hsa:1000 CDH2; cadherin 2
+  hsa:1006 CDH8; cadherin 8
+  hsa:1007 CDH9; cadherin 9
+  hsa:1008 CDH10; cadherin 10
+  hsa:1009 CDH11; cadherin 11
+  hsa:1012 CDH13; cadherin 13
+  hsa:152330 CNTN4; contactin 4
+  hsa:1826 DSCAM; DS cell adhesion molecule
+  hsa:221935 SDK1; sidekick cell adhesion molecule 1
+  hsa:2195 FAT1; FAT atypical cadherin 1
+  hsa:23705 CADM1; cell adhesion molecule 1
+  hsa:253559 CADM2; cell adhesion molecule 2
+  hsa:257194 NEGR1; neuronal growth regulator 1
+  hsa:27255 CNTN6; contactin 6
+  hsa:27328 PCDH11X; protocadherin 11 X-linked
+  hsa:3685 ITGAV; integrin subunit alpha V
+  hsa:3690 ITGB3; integrin subunit beta 3
+  hsa:4099 MAG; myelin associated glycoprotein
+  hsa:3897 L1CAM; L1 cell adhesion molecule
+  hsa:5067 CNTN3; contactin 3
+  hsa:5101 PCDH9; protocadherin 9
+  hsa:51294 PCDH12; protocadherin 12
+  hsa:53942 CNTN5; contactin 5
+  hsa:56147 PCDHA1; protocadherin alpha 1
+  hsa:56135 PCDHAC1; protocadherin alpha subfamily C, 1
+  hsa:56142 PCDHA6; protocadherin alpha 6
+  hsa:56134 PCDHAC2; protocadherin alpha subfamily C, 2
+  hsa:56136 PCDHA13; protocadherin alpha 13
+  hsa:56137 PCDHA12; protocadherin alpha 12
+  hsa:56138 PCDHA11; protocadherin alpha 11
+  hsa:56139 PCDHA10; protocadherin alpha 10
+  hsa:56140 PCDHA8; protocadherin alpha 8
+  hsa:56141 PCDHA7; protocadherin alpha 7
+  hsa:56145 PCDHA3; protocadherin alpha 3
+  hsa:56143 PCDHA5; protocadherin alpha 5
+  hsa:56144 PCDHA4; protocadherin alpha 4
+  hsa:56146 
+  hsa:57526 PCDH19; protocadherin 19
+  hsa:5818 NECTIN1; nectin cell adhesion molecule 1
+  hsa:6092 ROBO2; roundabout guidance receptor 2
+  hsa:57575 PCDH10; protocadherin 10
+  hsa:64405 CDH22; cadherin 22
+  hsa:65217 PCDH15; protocadherin related 15
+  hsa:79633 FAT4; FAT atypical cadherin 4
+  hsa:8642 DCHS1; dachsous cadherin-related 1
+  hsa:9752 PCDHA9; protocadherin alpha 9
+  hsa:9746 CLSTN3; calsyntenin 3
+
+hsa03032 DNA replication proteins (43)
+
+  hsa:10535 RNASEH2A; ribonuclease H2 subunit A
+  hsa:1788 DNMT3A; DNA methyltransferase 3 alpha
+  hsa:1789 DNMT3B; DNA methyltransferase 3 beta
+  hsa:1736 DKC1; dyskerin pseudouridine synthase 1
+  hsa:2072 ERCC4; ERCC excision repair 4, endonuclease catalytic subunit
+  hsa:23293 SMG6; SMG6 nonsense mediated mRNA decay factor
+  hsa:23594 ORC6; origin recognition complex subunit 6
+  hsa:23649 POLA2; DNA polymerase alpha 2, accessory subunit
+  hsa:25913 POT1; protection of telomeres 1
+  hsa:26277 TINF2; TERF1 interacting nuclear factor 2
+  hsa:4173 MCM4; minichromosome maintenance complex component 4
+  hsa:4175 MCM6; minichromosome maintenance complex component 6
+  hsa:4361 MRE11; MRE11 homolog, double strand break repair nuclease
+  hsa:4998 ORC1; origin recognition complex subunit 1
+  hsa:5000 
+  hsa:4683 NBN; nibrin
+  hsa:472 ATM; ATM serine/threonine kinase
+  hsa:51659 GINS2; GINS complex subunit 2
+  hsa:51053 GMNN; geminin DNA replication inhibitor
+  hsa:51750 RTEL1; regulator of telomere elongation helicase 1
+  hsa:5422 POLA1; DNA polymerase alpha 1, catalytic subunit
+  hsa:5428 POLG; DNA polymerase gamma, catalytic subunit
+  hsa:55183 RIF1; replication timing regulatory factor 1
+  hsa:5591 PRKDC; protein kinase, DNA-activated, catalytic subunit
+  hsa:5813 PURA; purine rich element binding protein A
+  hsa:63901 FAM111A; FAM111 trypsin like peptidase A
+  hsa:6628 SNRPB; small nuclear ribonucleoprotein polypeptides B and B1
+  hsa:641 BLM; BLM RecQ like helicase
+  hsa:7014 TERF2; telomeric repeat binding factor 2
+  hsa:7015 TERT; telomerase reverse transcriptase
+  hsa:7150 TOP1; DNA topoisomerase I
+  hsa:7153 TOP2A; DNA topoisomerase II alpha
+  hsa:7156 TOP3A; DNA topoisomerase III alpha
+  hsa:79621 RNASEH2B; ribonuclease H2 subunit B
+  hsa:81620 CDT1; chromatin licensing and DNA replication factor 1
+  hsa:8317 CDC7; cell division cycle 7
+  hsa:8318 CDC45; cell division cycle 45
+  hsa:80169 CTC1; CST telomere replication complex component 1
+  hsa:84153 RNASEH2C; ribonuclease H2 subunit C
+  hsa:891 CCNB1; cyclin B1
+  hsa:8940 TOP3B; DNA topoisomerase III beta
+  hsa:990 CDC6; cell division cycle 6
+  hsa:9894 TELO2; telomere maintenance 2
+
+hsa04031 GTP-binding proteins (35)
+
+  hsa:10681 GNB5; G protein subunit beta 5
+  hsa:116442 RAB39B; RAB39B, member RAS oncogene family
+  hsa:200894 ARL13B; ADP ribosylation factor like GTPase 13B
+  hsa:22800 RRAS2; RAS related 2
+  hsa:22808 MRAS; muscle RAS oncogene homolog
+  hsa:23221 RHOBTB2; Rho related BTB domain containing 2
+  hsa:22931 RAB18; RAB18, member RAS oncogene family
+  hsa:2770 GNAI1; G protein subunit alpha i1
+  hsa:2775 GNAO1; G protein subunit alpha o1
+  hsa:2778 GNAS; GNAS complex locus
+  hsa:2776 GNAQ; G protein subunit alpha q
+  hsa:2782 GNB1; G protein subunit beta 1
+  hsa:28511 NKIRAS2; NFKB inhibitor interacting Ras like 2
+  hsa:3265 HRAS; HRas proto-oncogene, GTPase
+  hsa:339122 RAB43; RAB43, member RAS oncogene family
+  hsa:375 ARF1; ADP ribosylation factor 1
+  hsa:373 TRIM23; tripartite motif containing 23
+  hsa:3845 KRAS; KRAS proto-oncogene, GTPase
+  hsa:403 ARL3; ADP ribosylation factor like GTPase 3
+  hsa:4893 NRAS; NRAS proto-oncogene, GTPase
+  hsa:51715 
+  hsa:51764 GNG13; G protein subunit gamma 13
+  hsa:54676 GTPBP2; GTP binding protein 2
+  hsa:6016 RIT1; Ras like without CAAX 1
+  hsa:6014 RIT2; Ras like without CAAX 2
+  hsa:5898 RALA; RAS like proto-oncogene A
+  hsa:6009 RHEB; Ras homolog, mTORC1 binding
+  hsa:5879 RAC1; Rac family small GTPase 1
+  hsa:5881 RAC3; Rac family small GTPase 3
+  hsa:5862 RAB2A; RAB2A, member RAS oncogene family
+  hsa:5873 RAB27A; RAB27A, member RAS oncogene family
+  hsa:84100 ARL6; ADP ribosylation factor like GTPase 6
+  hsa:8766 RAB11A; RAB11A, member RAS oncogene family
+  hsa:9230 RAB11B; RAB11B, member RAS oncogene family
+  hsa:998 CDC42; cell division cycle 42
+
+hsa04090 CD molecules (35)
+
+  hsa:10288 LILRB2; leukocyte immunoglobulin like receptor B2
+  hsa:1000 CDH2; cadherin 2
+  hsa:1436 CSF1R; colony stimulating factor 1 receptor
+  hsa:1803 DPP4; dipeptidyl peptidase 4
+  hsa:1636 ACE; angiotensin I converting enzyme
+  hsa:2260 
+  hsa:2263 FGFR2; fibroblast growth factor receptor 2
+  hsa:2261 FGFR3; fibroblast growth factor receptor 3
+  hsa:23446 SLC44A1; solute carrier family 44 member 1
+  hsa:283316 CD163L1; CD163 molecule like 1
+  hsa:3685 ITGAV; integrin subunit alpha V
+  hsa:3690 ITGB3; integrin subunit beta 3
+  hsa:3480 IGF1R; insulin like growth factor 1 receptor
+  hsa:4035 LRP1; LDL receptor related protein 1
+  hsa:3920 LAMP2; lysosomal associated membrane protein 2
+  hsa:3897 L1CAM; L1 cell adhesion molecule
+  hsa:4481 MSR1; macrophage scavenger receptor 1
+  hsa:5159 PDGFRB; platelet derived growth factor receptor beta
+  hsa:5167 ENPP1; ectonucleotide pyrophosphatase/phosphodiesterase 1
+  hsa:5133 PDCD1; programmed cell death 1
+  hsa:5329 PLAUR; plasminogen activator, urokinase receptor
+  hsa:54910 SEMA4C; semaphorin 4C
+  hsa:5788 PTPRC; protein tyrosine phosphatase receptor type C
+  hsa:5818 NECTIN1; nectin cell adhesion molecule 1
+  hsa:58494 JAM2; junctional adhesion molecule 2
+  hsa:658 BMPR1B; bone morphogenetic protein receptor type 1B
+  hsa:6383 SDC2; syndecan 2
+  hsa:683 BST1; bone marrow stromal cell antigen 1
+  hsa:7010 TEK; TEK receptor tyrosine kinase
+  hsa:7102 TSPAN7; tetraspanin 7
+  hsa:7850 IL1R2; interleukin 1 receptor type 2
+  hsa:83692 CD99L2; CD99 molecule like 2
+  hsa:80381 CD276; CD276 molecule
+  hsa:952 CD38; CD38 molecule
+  hsa:953 ENTPD1; ectonucleoside triphosphate diphosphohydrolase 1
+
+hsa04030 G protein-coupled receptors (31)
+
+  hsa:1128 CHRM1; cholinergic receptor muscarinic 1
+  hsa:1131 CHRM3; cholinergic receptor muscarinic 3
+  hsa:135 ADORA2A; adenosine A2a receptor
+  hsa:140 ADORA3; adenosine A3 receptor
+  hsa:1268 CNR1; cannabinoid receptor 1
+  hsa:119772 OR52M1; olfactory receptor family 52 subfamily M member 1
+  hsa:127069 OR2T10; olfactory receptor family 2 subfamily T member 10
+  hsa:154 ADRB2; adrenoceptor beta 2
+  hsa:1812 DRD1; dopamine receptor D1
+  hsa:1813 DRD2; dopamine receptor D2
+  hsa:1524 CX3CR1; C-X3-C motif chemokine receptor 1
+  hsa:1814 DRD3; dopamine receptor D3
+  hsa:186 AGTR2; angiotensin II receptor type 2
+  hsa:23266 ADGRL2; adhesion G protein-coupled receptor L2
+  hsa:26188 OR1C1; olfactory receptor family 1 subfamily C member 1
+  hsa:26245 OR2M4; olfactory receptor family 2 subfamily M member 4
+  hsa:2861 GPR37; G protein-coupled receptor 37
+  hsa:2911 GRM1; glutamate metabotropic receptor 1
+  hsa:2915 GRM5; glutamate metabotropic receptor 5
+  hsa:2917 GRM7; glutamate metabotropic receptor 7
+  hsa:3351 HTR1B; 5-hydroxytryptamine receptor 1B
+  hsa:343172 OR2T8; olfactory receptor family 2 subfamily T member 8
+  hsa:5021 OXTR; oxytocin receptor
+  hsa:54329 GPR85; G protein-coupled receptor 85
+  hsa:552 AVPR1A; arginine vasopressin receptor 1A
+  hsa:553 AVPR1B; arginine vasopressin receptor 1B
+  hsa:6608 SMO; smoothened, frizzled class receptor
+  hsa:8484 GALR3; galanin receptor 3
+  hsa:9289 ADGRG1; adhesion G protein-coupled receptor G1
+  hsa:94233 OPN4; opsin 4
+  hsa:9568 GABBR2; gamma-aminobutyric acid type B receptor subunit 2
+
+hsa03009 Ribosome biogenesis (26)
+
+  hsa:10199 MPHOSPH10; M-phase phosphoprotein 10
+  hsa:10436 EMG1; EMG1 N1-specific pseudouridine methyltransferase
+  hsa:10527 IPO7; importin 7
+  hsa:10482 NXF1; nuclear RNA export factor 1
+  hsa:11103 KRR1; KRR1 small subunit processome component homolog
+  hsa:1457 CSNK2A1; casein kinase 2 alpha 1
+  hsa:1460 CSNK2B; casein kinase 2 beta
+  hsa:1736 DKC1; dyskerin pseudouridine synthase 1
+  hsa:166378 
+  hsa:23378 RRP8; ribosomal RNA processing 8
+  hsa:29081 METTL5; methyltransferase 5, N6-adenosine
+  hsa:3508 IGHMBP2; immunoglobulin mu DNA binding protein 2
+  hsa:51761 ATP8A2; ATPase phospholipid transporting 8A2
+  hsa:51119 SBDS; SBDS ribosome maturation factor
+  hsa:54881 TEX10; testis expressed 10
+  hsa:55813 UTP6; UTP6 small subunit processome component
+  hsa:55131 RBM28; RNA binding motif protein 28
+  hsa:65083 NOL6; nucleolar protein 6
+  hsa:6949 TCOF1; treacle ribosome biogenesis factor 1
+  hsa:7514 XPO1; exportin 1
+  hsa:79631 EFL1; elongation factor like GTPase 1
+  hsa:81887 LAS1L; LAS1 like ribosome biogenesis factor
+  hsa:84295 PHF6; PHD finger protein 6
+  hsa:9147 NEMF; nuclear export mediator factor
+  hsa:9775 EIF4A3; eukaryotic translation initiation factor 4A3
+  hsa:9326 ZNHIT3; zinc finger HIT-type containing 3
+
+hsa01007 Amino acid related enzymes (25)
+
+  hsa:10352 WARS2; tryptophanyl tRNA synthetase 2, mitochondrial
+  hsa:10667 FARS2; phenylalanyl-tRNA synthetase 2, mitochondrial
+  hsa:124454 EARS2; glutamyl-tRNA synthetase 2, mitochondrial
+  hsa:1615 DARS1; aspartyl-tRNA synthetase 1
+  hsa:16 AARS1; alanyl-tRNA synthetase 1
+  hsa:18 ABAT; 4-aminobutyrate aminotransferase
+  hsa:2058 EPRS1; glutamyl-prolyl-tRNA synthetase 1
+  hsa:23395 LARS2; leucyl-tRNA synthetase 2, mitochondrial
+  hsa:25973 PARS2; prolyl-tRNA synthetase 2, mitochondrial
+  hsa:2806 GOT2; glutamic-oxaloacetic transaminase 2
+  hsa:3376 IARS1; isoleucyl-tRNA synthetase 1
+  hsa:3735 KARS1; lysyl-tRNA synthetase 1
+  hsa:3035 HARS1; histidyl-tRNA synthetase 1
+  hsa:4677 NARS1; asparaginyl-tRNA synthetase 1
+  hsa:55157 DARS2; aspartyl-tRNA synthetase 2, mitochondrial
+  hsa:57038 RARS2; arginyl-tRNA synthetase 2, mitochondrial
+  hsa:57176 VARS2; valyl-tRNA synthetase 2, mitochondrial
+  hsa:5859 QARS1; glutaminyl-tRNA synthetase 1
+  hsa:5917 RARS1; arginyl-tRNA synthetase 1
+  hsa:6898 TAT; tyrosine aminotransferase
+  hsa:79587 CARS2; cysteinyl-tRNA synthetase 2, mitochondrial
+  hsa:7407 VARS1; valyl-tRNA synthetase 1
+  hsa:79731 NARS2; asparaginyl-tRNA synthetase 2, mitochondrial
+  hsa:833 CARS1; cysteinyl-tRNA synthetase 1
+  hsa:84706 GPT2; glutamic--pyruvic transaminase 2
+
+hsa00536 Glycosaminoglycan binding proteins (23)
+
+  hsa:1277 COL1A1; collagen type I alpha 1 chain
+  hsa:1278 COL1A2; collagen type I alpha 2 chain
+  hsa:1281 COL3A1; collagen type III alpha 1 chain
+  hsa:1284 COL4A2; collagen type IV alpha 2 chain
+  hsa:1282 COL4A1; collagen type IV alpha 1 chain
+  hsa:1301 COL11A1; collagen type XI alpha 1 chain
+  hsa:2257 FGF12; fibroblast growth factor 12
+  hsa:2258 FGF13; fibroblast growth factor 13
+  hsa:2259 FGF14; fibroblast growth factor 14
+  hsa:2260 
+  hsa:2263 FGFR2; fibroblast growth factor receptor 2
+  hsa:2243 FGA; fibrinogen alpha chain
+  hsa:2200 FBN1; fibrillin 1
+  hsa:5054 SERPINE1; serpin family E member 1
+  hsa:6469 SHH; sonic hedgehog signaling molecule
+  hsa:64093 SMOC1; SPARC related modular calcium binding 1
+  hsa:6546 SLC8A1; solute carrier family 8 member A1
+  hsa:7143 TNR; tenascin R
+  hsa:7057 THBS1; thrombospondin 1
+  hsa:7471 WNT1; Wnt family member 1
+  hsa:80781 COL18A1; collagen type XVIII alpha 1 chain
+  hsa:85301 COL27A1; collagen type XXVII alpha 1 chain
+  hsa:952 CD38; CD38 molecule
+
+hsa03110 Chaperones and folding catalysts (21)
+
+  hsa:10575 CCT4; chaperonin containing TCP1 subunit 4
+  hsa:10273 STUB1; STIP1 homology and U-box containing protein 1
+  hsa:10283 CWC27; CWC27 spliceosome associated cyclophilin
+  hsa:10695 CNPY3; canopy FGF signaling regulator 3
+  hsa:131118 DNAJC19; DnaJ heat shock protein family (Hsp40) member C19
+  hsa:124512 METTL23; methyltransferase like 23
+  hsa:1200 TPP1; tripeptidyl peptidase 1
+  hsa:1861 TOR1A; torsin family 1 member A
+  hsa:23184 MESD; mesoderm development LRP chaperone
+  hsa:26092 TOR1AIP1; torsin 1A interacting protein 1
+  hsa:27429 HTRA2; HtrA serine peptidase 2
+  hsa:3329 HSPD1; heat shock protein family D (Hsp60) member 1
+  hsa:3073 HEXA; hexosaminidase subunit alpha
+  hsa:3074 HEXB; hexosaminidase subunit beta
+  hsa:51501 HIKESHI; heat shock protein nuclear import factor hikeshi
+  hsa:56521 DNAJC12; DnaJ heat shock protein family (Hsp40) member C12
+  hsa:55898 UNC45A; unc-45 myosin chaperone A
+  hsa:57003 CCDC47; coiled-coil domain containing 47
+  hsa:81570 CLPB; caseinolytic mitochondrial matrix peptidase chaperone subunit B
+  hsa:8195 MKKS; MKKS centrosomal shuttling protein
+  hsa:9829 DNAJC6; DnaJ heat shock protein family (Hsp40) member C6
+
+hsa03012 Translation factors (17)
+
+  hsa:10102 TSFM; Ts translation elongation factor, mitochondrial
+  hsa:1801 DPH1; diphthamide biosynthesis 1
+  hsa:1968 EIF2S3; eukaryotic translation initiation factor 2 subunit gamma
+  hsa:1977 EIF4E; eukaryotic translation initiation factor 4E
+  hsa:1981 EIF4G1; eukaryotic translation initiation factor 4 gamma 1
+  hsa:1917 EEF1A2; eukaryotic translation elongation factor 1 alpha 2
+  hsa:1933 EEF1B2; eukaryotic translation elongation factor 1 beta 2
+  hsa:23708 GSPT2; G1 to S phase transition 2
+  hsa:3508 IGHMBP2; immunoglobulin mu DNA binding protein 2
+  hsa:51651 PTRH2; peptidyl-tRNA hydrolase 2
+  hsa:84340 GFM2; GTP dependent ribosome recycling factor mitochondrial 2
+  hsa:85476 GFM1; G elongation factor mitochondrial 1
+  hsa:8890 EIF2B4; eukaryotic translation initiation factor 2B subunit delta
+  hsa:8893 EIF2B5; eukaryotic translation initiation factor 2B subunit epsilon
+  hsa:8665 EIF3F; eukaryotic translation initiation factor 3 subunit F
+  hsa:8666 EIF3G; eukaryotic translation initiation factor 3 subunit G
+  hsa:9775 EIF4A3; eukaryotic translation initiation factor 4A3
+
+hsa03310 Nuclear receptors (13)
+
+  hsa:2100 ESR2; estrogen receptor 2
+  hsa:2103 ESRRB; estrogen related receptor beta
+  hsa:367 
+  hsa:4306 NR3C2; nuclear receptor subfamily 3 group C member 2
+  hsa:4929 NR4A2; nuclear receptor subfamily 4 group A member 2
+  hsa:5915 RARB; retinoic acid receptor beta
+  hsa:6095 RORA; RAR related orphan receptor A
+  hsa:6096 RORB; RAR related orphan receptor B
+  hsa:7067 THRA; thyroid hormone receptor alpha
+  hsa:7068 THRB; thyroid hormone receptor beta
+  hsa:7025 NR2F1; nuclear receptor subfamily 2 group F member 1
+  hsa:7421 VDR; vitamin D receptor
+  hsa:9572 NR1D1; nuclear receptor subfamily 1 group D member 1
+
+hsa01004 Lipid biosynthesis proteins (12)
+
+  hsa:10555 AGPAT2; 1-acylglycerol-3-phosphate O-acyltransferase 2
+  hsa:10999 SLC27A4; solute carrier family 27 member 4
+  hsa:2194 FASN; fatty acid synthase
+  hsa:2182 ACSL4; acyl-CoA synthetase long chain family member 4
+  hsa:51099 ABHD5; abhydrolase domain containing 5, lysophosphatidic acid acyltransferase
+  hsa:54898 ELOVL2; ELOVL fatty acid elongase 2
+  hsa:5538 PPT1; palmitoyl-protein thioesterase 1
+  hsa:6785 ELOVL4; ELOVL fatty acid elongase 4
+  hsa:79143 MBOAT7; membrane bound O-acyltransferase domain containing 7
+  hsa:8560 DEGS1; delta 4-desaturase, sphingolipid 1
+  hsa:9524 TECR; trans-2,3-enoyl-CoA reductase
+  hsa:9415 FADS2; fatty acid desaturase 2
+
+hsa00537 Glycosylphosphatidylinositol (GPI)-anchored proteins (11)
+
+  hsa:10082 GPC6; glypican 6
+  hsa:2239 GPC4; glypican 4
+  hsa:2348 FOLR1; folate receptor alpha
+  hsa:2719 GPC3; glypican 3
+  hsa:3105 HLA-A; major histocompatibility complex, class I, A
+  hsa:3106 HLA-B; major histocompatibility complex, class I, B
+  hsa:3135 HLA-G; major histocompatibility complex, class I, G
+  hsa:43 ACHE; acetylcholinesterase (Cartwright blood group)
+  hsa:5167 ENPP1; ectonucleotide pyrophosphatase/phosphodiesterase 1
+  hsa:5329 PLAUR; plasminogen activator, urokinase receptor
+  hsa:683 BST1; bone marrow stromal cell antigen 1
+
+hsa01006 Prenyltransferases (8)
+
+  hsa:1121 CHM; CHM Rab escort protein
+  hsa:1352 COX10; cytochrome c oxidase assembly factor heme A:farnesyltransferase COX10
+  hsa:2222 FDFT1; farnesyl-diphosphate farnesyltransferase 1
+  hsa:23590 PDSS1; decaprenyl diphosphate synthase subunit 1
+  hsa:27235 COQ2; coenzyme Q2, polyprenyltransferase
+  hsa:54802 TRIT1; tRNA isopentenyltransferase 1
+  hsa:57107 PDSS2; decaprenyl diphosphate synthase subunit 2
+  hsa:79947 DHDDS; dehydrodolichyl diphosphate synthase subunit
+
+hsa00535 Proteoglycans (7)
+
+  hsa:10082 GPC6; glypican 6
+  hsa:2239 GPC4; glypican 4
+  hsa:2719 GPC3; glypican 3
+  hsa:3339 HSPG2; heparan sulfate proteoglycan 2
+  hsa:6383 SDC2; syndecan 2
+  hsa:80781 COL18A1; collagen type XVIII alpha 1 chain
+  hsa:9126 SMC3; structural maintenance of chromosomes 3
+
+hsa04052 Cytokines and growth factors (7)
+
+  hsa:2257 FGF12; fibroblast growth factor 12
+  hsa:2258 FGF13; fibroblast growth factor 13
+  hsa:2259 FGF14; fibroblast growth factor 14
+  hsa:2657 GDF1; growth differentiation factor 1
+  hsa:3479 IGF1; insulin like growth factor 1
+  hsa:3952 LEP; leptin
+  hsa:9542 NRG2; neuregulin 2
+
+hsa03011 Ribosome (6)
+
+  hsa:56945 MRPS22; mitochondrial ribosomal protein S22
+  hsa:6231 RPS26; ribosomal protein S26
+  hsa:6124 RPL4; ribosomal protein L4
+  hsa:6134 RPL10; ribosomal protein L10
+  hsa:6154 RPL26; ribosomal protein L26
+  hsa:65993 MRPS34; mitochondrial ribosomal protein S34
+
+hsa04050 Cytokine receptors (4)
+
+  hsa:11141 IL1RAPL1; interleukin 1 receptor accessory protein like 1
+  hsa:1524 CX3CR1; C-X3-C motif chemokine receptor 1
+  hsa:26280 IL1RAPL2; interleukin 1 receptor accessory protein like 2
+  hsa:7850 IL1R2; interleukin 1 receptor type 2
+
+hsa04091 Lectins (4)
+
+  hsa:4099 MAG; myelin associated glycoprotein
+  hsa:3897 L1CAM; L1 cell adhesion molecule
+  hsa:78989 COLEC11; collectin subfamily member 11
+  hsa:84572 GNPTG; N-acetylglucosamine-1-phosphate transferase subunit gamma
+
+hsa00199 Cytochrome P450 (3)
+
+  hsa:113612 CYP2U1; cytochrome P450 family 2 subfamily U member 1
+  hsa:1584 CYP11B1; cytochrome P450 family 11 subfamily B member 1
+  hsa:1593 CYP27A1; cytochrome P450 family 27 subfamily A member 1
+
+hsa03051 Proteasome (3)
+
+  hsa:23198 PSME4; proteasome activator subunit 4
+  hsa:389362 PSMG4; proteasome assembly chaperone 4
+  hsa:5718 PSMD12; proteasome 26S subunit, non-ATPase 12
+
+hsa04054 Pattern recognition receptors (2)
+
+  hsa:114548 NLRP3; NLR family pyrin domain containing 3
+  hsa:64135 IFIH1; interferon induced with helicase C domain 1
+
+hsa02044 Secretion system (2)
+
+  hsa:6729 SRP54; signal recognition particle 54
+  hsa:6734 SRPRA; SRP receptor subunit alpha
+

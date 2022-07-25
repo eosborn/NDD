@@ -1,0 +1,1 @@
+{'ADA': ['hsa01100'], 'PIGK': ['hsa01100'], 'AASS': ['hsa01100'], 'ALG3': ['hsa01100'], 'GPHN': ['hsa01100'], 'RXYLT1': ['hsa01100'], 'CEPT1': ['hsa01100'], 'AGPAT2': ['hsa01100'], 'POMT1': ['hsa01100']}
