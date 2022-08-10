@@ -1,0 +1,229 @@
+AASS	hsa:10157	aminoadipate-semialdehyde synthase
+ABAT	hsa:18	4-aminobutyrate aminotransferase
+ACACA	hsa:31	acetyl-CoA carboxylase alpha
+ACADM	hsa:34	acyl-CoA dehydrogenase medium chain
+ACADS	hsa:35	acyl-CoA dehydrogenase short chain
+ACO2	hsa:50	aconitase 2
+ACOX1	hsa:51	acyl-CoA oxidase 1
+ADSL	hsa:158	adenylosuccinate lyase
+ADSS2	hsa:159	adenylosuccinate synthase 2
+AGPAT2	hsa:10555	1-acylglycerol-3-phosphate O-acyltransferase 2
+AGPAT5	hsa:55326	1-acylglycerol-3-phosphate O-acyltransferase 5
+AHCY	hsa:191	adenosylhomocysteinase
+AHCYL1	hsa:10768	adenosylhomocysteinase like 1
+AK1	hsa:203	adenylate kinase 1
+ALDH18A1	hsa:5832	aldehyde dehydrogenase 18 family member A1
+ALDH3A2	hsa:224	aldehyde dehydrogenase 3 family member A2
+ALDH5A1	hsa:7915	aldehyde dehydrogenase 5 family member A1
+ALDH7A1	hsa:501	aldehyde dehydrogenase 7 family member A1
+ALG1	hsa:56052	ALG1 chitobiosyldiphosphodolichol beta-mannosyltransferase
+ALG11	hsa:440138	ALG11 alpha-1,2-mannosyltransferase
+ALG12	hsa:79087	ALG12 alpha-1,6-mannosyltransferase
+ALG13	hsa:79868	ALG13 UDP-N-acetylglucosaminyltransferase subunit
+ALG2	hsa:85365	ALG2 alpha-1,3/1,6-mannosyltransferase
+ALG3	hsa:10195	ALG3 alpha-1,3- mannosyltransferase
+ALG6	hsa:29929	ALG6 alpha-1,3-glucosyltransferase
+ALG8	hsa:79053	ALG8 alpha-1,3-glucosyltransferase
+ALG9	hsa:79796	ALG9 alpha-1,2-mannosyltransferase
+AMT	hsa:275	aminomethyltransferase
+ARG1	hsa:383	arginase 1
+ARSB	hsa:411	arylsulfatase B
+ASAH1	hsa:427	N-acylsphingosine amidohydrolase 1
+ASL	hsa:435	argininosuccinate lyase
+ASMT	hsa:438	acetylserotonin O-methyltransferase
+ATIC	hsa:471	5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase
+ATP5F1A	hsa:498	ATP synthase F1 subunit alpha
+ATP6	hsa:4508	ATP synthase F0 subunit 6
+ATP6V0A1	hsa:535	ATPase H+ transporting V0 subunit a1
+ATP6V0A2	hsa:23545	ATPase H+ transporting V0 subunit a2
+ATP6V1A	hsa:523	ATPase H+ transporting V1 subunit A
+ATP6V1B2	hsa:526	ATPase H+ transporting V1 subunit B2
+AUH	hsa:549	AU RNA binding methylglutaconyl-CoA hydratase
+B3GALNT2	hsa:148789	beta-1,3-N-acetylgalactosaminyltransferase 2
+B3GALT6	hsa:126792	beta-1,3-galactosyltransferase 6
+B4GALT1	hsa:2683	beta-1,4-galactosyltransferase 1
+B4GALT7	hsa:11285	beta-1,4-galactosyltransferase 7
+BCKDHA	hsa:593	branched chain keto acid dehydrogenase E1 subunit alpha
+BCKDHB	hsa:594	branched chain keto acid dehydrogenase E1 subunit beta
+CAD	hsa:790	carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase
+CBS	hsa:875	cystathionine beta-synthase
+CEPT1	hsa:10390	choline/ethanolamine phosphotransferase 1
+CHKB	hsa:1120	choline kinase beta
+COASY	hsa:80347	Coenzyme A synthase
+COX1	hsa:4512	cytochrome c oxidase subunit I
+COX10	hsa:1352	cytochrome c oxidase assembly factor heme A:farnesyltransferase COX10
+COX15	hsa:1355	cytochrome c oxidase assembly homolog COX15
+COX2	hsa:4513	cytochrome c oxidase subunit II
+COX3	hsa:4514	cytochrome c oxidase subunit III
+COX6B1	hsa:1340	cytochrome c oxidase subunit 6B1
+CPS1	hsa:1373	carbamoyl-phosphate synthase 1
+CRPPA	hsa:729920	CDP-L-ribitol pyrophosphorylase A
+CYP11B1	hsa:1584	cytochrome P450 family 11 subfamily B member 1
+CYP27A1	hsa:1593	cytochrome P450 family 27 subfamily A member 1
+DBT	hsa:1629	dihydrolipoamide branched chain transacylase E2
+DDC	hsa:1644	dopa decarboxylase
+DDOST	hsa:1650	dolichyl-diphosphooligosaccharide--protein glycosyltransferase non-catalytic subunit
+DEGS1	hsa:8560	delta 4-desaturase, sphingolipid 1
+DHCR24	hsa:1718	24-dehydrocholesterol reductase
+DHCR7	hsa:1717	7-dehydrocholesterol reductase
+DHFR	hsa:1719	dihydrofolate reductase
+DHTKD1	hsa:55526	dehydrogenase E1 and transketolase domain containing 1
+DLAT	hsa:1737	dihydrolipoamide S-acetyltransferase
+DLD	hsa:1738	dihydrolipoamide dehydrogenase
+DNMT3A	hsa:1788	DNA methyltransferase 3 alpha
+DNMT3B	hsa:1789	DNA methyltransferase 3 beta
+DPAGT1	hsa:1798	dolichyl-phosphate N-acetylglucosaminephosphotransferase 1
+DPYD	hsa:1806	dihydropyrimidine dehydrogenase
+EBP	hsa:10682	EBP cholestenol delta-isomerase
+ECHS1	hsa:1892	enoyl-CoA hydratase, short chain 1
+ELOVL2	hsa:54898	ELOVL fatty acid elongase 2
+ELOVL4	hsa:6785	ELOVL fatty acid elongase 4
+ENO3	hsa:2027	enolase 3
+EXT1	hsa:2131	exostosin glycosyltransferase 1
+EXT2	hsa:2132	exostosin glycosyltransferase 2
+EXTL3	hsa:2137	exostosin like glycosyltransferase 3
+FAH	hsa:2184	fumarylacetoacetate hydrolase
+FASN	hsa:2194	fatty acid synthase
+FH	hsa:2271	fumarate hydratase
+FKRP	hsa:79147	fukutin related protein
+FKTN	hsa:2218	fukutin
+FTCD	hsa:10841	formimidoyltransferase cyclodeaminase
+FUT8	hsa:2530	fucosyltransferase 8
+GAD1	hsa:2571	glutamate decarboxylase 1
+GALE	hsa:2582	UDP-galactose-4-epimerase
+GALNS	hsa:2588	galactosamine (N-acetyl)-6-sulfatase
+GALNT10	hsa:55568	polypeptide N-acetylgalactosaminyltransferase 10
+GALNT13	hsa:114805	polypeptide N-acetylgalactosaminyltransferase 13
+GALNT14	hsa:79623	polypeptide N-acetylgalactosaminyltransferase 14
+GALNT2	hsa:2590	polypeptide N-acetylgalactosaminyltransferase 2
+GALNT8	hsa:26290	polypeptide N-acetylgalactosaminyltransferase 8
+GALT	hsa:2592	galactose-1-phosphate uridylyltransferase
+GAMT	hsa:2593	guanidinoacetate N-methyltransferase
+GATM	hsa:2628	glycine amidinotransferase
+GBE1	hsa:2632	1,4-alpha-glucan branching enzyme 1
+GCDH	hsa:2639	glutaryl-CoA dehydrogenase
+GCH1	hsa:2643	GTP cyclohydrolase 1
+GCSH	hsa:2653	glycine cleavage system protein H
+GLB1	hsa:2720	galactosidase beta 1
+GLDC	hsa:2731	glycine decarboxylase
+GMPPA	hsa:29926	GDP-mannose pyrophosphorylase A
+GMPPB	hsa:29925	GDP-mannose pyrophosphorylase B
+GMPS	hsa:8833	guanine monophosphate synthase
+GNS	hsa:2799	glucosamine (N-acetyl)-6-sulfatase
+GOT2	hsa:2806	glutamic-oxaloacetic transaminase 2
+GPHN	hsa:10243	gephyrin
+GPT2	hsa:84706	glutamic--pyruvic transaminase 2
+GUSB	hsa:2990	glucuronidase beta
+HADH	hsa:3033	hydroxyacyl-CoA dehydrogenase
+HADHA	hsa:3030	hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha
+HEXA	hsa:3073	hexosaminidase subunit alpha
+HEXB	hsa:3074	hexosaminidase subunit beta
+HGSNAT	hsa:138050	heparan-alpha-glucosaminide N-acetyltransferase
+HIBCH	hsa:26275	3-hydroxyisobutyryl-CoA hydrolase
+HK1	hsa:3098	hexokinase 1
+HMGCL	hsa:3155	3-hydroxy-3-methylglutaryl-CoA lyase
+HPD	hsa:3242	4-hydroxyphenylpyruvate dioxygenase
+HSD11B1	hsa:3290	hydroxysteroid 11-beta dehydrogenase 1
+HSD17B4	hsa:3295	hydroxysteroid 17-beta dehydrogenase 4
+IDH2	hsa:3418	isocitrate dehydrogenase (NADP(+)) 2
+IDS	hsa:3423	iduronate 2-sulfatase
+IDUA	hsa:3425	alpha-L-iduronidase
+IMPA1	hsa:3612	inositol monophosphatase 1
+IMPDH2	hsa:3615	inosine monophosphate dehydrogenase 2
+INPP1	hsa:3628	inositol polyphosphate-1-phosphatase
+INPP4A	hsa:3631	inositol polyphosphate-4-phosphatase type I A
+IVD	hsa:3712	isovaleryl-CoA dehydrogenase
+LARGE1	hsa:9215	LARGE xylosyl- and glucuronyltransferase 1
+LIAS	hsa:11019	lipoic acid synthetase
+LIPT2	hsa:387787	lipoyl(octanoyl) transferase 2
+LSS	hsa:4047	lanosterol synthase
+MAN1B1	hsa:11253	mannosidase alpha class 1B member 1
+MAOA	hsa:4128	monoamine oxidase A
+MAOB	hsa:4129	monoamine oxidase B
+MAT1A	hsa:4143	methionine adenosyltransferase 1A
+MCCC1	hsa:56922	methylcrotonyl-CoA carboxylase subunit 1
+MCCC2	hsa:64087	methylcrotonyl-CoA carboxylase subunit 2
+MDH2	hsa:4191	malate dehydrogenase 2
+MGAT2	hsa:4247	alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase
+MMUT	hsa:4594	methylmalonyl-CoA mutase
+MOCS1	hsa:4337	molybdenum cofactor synthesis 1
+MOCS2	hsa:4338	molybdenum cofactor synthesis 2
+MOGS	hsa:7841	mannosyl-oligosaccharide glucosidase
+MPI	hsa:4351	mannose phosphate isomerase
+NAGLU	hsa:4669	N-acetyl-alpha-glucosaminidase
+NDST1	hsa:3340	N-deacetylase and N-sulfotransferase 1
+NDUFA1	hsa:4694	NADH:ubiquinone oxidoreductase subunit A1
+NDUFA11	hsa:126328	NADH:ubiquinone oxidoreductase subunit A11
+NDUFA5	hsa:4698	NADH:ubiquinone oxidoreductase subunit A5
+NDUFA6	hsa:4700	NADH:ubiquinone oxidoreductase subunit A6
+NDUFS1	hsa:4719	NADH:ubiquinone oxidoreductase core subunit S1
+NDUFS2	hsa:4720	NADH:ubiquinone oxidoreductase core subunit S2
+NDUFS3	hsa:4722	NADH:ubiquinone oxidoreductase core subunit S3
+NDUFS4	hsa:4724	NADH:ubiquinone oxidoreductase subunit S4
+NDUFS7	hsa:374291	NADH:ubiquinone oxidoreductase core subunit S7
+NDUFS8	hsa:4728	NADH:ubiquinone oxidoreductase core subunit S8
+NDUFV1	hsa:4723	NADH:ubiquinone oxidoreductase core subunit V1
+NMNAT1	hsa:64802	nicotinamide nucleotide adenylyltransferase 1
+NSDHL	hsa:50814	NAD(P) dependent steroid dehydrogenase-like
+ODC1	hsa:4953	ornithine decarboxylase 1
+OTC	hsa:5009	ornithine transcarbamylase
+PANK2	hsa:80025	pantothenate kinase 2
+PC	hsa:5091	pyruvate carboxylase
+PCCA	hsa:5095	propionyl-CoA carboxylase subunit alpha
+PCCB	hsa:5096	propionyl-CoA carboxylase subunit beta
+PCYT2	hsa:5833	phosphate cytidylyltransferase 2, ethanolamine
+PDHA1	hsa:5160	pyruvate dehydrogenase E1 subunit alpha 1
+PDHX	hsa:8050	pyruvate dehydrogenase complex component X
+PGK1	hsa:5230	phosphoglycerate kinase 1
+PGM3	hsa:5238	phosphoglucomutase 3
+PHGDH	hsa:26227	phosphoglycerate dehydrogenase
+PIGA	hsa:5277	phosphatidylinositol glycan anchor biosynthesis class A
+PIGB	hsa:9488	phosphatidylinositol glycan anchor biosynthesis class B
+PIGC	hsa:5279	phosphatidylinositol glycan anchor biosynthesis class C
+PIGG	hsa:54872	phosphatidylinositol glycan anchor biosynthesis class G
+PIGH	hsa:5283	phosphatidylinositol glycan anchor biosynthesis class H
+PIGL	hsa:9487	phosphatidylinositol glycan anchor biosynthesis class L
+PIGN	hsa:23556	phosphatidylinositol glycan anchor biosynthesis class N
+PIGO	hsa:84720	phosphatidylinositol glycan anchor biosynthesis class O
+PIGP	hsa:51227	phosphatidylinositol glycan anchor biosynthesis class P
+PIGQ	hsa:9091	phosphatidylinositol glycan anchor biosynthesis class Q
+PIGV	hsa:55650	phosphatidylinositol glycan anchor biosynthesis class V
+PIGW	hsa:284098	phosphatidylinositol glycan anchor biosynthesis class W
+PIGY	hsa:84992	phosphatidylinositol glycan anchor biosynthesis class Y
+PLCB1	hsa:23236	phospholipase C beta 1
+PLCD4	hsa:84812	phospholipase C delta 4
+PLCG2	hsa:5336	phospholipase C gamma 2
+PMM2	hsa:5373	phosphomannomutase 2
+POMGNT2	hsa:84892	protein O-linked mannose N-acetylglucosaminyltransferase 2 (beta 1,4-)
+POMK	hsa:84197	protein O-mannose kinase
+POMT1	hsa:10585	protein O-mannosyltransferase 1
+POMT2	hsa:29954	protein O-mannosyltransferase 2
+PSPH	hsa:5723	phosphoserine phosphatase
+PTS	hsa:5805	6-pyruvoyltetrahydropterin synthase
+PYCR1	hsa:5831	pyrroline-5-carboxylate reductase 1
+PYCR2	hsa:29920	pyrroline-5-carboxylate reductase 2
+RRM1	hsa:6240	ribonucleotide reductase catalytic subunit M1
+RRM2B	hsa:50484	ribonucleotide reductase regulatory TP53 inducible subunit M2B
+RXYLT1	hsa:10329	ribitol xylosyltransferase 1
+SC5D	hsa:6309	sterol-C5-desaturase
+SCP2	hsa:6342	sterol carrier protein 2
+SDHA	hsa:6389	succinate dehydrogenase complex flavoprotein subunit A
+SGSH	hsa:6448	N-sulfoglucosamine sulfohydrolase
+SPR	hsa:6697	sepiapterin reductase
+STT3A	hsa:3703	STT3 oligosaccharyltransferase complex catalytic subunit A
+STT3B	hsa:201595	STT3 oligosaccharyltransferase complex catalytic subunit B
+SUCLA2	hsa:8803	succinate-CoA ligase ADP-forming subunit beta
+SUCLG1	hsa:8802	succinate-CoA ligase GDP/ADP-forming subunit alpha
+TAT	hsa:6898	tyrosine aminotransferase
+TDO2	hsa:6999	tryptophan 2,3-dioxygenase
+TECR	hsa:9524	trans-2,3-enoyl-CoA reductase
+TH	hsa:7054	tyrosine hydroxylase
+TKT	hsa:7086	transketolase
+TPI1	hsa:7167	triosephosphate isomerase 1
+TUSC3	hsa:7991	tumor suppressor candidate 3
+UGDH	hsa:7358	UDP-glucose 6-dehydrogenase
+UGP2	hsa:7360	UDP-glucose pyrophosphorylase 2
+UMPS	hsa:7372	uridine monophosphate synthetase
+UPB1	hsa:51733	beta-ureidopropionase 1
+UROC1	hsa:131669	urocanate hydratase 1
+XYLT1	hsa:64131	xylosyltransferase 1
