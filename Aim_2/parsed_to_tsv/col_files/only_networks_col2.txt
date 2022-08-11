@@ -1,0 +1,115 @@
+Alzheimer disease
+Human cytomegalovirus
+Parkinson disease
+Human papillomavirus
+Amyotrophic lateral sclerosis
+Kaposi sarcoma-associated herpesvirus
+Hepatocellular carcinoma
+Chemokine signaling
+Huntington disease
+Prion disease
+Spinocerebellar ataxia
+Transcription
+Cytokine-cytokine receptor interaction
+Cytoskeletal regulation
+N-Glycan biosynthesis
+Breast cancer
+Human immunodeficiency virus type 1
+Hepatitis B virus
+Human T-cell leukemia virus 1
+Calcium signaling
+Gastric cancer
+Hepatitis C virus
+Herpes simplex virus 1
+Influenza A virus
+PI3K signaling
+Glioma
+PI3K signaling
+ERK signaling
+Colorectal cancer
+Non-small cell lung cancer
+Oxidative phosphorylation
+MAPK signaling
+Membrane trafficking
+Hypogonadotropic hypogonadism
+GPI-anchor biosynthesis
+Valine, leucine and isoleucine degradation
+Epstein-Barr virus
+Pancreatic cancer
+Acute myeloid leukemia
+Microtubule-based transport
+Calcium signaling
+Renal cell carcinoma
+Endometrial cancer
+Thyroid cancer
+Chronic myeloid leukemia
+KISS1-GnRH-LH/FSH-E2 signaling
+Bladder cancer
+Melanoma
+GHRH-GH-IGF signaling
+CXCR signaling
+TRH-TSH-TH signaling
+PI3K signaling
+Glycosaminoglycan degradation
+Cell cycle
+O-Glycan biosynthesis
+TLR signaling
+Transcription
+Severe acute respiratory syndrome coronavirus 2
+Cell cycle
+Cushing syndrome
+Measles virus
+Nuclear receptor signaling
+Phenylalanine and tyrosine metabolism
+beta-Oxidation in mitochondria
+CRH-ACTH-cortisol signaling
+Angiotensin-aldosterone signaling
+AGE-RAGE signaling
+Sphingolipid degradation
+Other RAS signaling
+HH signaling
+TNF signaling
+cAMP signaling
+Basal cell carcinoma
+RNA processing
+Transcription
+TNF signaling
+MHC presentation
+Mitochondrial ROS formation
+CaSR-PTH signaling
+WNT signaling
+Complement activation
+NLR signaling
+WNT signaling
+Small cell lung cancer
+Prostate cancer
+Apoptosis
+Ubiquitin-proteasome system
+Dopamine metabolism
+Urea cycle
+Glycogen metabolism
+NOTCH signaling
+Calcium signaling
+PKR-eIF2alpha signaling
+Translation
+TNF signaling
+beta-Oxidation in peroxisome
+Bile acid biosynthesis
+Molybdenum cofactor biosynthesis
+Glutathione biosynthesis
+Other MAPK signaling
+MHC presentation
+AVP signaling
+Potassium transport
+Unfolded protein response
+Steroid hormone biosynthesis
+Galactose degradation
+Apoptosis
+RLR signaling
+NOTCH signaling
+JAK-STAT signaling
+TLR signaling
+HIF-1 signaling
+DNA adduct formation
+Mitophagy
+Cytoskeletal regulation

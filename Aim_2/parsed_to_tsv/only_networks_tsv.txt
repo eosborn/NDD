@@ -1,0 +1,115 @@
+06460	Alzheimer disease	60
+06167	Human cytomegalovirus	56
+06463	Parkinson disease	55
+06166	Human papillomavirus	47
+06464	Amyotrophic lateral sclerosis	46
+06164	Kaposi sarcoma-associated herpesvirus	45
+06263	Hepatocellular carcinoma	45
+06124	Chemokine signaling	41
+06461	Huntington disease	41
+06465	Prion disease	38
+06462	Spinocerebellar ataxia	36
+06240	Transcription	35
+06150	Cytokine-cytokine receptor interaction	34
+06135	Cytoskeletal regulation	33
+06015	N-Glycan biosynthesis	32
+06270	Breast cancer	32
+06161	Human immunodeficiency virus type 1	30
+06162	Hepatitis B virus	30
+06160	Human T-cell leukemia virus 1	29
+06410	Calcium signaling	29
+06261	Gastric cancer	27
+06163	Hepatitis C virus	26
+06168	Herpes simplex virus 1	26
+06170	Influenza A virus	25
+06214	PI3K signaling	24
+06273	Glioma	24
+06114	PI3K signaling	23
+06210	ERK signaling	23
+06260	Colorectal cancer	23
+06266	Non-small cell lung cancer	23
+06418	Oxidative phosphorylation	22
+06110	MAPK signaling	21
+06125	Membrane trafficking	21
+06361	Hypogonadotropic hypogonadism	20
+06018	GPI-anchor biosynthesis	19
+06024	Valine, leucine and isoleucine degradation	19
+06165	Epstein-Barr virus	19
+06262	Pancreatic cancer	19
+06275	Acute myeloid leukemia	19
+06419	Microtubule-based transport	19
+06220	Calcium signaling	18
+06264	Renal cell carcinoma	18
+06271	Endometrial cancer	18
+06274	Thyroid cancer	18
+06276	Chronic myeloid leukemia	18
+06323	KISS1-GnRH-LH/FSH-E2 signaling	18
+06265	Bladder cancer	17
+06268	Melanoma	17
+06324	GHRH-GH-IGF signaling	17
+06224	CXCR signaling	16
+06322	TRH-TSH-TH signaling	16
+06415	PI3K signaling	13
+06012	Glycosaminoglycan degradation	12
+06130	Cell cycle	12
+06013	O-Glycan biosynthesis	11
+06121	TLR signaling	11
+06140	Transcription	11
+06171	Severe acute respiratory syndrome coronavirus 2	11
+06230	Cell cycle	11
+06360	Cushing syndrome	11
+06169	Measles virus	10
+06227	Nuclear receptor signaling	10
+06016	Phenylalanine and tyrosine metabolism	9
+06020	beta-Oxidation in mitochondria	9
+06310	CRH-ACTH-cortisol signaling	9
+06316	Angiotensin-aldosterone signaling	9
+06417	AGE-RAGE signaling	9
+06014	Sphingolipid degradation	8
+06213	Other RAS signaling	7
+06217	HH signaling	7
+06223	TNF signaling	7
+06234	cAMP signaling	7
+06269	Basal cell carcinoma	7
+06424	RNA processing	7
+06440	Transcription	7
+06123	TNF signaling	6
+06129	MHC presentation	6
+06252	Mitochondrial ROS formation	6
+06318	CaSR-PTH signaling	6
+06115	WNT signaling	5
+06136	Complement activation	5
+06139	NLR signaling	5
+06215	WNT signaling	5
+06267	Small cell lung cancer	5
+06272	Prostate cancer	5
+06414	Apoptosis	5
+06420	Ubiquitin-proteasome system	5
+06422	Dopamine metabolism	5
+06010	Urea cycle	4
+06017	Glycogen metabolism	4
+06116	NOTCH signaling	4
+06120	Calcium signaling	4
+06138	PKR-eIF2alpha signaling	4
+06141	Translation	4
+06416	TNF signaling	4
+06021	beta-Oxidation in peroxisome	3
+06022	Bile acid biosynthesis	3
+06025	Molybdenum cofactor biosynthesis	3
+06026	Glutathione biosynthesis	3
+06211	Other MAPK signaling	3
+06229	MHC presentation	3
+06326	AVP signaling	3
+06411	Potassium transport	3
+06412	Unfolded protein response	3
+06019	Steroid hormone biosynthesis	2
+06023	Galactose degradation	2
+06131	Apoptosis	2
+06133	RLR signaling	2
+06216	NOTCH signaling	2
+06219	JAK-STAT signaling	2
+06221	TLR signaling	2
+06225	HIF-1 signaling	2
+06250	DNA adduct formation	2
+06421	Mitophagy	2
+06423	Cytoskeletal regulation	2

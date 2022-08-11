@@ -308,6 +308,7 @@ ribonucleotide reductase regulatory TP53 inducible subunit M2B
 ribonucleotide reductase catalytic subunit M1
 dihydrofolate reductase
 GTP cyclohydrolase 1
+GTP cyclohydrolase 1
 6-pyruvoyltetrahydropterin synthase
 formimidoyltransferase cyclodeaminase
 urocanate hydratase 1

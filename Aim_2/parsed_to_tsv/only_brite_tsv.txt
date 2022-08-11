@@ -1,0 +1,43 @@
+hsa03036	Chromosome and associated proteins	304
+hsa04131	Membrane trafficking	276
+hsa03000	Transcription factors	175
+hsa04147	Exosome	156
+hsa04121	Ubiquitin system	112
+hsa01001	Protein kinases	104
+hsa04040	Ion channels	99
+hsa02000	Transporters	98
+hsa04812	Cytoskeleton proteins	98
+hsa03019	Messenger RNA biogenesis	89
+hsa03029	Mitochondrial biogenesis	80
+hsa01009	Protein phosphatases and associated proteins	77
+hsa03037	Cilium and associated proteins	72
+hsa03041	Spliceosome	70
+hsa04990	Domain-containing proteins not elsewhere classified	63
+hsa03400	DNA repair and recombination proteins	61
+hsa03021	Transcription machinery	59
+hsa01002	Peptidases and inhibitors	58
+hsa03016	Transfer RNA biogenesis	56
+hsa01003	Glycosyltransferases	51
+hsa04515	Cell adhesion molecules	47
+hsa03032	DNA replication proteins	43
+hsa04031	GTP-binding proteins	35
+hsa04090	CD molecules	35
+hsa04030	G protein-coupled receptors	31
+hsa03009	Ribosome biogenesis	26
+hsa01007	Amino acid related enzymes	25
+hsa00536	Glycosaminoglycan binding proteins	23
+hsa03110	Chaperones and folding catalysts	21
+hsa03012	Translation factors	17
+hsa03310	Nuclear receptors	13
+hsa01004	Lipid biosynthesis proteins	12
+hsa00537	Glycosylphosphatidylinositol	11
+hsa01006	Prenyltransferases	8
+hsa00535	Proteoglycans	7
+hsa04052	Cytokines and growth factors	7
+hsa03011	Ribosome	6
+hsa04050	Cytokine receptors	4
+hsa04091	Lectins	4
+hsa00199	Cytochrome P450	3
+hsa03051	Proteasome	3
+hsa04054	Pattern recognition receptors	2
+hsa02044	Secretion system	2
