@@ -38,3 +38,5 @@ do
 
 done
 cat parsed_to_tsv/grouping_genes_files/*txt | sort | uniq > parsed_to_tsv/genes_tsv.txt
+
+mv create_tsv.sh parsed_to_tsv/

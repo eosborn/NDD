@@ -1,1 +1,0 @@
-{'STAG1': ['hsa03036'], 'KAT5': ['hsa03036'], 'NCOA2': ['hsa03036'], 'PRMT5': ['hsa03036'], 'SMC2': ['hsa03036'], 'PIBF1': ['hsa03036'], 'AKAP9': ['hsa03036'], 'TUBB3': ['hsa03036'], 'TUBB4A': ['hsa03036']}
