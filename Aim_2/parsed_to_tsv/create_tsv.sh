@@ -37,6 +37,6 @@ do
 		> parsed_to_tsv/"only_${name}_tsv.txt"
 
 done
-cat parsed_to_tsv/grouping_genes_files/*txt | sort | uniq > parsed_to_tsv/genes_tsv.txt
+cat parsed_to_tsv/grouping_genes_files/*txt | sort | uniq > parsed_to_tsv/only_genes_tsv.txt
 
 mv create_tsv.sh parsed_to_tsv/

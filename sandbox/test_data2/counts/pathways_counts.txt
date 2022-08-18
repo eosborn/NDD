@@ -1,0 +1,69 @@
+pathways	count	samples	name	num_NDD_genes
+hsa01100	32	{'20A0008882': ['CYP2U1', 'PDE10A', 'GBA2', 'DHTKD1', 'ENTPD1', 'ENTPD1', 'ENTPD1', 'DHCR7', 'KMT2D', 'ACACB', 'MLYCD', 'PLCB1'], '18PA008847': ['NDUFS2', 'SETD2', 'PIGG', 'PDE10A', 'ENTPD1', 'ENTPD1', 'SETD1B', 'PMM2', 'ATP5F1A'], '19PA009214': ['AMPD1', 'CMPK2', 'CPS1', 'BST1', 'PDE1C', 'KMT2C', 'HEXA', 'FASN', 'NDUFA11', 'KMT2B', 'HLCS']}	Metabolic pathways	376
+hsa05022	10	{'20A0008882': ['HTT', 'PRKN', 'GRM5', 'KIF5A', 'PLCB1'], '18PA008847': ['NDUFS2', 'HTT', 'ATP5F1A'], '19PA009214': ['RYR2', 'NDUFA11']}	Pathways of neurodegeneration - multiple diseases	103
+hsa05016	9	{'20A0008882': ['HTT', 'GRM5', 'KIF5A', 'PLCB1', 'CLTCL1'], '18PA008847': ['NDUFS2', 'HTT', 'ATP5F1A'], '19PA009214': ['NDUFA11']}	Huntington disease	66
+hsa00230	9	{'20A0008882': ['PDE10A', 'ENTPD1', 'ENTPD1', 'ENTPD1'], '18PA008847': ['PDE10A', 'ENTPD1', 'ENTPD1'], '19PA009214': ['AMPD1', 'PDE1C']}	Purine metabolism	31
+hsa05414	8	{'20A0008882': ['TTN', 'LAMA2'], '18PA008847': ['TTN', 'TTN'], '19PA009214': ['RYR2', 'TTN', 'TTN', 'LAMA1']}	Dilated cardiomyopathy	28
+hsa05410	8	{'20A0008882': ['TTN', 'LAMA2'], '18PA008847': ['TTN', 'TTN'], '19PA009214': ['RYR2', 'TTN', 'TTN', 'LAMA1']}	Hypertrophic cardiomyopathy	25
+hsa05200	7	{'20A0008882': ['LAMA2', 'GLI3', 'KIF7', 'PLCB1'], '18PA008847': ['LAMC3'], '19PA009214': ['GLI2', 'LAMA1']}	Pathways in cancer	98
+hsa01232	7	{'20A0008882': ['ENTPD1', 'ENTPD1', 'ENTPD1'], '18PA008847': ['ENTPD1', 'ENTPD1'], '19PA009214': ['AMPD1', 'CMPK2']}	Nucleotide metabolism	20
+hsa05010	7	{'20A0008882': ['GRM5', 'KIF5A', 'PLCB1'], '18PA008847': ['NDUFS2', 'LRP1', 'ATP5F1A'], '19PA009214': ['NDUFA11']}	Alzheimer disease	81
+hsa04340	7	{'20A0008882': ['LRP2', 'LRP2', 'GLI3', 'KIF7', 'MEGF8'], '19PA009214': ['GLI2', 'LRP2']}	Hedgehog signaling pathway	19
+hsa04142	6	{'20A0008882': ['TPP1', 'CLN3', 'MAN2B1', 'CLTCL1'], '18PA008847': ['ABCA2'], '19PA009214': ['HEXA']}	Lysosome	53
+hsa00240	6	{'20A0008882': ['ENTPD1', 'ENTPD1', 'ENTPD1'], '18PA008847': ['ENTPD1', 'ENTPD1'], '19PA009214': ['CMPK2']}	Pyrimidine metabolism	12
+hsa04510	6	{'20A0008882': ['LAMA2'], '18PA008847': ['LAMC3', 'FLNA', 'FLNA', 'FLNA'], '19PA009214': ['LAMA1']}	Focal adhesion	54
+hsa00310	6	{'20A0008882': ['DHTKD1', 'KMT2D'], '18PA008847': ['SETD2', 'SETD1B'], '19PA009214': ['KMT2C', 'KMT2B']}	Lysine degradation	26
+hsa04512	6	{'20A0008882': ['FRAS1', 'LAMA2'], '18PA008847': ['LAMC3', 'FREM2'], '19PA009214': ['HSPG2', 'LAMA1']}	ECM-receptor interaction	18
+hsa05165	6	{'20A0008882': ['MAML3', 'LAMA2', 'TSC2'], '18PA008847': ['LAMC3', 'CHD4'], '19PA009214': ['LAMA1']}	Human papillomavirus infection	75
+hsa05169	6	{'20A0008882': ['HLA-DRB1', 'ENTPD1', 'ENTPD1', 'ENTPD1'], '18PA008847': ['ENTPD1', 'ENTPD1']}	Epstein-Barr virus infection	25
+hsa05014	6	{'20A0008882': ['PRKN', 'NUP188', 'KIF5A'], '18PA008847': ['NDUFS2', 'ATP5F1A'], '19PA009214': ['NDUFA11']}	Amyotrophic lateral sclerosis	66
+hsa05020	5	{'20A0008882': ['KIF5A'], '18PA008847': ['NDUFS2', 'ATP5F1A'], '19PA009214': ['RYR2', 'NDUFA11']}	Prion disease	56
+hsa04024	5	{'20A0008882': ['PDE10A', 'GLI3'], '18PA008847': ['PDE10A', 'CNGB3'], '19PA009214': ['RYR2']}	cAMP signaling pathway	64
+hsa05012	5	{'20A0008882': ['PRKN', 'KIF5A'], '18PA008847': ['NDUFS2', 'ATP5F1A'], '19PA009214': ['NDUFA11']}	Parkinson disease	55
+hsa05415	5	{'20A0008882': ['PLCB1'], '18PA008847': ['NDUFS2', 'ATP5F1A'], '19PA009214': ['RYR2', 'NDUFA11']}	Diabetic cardiomyopathy	49
+hsa05205	5	{'18PA008847': ['FLNA', 'FLNA', 'FLNA'], '19PA009214': ['HSPG2', 'ANK2']}	Proteoglycans in cancer	61
+hsa05146	5	{'20A0008882': ['IL1R2', 'LAMA2', 'PLCB1'], '18PA008847': ['LAMC3'], '19PA009214': ['LAMA1']}	Amoebiasis	23
+hsa04714	4	{'20A0008882': ['TSC2'], '18PA008847': ['NDUFS2', 'ATP5F1A'], '19PA009214': ['NDUFA11']}	Thermogenesis	62
+hsa04979	4	{'20A0008882': ['LRP2', 'LRP2'], '18PA008847': ['LRP1'], '19PA009214': ['LRP2']}	Cholesterol metabolism	6
+hsa04151	4	{'20A0008882': ['LAMA2', 'TSC2'], '18PA008847': ['LAMC3'], '19PA009214': ['LAMA1']}	PI3K-Akt signaling pathway	67
+hsa04010	4	{'18PA008847': ['FLNA', 'FLNA', 'FLNA'], '19PA009214': ['TAOK2']}	MAPK signaling pathway	69
+hsa05145	4	{'20A0008882': ['HLA-DRB1', 'LAMA2'], '18PA008847': ['LAMC3'], '19PA009214': ['LAMA1']}	Toxoplasmosis	16
+hsa04152	4	{'20A0008882': ['ACACB', 'TSC2', 'MLYCD'], '19PA009214': ['FASN']}	AMPK signaling pathway	26
+hsa04723	4	{'20A0008882': ['GRM5', 'PLCB1'], '18PA008847': ['NDUFS2'], '19PA009214': ['NDUFA11']}	Retrograde endocannabinoid signaling	55
+hsa04919	4	{'20A0008882': ['TSC2', 'PLCB1'], '18PA008847': ['MED12'], '19PA009214': ['NCOR1']}	Thyroid hormone signaling pathway	50
+hsa05132	4	{'20A0008882': ['KIF5A'], '18PA008847': ['FLNA', 'FLNA', 'FLNA']}	Salmonella infection	48
+hsa04972	4	{'20A0008882': ['SLC4A4', 'PLCB1'], '19PA009214': ['RYR2', 'BST1']}	Pancreatic secretion	24
+hsa04020	4	{'20A0008882': ['GRM5', 'PLCB1'], '19PA009214': ['RYR2', 'PDE1C']}	Calcium signaling pathway	59
+hsa04918	4	{'20A0008882': ['LRP2', 'LRP2', 'PLCB1'], '19PA009214': ['LRP2']}	Thyroid hormone synthesis	18
+hsa05412	3	{'20A0008882': ['LAMA2'], '19PA009214': ['RYR2', 'LAMA1']}	Arrhythmogenic right ventricular cardiomyopathy	25
+hsa05222	3	{'20A0008882': ['LAMA2'], '18PA008847': ['LAMC3'], '19PA009214': ['LAMA1']}	Small cell lung cancer	19
+hsa03460	3	{'20A0008882': ['TELO2', 'FANCA'], '18PA008847': ['BLM']}	Fanconi anemia pathway	13
+hsa05208	3	{'18PA008847': ['NDUFS2', 'ATP5F1A'], '19PA009214': ['NDUFA11']}	Chemical carcinogenesis - reactive oxygen species	48
+hsa00190	3	{'18PA008847': ['NDUFS2', 'ATP5F1A'], '19PA009214': ['NDUFA11']}	Oxidative phosphorylation	27
+hsa04910	3	{'20A0008882': ['ACACB', 'TSC2'], '19PA009214': ['FASN']}	Insulin signaling pathway	31
+hsa04936	3	{'20A0008882': ['ACACB', 'MLYCD'], '19PA009214': ['FASN']}	Alcoholic liver disease	19
+hsa04144	3	{'20A0008882': ['KIF5A', 'CLTCL1'], '19PA009214': ['AGAP1']}	Endocytosis	49
+hsa00511	3	{'20A0008882': ['GBA2', 'MAN2B1'], '19PA009214': ['HEXA']}	Other glycan degradation	9
+hsa05416	3	{'20A0008882': ['HLA-DRB1', 'LAMA2'], '19PA009214': ['LAMA1']}	Viral myocarditis	14
+hsa05032	3	{'20A0008882': ['PDE10A'], '18PA008847': ['PDE10A'], '19PA009214': ['PDE1C']}	Morphine addiction	31
+hsa04742	3	{'20A0008882': ['SCN9A', 'PLCB1'], '19PA009214': ['PDE1C']}	Taste transduction	20
+hsa05217	3	{'20A0008882': ['GLI3', 'KIF7'], '19PA009214': ['GLI2']}	Basal cell carcinoma	12
+hsa05166	3	{'20A0008882': ['IL1R2', 'HLA-DRB1'], '18PA008847': ['VAC14']}	Human T-cell leukemia virus 1 infection	47
+hsa04713	3	{'20A0008882': ['PER2', 'PLCB1'], '19PA009214': ['RYR2']}	Circadian entrainment	38
+hsa05202	3	{'20A0008882': ['IL1R2', 'PER2'], '19PA009214': ['NCOR1']}	Transcriptional misregulation in cancer	36
+hsa00600	2	{'20A0008882': ['GBA2'], '19PA009214': ['HEXA']}	Sphingolipid metabolism	14
+hsa04924	2	{'20A0008882': ['PLCB1'], '19PA009214': ['PDE1C']}	Renin secretion	17
+hsa00520	2	{'18PA008847': ['PMM2'], '19PA009214': ['HEXA']}	Amino sugar and nucleotide sugar metabolism	16
+hsa01240	2	{'18PA008847': ['PMM2'], '19PA009214': ['CMPK2']}	Biosynthesis of cofactors	40
+hsa04514	2	{'20A0008882': ['HLA-DRB1'], '18PA008847': ['NEO1']}	Cell adhesion molecules	38
+hsa04932	2	{'18PA008847': ['NDUFS2'], '19PA009214': ['NDUFA11']}	Non-alcoholic fatty liver disease	31
+hsa00061	2	{'20A0008882': ['ACACB'], '19PA009214': ['FASN']}	Fatty acid biosynthesis	5
+hsa04970	2	{'20A0008882': ['PLCB1'], '19PA009214': ['BST1']}	Salivary secretion	22
+hsa02010	2	{'20A0008882': ['ABCA7'], '18PA008847': ['ABCA2']}	ABC transporters	8
+hsa04911	2	{'20A0008882': ['PLCB1'], '19PA009214': ['RYR2']}	Insulin secretion	30
+hsa04371	2	{'20A0008882': ['PLCB1'], '19PA009214': ['RYR2']}	Apelin signaling pathway	32
+hsa04022	2	{'20A0008882': ['PLCB1'], '18PA008847': ['TRPC6']}	cGMP-PKG signaling pathway	38
+hsa04350	2	{'20A0008882': ['FBN1'], '18PA008847': ['NEO1']}	TGF-beta signaling pathway	17
+hsa04725	2	{'20A0008882': ['PLCB1'], '18PA008847': ['ACHE']}	Cholinergic synapse	49
+hsa04921	2	{'20A0008882': ['PLCB1'], '19PA009214': ['RYR2']}	Oxytocin signaling pathway	52
+hsa04261	2	{'20A0008882': ['PLCB1'], '19PA009214': ['RYR2']}	Adrenergic signaling in cardiomyocytes	42

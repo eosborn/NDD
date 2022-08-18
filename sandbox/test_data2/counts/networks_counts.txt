@@ -1,0 +1,17 @@
+networks	count	samples	name	num_NDD_genes
+06410	6	{'20A0008882': ['HTT', 'PRKN', 'GRM5', 'PLCB1'], '18PA008847': ['HTT'], '19PA009214': ['RYR2']}	Calcium signaling	29
+06464	6	{'20A0008882': ['PRKN', 'NUP188', 'GRM5', 'PLCB1'], '18PA008847': ['NDUFS2'], '19PA009214': ['NDUFA11']}	Amyotrophic lateral sclerosis	46
+06461	5	{'20A0008882': ['HTT', 'GRM5', 'KIF5A', 'PLCB1'], '18PA008847': ['HTT']}	Huntington disease	41
+06463	5	{'20A0008882': ['PRKN', 'KIF5A', 'PLCB1'], '18PA008847': ['NDUFS2'], '19PA009214': ['NDUFA11']}	Parkinson disease	55
+06460	5	{'20A0008882': ['GRM5', 'KIF5A', 'PLCB1'], '18PA008847': ['NDUFS2'], '19PA009214': ['NDUFA11']}	Alzheimer disease	60
+06418	4	{'20A0008882': ['HTT'], '18PA008847': ['NDUFS2', 'HTT'], '19PA009214': ['NDUFA11']}	Oxidative phosphorylation	22
+06465	4	{'20A0008882': ['GRM5', 'KIF5A', 'PLCB1'], '19PA009214': ['RYR2']}	Prion disease	38
+06240	3	{'20A0008882': ['IL1R2', 'PER2'], '19PA009214': ['NCOR1']}	Transcription	35
+06419	3	{'20A0008882': ['HTT', 'KIF5A'], '18PA008847': ['HTT']}	Microtubule-based transport	19
+06414	3	{'20A0008882': ['HTT', 'PRKN'], '18PA008847': ['HTT']}	Apoptosis	5
+06420	3	{'20A0008882': ['HTT', 'PRKN'], '18PA008847': ['HTT']}	Ubiquitin-proteasome system	5
+06166	3	{'20A0008882': ['MAML3', 'TSC2'], '18PA008847': ['CHD4']}	Human papillomavirus	47
+06440	2	{'20A0008882': ['HTT'], '18PA008847': ['HTT']}	Transcription	7
+06416	2	{'20A0008882': ['HTT'], '18PA008847': ['HTT']}	TNF signaling	4
+06217	2	{'20A0008882': ['GLI3'], '19PA009214': ['GLI2']}	HH signaling	7
+06269	2	{'20A0008882': ['GLI3'], '19PA009214': ['GLI2']}	Basal cell carcinoma	7

@@ -1,0 +1,24 @@
+brite	count	samples	name	num_NDD_genes
+hsa04131	28	{'20A0008882': ['LRP2', 'LRP2', 'TTN', 'HTT', 'LRBA', 'PRKN', 'VPS13B', 'VPS13B', 'KIF5A', 'UNC13A', 'PLCB1', 'CLTCL1', 'MYO18B'], '18PA008847': ['TTN', 'TTN', 'HTT', 'ARHGAP32', 'LRP1', 'GFAP', 'WDR45B', 'RTN2', 'CCDC22'], '19PA009214': ['LRP2', 'TTN', 'TTN', 'AGAP1', 'DOCK8', 'NECAP1']}	Membrane trafficking	276
+hsa03036	26	{'20A0008882': ['ALMS1', 'ALMS1', 'NIPBL', 'KMT2D', 'TELO2', 'DIP2A'], '18PA008847': ['KDM5B', 'TET3', 'SETD2', 'SYNE1', 'PHF2', 'CHD4', 'SETD1B', 'NUBPL', 'SALL1', 'ANKRD11', 'WDR62', 'RTN2', 'BICRA', 'PCNT'], '19PA009214': ['OBSL1', 'PCDHA3', 'KMT2C', 'EP400', 'KMT2B', 'MCM3AP']}	Chromosome and associated proteins	304
+hsa04812	25	{'20A0008882': ['MACF1', 'FLG', 'FLG', 'FLG', 'TTN', 'DST', 'KIF5A', 'MYO16', 'KIF7', 'MYO18B'], '18PA008847': ['KIF1B', 'TTN', 'TTN', 'GFAP', 'FLNA', 'FLNA', 'FLNA'], '19PA009214': ['FLG', 'TTN', 'TTN', 'KIF1A', 'ANK2', 'KIF13B', 'SPTB', 'MAP1A']}	Cytoskeleton proteins	98
+hsa04147	15	{'20A0008882': ['TTN', 'HLA-DRB1', 'TPP1', 'KIF5A', 'CLTCL1'], '18PA008847': ['TTN', 'TTN', 'FLNA', 'FLNA', 'FLNA'], '19PA009214': ['HSPG2', 'TTN', 'TTN', 'FASN', 'COL18A1']}	Exosome	156
+hsa03000	13	{'20A0008882': ['RERE', 'SIM1', 'GLI3', 'GLIS3', 'ZNF335'], '18PA008847': ['CASZ1', 'TET3', 'RFX3'], '19PA009214': ['RERE', 'GLI2', 'CUX2', 'KMT2B', 'NPAS1']}	Transcription factors	175
+hsa04090	9	{'20A0008882': ['IL1R2', 'ENTPD1', 'ENTPD1', 'ENTPD1'], '18PA008847': ['ENTPD1', 'ENTPD1', 'CD163L1', 'LRP1'], '19PA009214': ['BST1']}	CD molecules	35
+hsa03029	9	{'20A0008882': ['HTT', 'RTN4IP1', 'PRKN', 'DHTKD1', 'PET100'], '18PA008847': ['HTT', 'NUBPL', 'POLG', 'POLG']}	Mitochondrial biogenesis	80
+hsa01001	8	{'20A0008882': ['TTN', 'LMTK3'], '18PA008847': ['TTN', 'TTN'], '19PA009214': ['TTN', 'TTN', 'TAOK2', 'CDK10']}	Protein kinases	104
+hsa01009	7	{'20A0008882': ['MYO16', 'TSC2', 'LMTK3', 'PNKP'], '18PA008847': ['KDM5B'], '19PA009214': ['MAP1A', 'NCOR1']}	Protein phosphatases and associated proteins	77
+hsa03019	6	{'20A0008882': ['HTT', 'NUP188'], '18PA008847': ['HTT', 'SMG6'], '19PA009214': ['FTO', 'MCM3AP']}	Messenger RNA biogenesis	89
+hsa01002	6	{'20A0008882': ['SENP5', 'TPP1', 'USP9X'], '19PA009214': ['CPS1', 'CAPN15', 'PEPD']}	Peptidases and inhibitors	58
+hsa04121	5	{'20A0008882': ['SENP5', 'PRKN', 'USP9X'], '18PA008847': ['FBXO11', 'CCDC22']}	Ubiquitin system	112
+hsa03400	5	{'20A0008882': ['PER2', 'TELO2', 'FANCA', 'PNKP'], '18PA008847': ['BLM']}	DNA repair and recombination proteins	61
+hsa03032	5	{'20A0008882': ['TELO2'], '18PA008847': ['POLG', 'POLG', 'BLM', 'SMG6']}	DNA replication proteins	43
+hsa04990	5	{'20A0008882': ['MEGF8'], '18PA008847': ['SASH1', 'ZMYM2'], '19PA009214': ['RYR2', 'LRFN2']}	Domain-containing proteins not elsewhere classified	63
+hsa04040	4	{'20A0008882': ['SCN9A'], '18PA008847': ['CNGB3', 'TRPC6'], '19PA009214': ['RYR2']}	Ion channels	99
+hsa02000	4	{'20A0008882': ['SLC4A4', 'FLVCR2', 'ABCA7'], '18PA008847': ['ABCA2']}	Transporters	98
+hsa03037	4	{'20A0008882': ['ALMS1', 'ALMS1'], '18PA008847': ['AHI1'], '19PA009214': ['TCTN2']}	Cilium and associated proteins	72
+hsa03021	3	{'20A0008882': ['LEO1'], '18PA008847': ['MED25', 'MED12']}	Transcription machinery	59
+hsa04515	2	{'20A0008882': ['SDK1'], '19PA009214': ['PCDHA3']}	Cell adhesion molecules	47
+hsa03110	2	{'20A0008882': ['TPP1'], '19PA009214': ['HEXA']}	Chaperones and folding catalysts	21
+hsa00536	2	{'20A0008882': ['FBN1'], '19PA009214': ['COL18A1']}	Glycosaminoglycan binding proteins	23
+hsa00537	2	{'18PA008847': ['ACHE'], '19PA009214': ['BST1']}	Glycosylphosphatidylinositol	11

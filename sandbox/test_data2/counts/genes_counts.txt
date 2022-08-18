@@ -1,0 +1,9 @@
+genes	count	samples	KEGG_entry_ID	name
+TTN	5	{'20A0008882': 1, '18PA008847': 2, '19PA009214': 2}	hsa:7273	titin
+ENTPD1	5	{'20A0008882': 3, '18PA008847': 2}	hsa:953	ectonucleoside triphosphate diphosphohydrolase 1
+FLG	4	{'20A0008882': 3, '19PA009214': 1}	hsa:2312	filaggrin
+LRP2	3	{'20A0008882': 2, '19PA009214': 1}	hsa:4036	LDL receptor related protein 2
+RERE	2	{'20A0008882': 1, '19PA009214': 1}	hsa:473	arginine-glutamic acid dipeptide repeats
+HTT	2	{'20A0008882': 1, '18PA008847': 1}	hsa:3064	huntingtin
+CCSER1	2	{'20A0008882': 1, '19PA009214': 1}	.	.
+PDE10A	2	{'20A0008882': 1, '18PA008847': 1}	hsa:10846	phosphodiesterase 10A
