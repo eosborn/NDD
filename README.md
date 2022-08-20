@@ -22,7 +22,7 @@ To do:
 1. include shell script used to parse KEGG output prior to dictionary creation
 
 ### Aim 3: apply gene list and groupings to existing sequencing data for patient cohort
-- see `add_groups.py` and `counting.py` python scripts located in *Aim_3/* directory
+- see `add_groups.py` and `counting_v2.py` python scripts located in *Aim_3/* directory
 
 To do:
 1. add *README* to directory 
