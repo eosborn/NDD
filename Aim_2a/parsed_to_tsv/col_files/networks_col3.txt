@@ -1,0 +1,1798 @@
+glutamate metabotropic receptor 5
+G protein subunit alpha q
+phospholipase C beta 1
+inositol 1,4,5-trisphosphate receptor type 1
+cholinergic receptor muscarinic 1
+cholinergic receptor muscarinic 3
+calcium voltage-gated channel subunit alpha1 C
+calcium voltage-gated channel subunit alpha1 D
+calcium voltage-gated channel subunit alpha1 F
+calcium voltage-gated channel subunit alpha1 A
+calcium voltage-gated channel subunit alpha1 B
+calcium voltage-gated channel subunit alpha1 E
+calcium voltage-gated channel subunit alpha1 G
+calcium voltage-gated channel subunit alpha1 H
+calcium voltage-gated channel subunit alpha1 I
+glutamate ionotropic receptor NMDA type subunit 1
+glutamate ionotropic receptor NMDA type subunit 2A
+glutamate ionotropic receptor NMDA type subunit 2B
+glutamate ionotropic receptor NMDA type subunit 2D
+proteasome 26S subunit, non-ATPase 12
+eukaryotic translation initiation factor 2 alpha kinase 3
+mitogen-activated protein kinase kinase kinase 5
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+NADH dehydrogenase subunit 5
+NADH:ubiquinone oxidoreductase core subunit S1
+NADH:ubiquinone oxidoreductase core subunit S2
+NADH:ubiquinone oxidoreductase core subunit S3
+NADH:ubiquinone oxidoreductase subunit S4
+NADH:ubiquinone oxidoreductase core subunit S7
+NADH:ubiquinone oxidoreductase core subunit S8
+NADH:ubiquinone oxidoreductase core subunit V1
+NADH:ubiquinone oxidoreductase subunit A1
+NADH:ubiquinone oxidoreductase subunit A5
+NADH:ubiquinone oxidoreductase subunit A6
+NADH:ubiquinone oxidoreductase subunit A11
+NADH:ubiquinone oxidoreductase subunit B8
+cholinergic receptor nicotinic alpha 7 subunit
+microtubule associated protein tau
+succinate dehydrogenase complex flavoprotein subunit A
+cytochrome c oxidase subunit III
+cytochrome c oxidase subunit I
+cytochrome c oxidase subunit II
+cytochrome c oxidase subunit 6B1
+kinesin family member 5A
+kinesin family member 5C
+tubulin alpha 1a
+tubulin alpha 8
+tubulin beta class I
+tubulin beta 2A class IIa
+tubulin beta 2B class IIb
+tubulin beta 3 class III
+tubulin beta 4A class IVa
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+platelet derived growth factor receptor beta
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+mechanistic target of rapamycin kinase
+insulin like growth factor 1
+insulin like growth factor 1 receptor
+TSC complex subunit 1
+TSC complex subunit 2
+Ras homolog, mTORC1 binding
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+TGF-beta activated kinase 1 (MAP3K7) binding protein 2
+mitogen-activated protein kinase kinase kinase 7
+G protein subunit alpha q
+phospholipase C beta 1
+phospholipase C gamma 2
+protein phosphatase 3 catalytic subunit alpha
+protein phosphatase 3 catalytic subunit beta
+nuclear factor of activated T cells 3
+prostaglandin-endoperoxide synthase 2
+dopamine receptor D1
+GNAS complex locus
+adenylate cyclase 5
+protein kinase cAMP-activated catalytic subunit beta
+adenylate cyclase 3
+C-X3-C motif chemokine receptor 1
+G protein subunit alpha i1
+G protein subunit alpha o1
+catenin beta 1
+G protein subunit beta 1
+G protein subunit beta 5
+G protein subunit gamma 13
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma
+protein kinase C alpha
+protein kinase C beta
+protein kinase C gamma
+major histocompatibility complex, class I, A
+major histocompatibility complex, class I, B
+major histocompatibility complex, class I, G
+cyclin D2
+cyclin dependent kinase 6
+integrin subunit alpha V
+integrin subunit beta 3
+Rac family small GTPase 1
+Rac family small GTPase 3
+glutamate metabotropic receptor 1
+G protein subunit alpha q
+phospholipase C beta 1
+inositol 1,4,5-trisphosphate receptor type 1
+protein kinase C alpha
+protein kinase C beta
+protein kinase C gamma
+parkin RBR E3 ubiquitin protein ligase
+calcium voltage-gated channel subunit alpha1 C
+calcium voltage-gated channel subunit alpha1 D
+calcium voltage-gated channel subunit alpha1 F
+calcium voltage-gated channel subunit alpha1 A
+calcium voltage-gated channel subunit alpha1 B
+calcium voltage-gated channel subunit alpha1 E
+calcium voltage-gated channel subunit alpha1 G
+calcium voltage-gated channel subunit alpha1 H
+calcium voltage-gated channel subunit alpha1 I
+G protein-coupled receptor 37
+proteasome 26S subunit, non-ATPase 12
+eukaryotic translation initiation factor 2 alpha kinase 3
+HtrA serine peptidase 2
+mitogen-activated protein kinase kinase kinase 5
+tyrosine hydroxylase
+monoamine oxidase A
+monoamine oxidase B
+solute carrier family 18 member A2
+NADH dehydrogenase subunit 5
+NADH:ubiquinone oxidoreductase core subunit S1
+NADH:ubiquinone oxidoreductase core subunit S2
+NADH:ubiquinone oxidoreductase core subunit S3
+NADH:ubiquinone oxidoreductase subunit S4
+NADH:ubiquinone oxidoreductase core subunit S7
+NADH:ubiquinone oxidoreductase core subunit S8
+NADH:ubiquinone oxidoreductase core subunit V1
+NADH:ubiquinone oxidoreductase subunit A1
+NADH:ubiquinone oxidoreductase subunit A5
+NADH:ubiquinone oxidoreductase subunit A6
+NADH:ubiquinone oxidoreductase subunit A11
+NADH:ubiquinone oxidoreductase subunit B8
+succinate dehydrogenase complex flavoprotein subunit A
+cytochrome c1
+dynactin subunit 2
+dynein axonemal heavy chain 3
+dynein axonemal heavy chain 10
+dynein axonemal heavy chain 17
+tubulin alpha 1a
+tubulin alpha 8
+tubulin beta class I
+tubulin beta 2A class IIa
+tubulin beta 2B class IIb
+tubulin beta 3 class III
+tubulin beta 4A class IVa
+kinesin family member 5A
+kinesin family member 5C
+glutathione S-transferase mu 1
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+platelet derived growth factor receptor beta
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+mechanistic target of rapamycin kinase
+insulin like growth factor 1
+insulin like growth factor 1 receptor
+TSC complex subunit 1
+TSC complex subunit 2
+Ras homolog, mTORC1 binding
+ubiquitin protein ligase E3A
+phosphatase and tensin homolog
+protein phosphatase 2 catalytic subunit alpha
+protein phosphatase 2 scaffold subunit Aalpha
+protein phosphatase 2 scaffold subunit Abeta
+protein phosphatase 2 regulatory subunit B'delta
+delta like canonical Notch ligand 1
+hes related family bHLH transcription factor with YRPW motif 1
+recombination signal binding protein for immunoglobulin kappa J region
+mastermind like transcriptional coactivator 3
+CREB binding protein
+E1A binding protein p300
+eukaryotic translation initiation factor 2 alpha kinase 2
+chromodomain helicase DNA binding protein 4
+major histocompatibility complex, class I, A
+major histocompatibility complex, class I, B
+major histocompatibility complex, class I, G
+B cell receptor associated protein 31
+ATM serine/threonine kinase
+ATR serine/threonine kinase
+cyclin D2
+cyclin dependent kinase 6
+RB transcriptional corepressor like 2
+discs large MAGUK scaffold protein 1
+PATJ crumbs cell polarity complex component
+telomerase reverse transcriptase
+glutamate metabotropic receptor 5
+G protein subunit alpha q
+phospholipase C beta 1
+inositol 1,4,5-trisphosphate receptor type 1
+proteasome 26S subunit, non-ATPase 12
+superoxide dismutase 1
+eukaryotic translation initiation factor 2 alpha kinase 3
+parkin RBR E3 ubiquitin protein ligase
+hexokinase 1
+neuregulin 2
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+NADH dehydrogenase subunit 5
+NADH:ubiquinone oxidoreductase core subunit S1
+NADH:ubiquinone oxidoreductase core subunit S2
+NADH:ubiquinone oxidoreductase core subunit S3
+NADH:ubiquinone oxidoreductase subunit S4
+NADH:ubiquinone oxidoreductase core subunit S7
+NADH:ubiquinone oxidoreductase core subunit S8
+NADH:ubiquinone oxidoreductase core subunit V1
+NADH:ubiquinone oxidoreductase subunit A1
+NADH:ubiquinone oxidoreductase subunit A5
+NADH:ubiquinone oxidoreductase subunit A6
+NADH:ubiquinone oxidoreductase subunit A11
+NADH:ubiquinone oxidoreductase subunit B8
+dynactin subunit 2
+dynein axonemal heavy chain 3
+dynein axonemal heavy chain 10
+dynein axonemal heavy chain 17
+tubulin alpha 1a
+tubulin alpha 8
+tubulin beta class I
+tubulin beta 2A class IIa
+tubulin beta 2B class IIb
+tubulin beta 3 class III
+tubulin beta 4A class IVa
+actin beta
+actin gamma 1
+nuclear RNA export factor 1
+nucleoporin 133
+nucleoporin 107
+nucleoporin 37
+nucleoporin 188
+nucleoporin 155
+nucleoporin 214
+MET proto-oncogene, receptor tyrosine kinase
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+TGF-beta activated kinase 1 (MAP3K7) binding protein 2
+mitogen-activated protein kinase kinase kinase 7
+insulin like growth factor 1
+insulin like growth factor 1 receptor
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+mechanistic target of rapamycin kinase
+Wnt family member 1
+dishevelled segment polarity protein 3
+catenin beta 1
+transcription factor 7 like 2
+MYC proto-oncogene, bHLH transcription factor
+phospholipase C gamma 2
+protein phosphatase 3 catalytic subunit alpha
+protein phosphatase 3 catalytic subunit beta
+nuclear factor of activated T cells 3
+CREB binding protein
+E1A binding protein p300
+V-set and immunoglobulin domain containing 4
+eukaryotic translation initiation factor 2 alpha kinase 2
+G protein subunit beta 1
+G protein subunit beta 5
+G protein subunit gamma 13
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma
+phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 1
+Rac family small GTPase 1
+major histocompatibility complex, class I, A
+major histocompatibility complex, class I, B
+major histocompatibility complex, class I, G
+cyclin D2
+cyclin dependent kinase 6
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon
+tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma
+insulin like growth factor 1
+insulin like growth factor 1 receptor
+MET proto-oncogene, receptor tyrosine kinase
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+mechanistic target of rapamycin kinase
+phosphatase and tensin homolog
+Wnt family member 1
+dishevelled segment polarity protein 3
+catenin beta 1
+transcription factor 7 like 2
+MYC proto-oncogene, bHLH transcription factor
+SMAD family member 4
+phospholipase C gamma 2
+protein kinase C alpha
+protein kinase C beta
+protein kinase C gamma
+mitogen-activated protein kinase kinase kinase 7
+TGF-beta activated kinase 1 (MAP3K7) binding protein 2
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+CREB binding protein
+E1A binding protein p300
+DEAD-box helicase 3 X-linked
+eukaryotic translation initiation factor 2 alpha kinase 2
+G protein subunit alpha q
+phospholipase C beta 1
+glutathione S-transferase mu 1
+cyclin D2
+cyclin dependent kinase 6
+telomerase reverse transcriptase
+early growth response 3
+G protein subunit alpha q
+phospholipase C beta 1
+phospholipase C gamma 2
+protein phosphatase 3 catalytic subunit alpha
+protein phosphatase 3 catalytic subunit beta
+nuclear factor of activated T cells 3
+prostaglandin-endoperoxide synthase 2
+protein kinase C alpha
+protein kinase C beta
+protein kinase C gamma
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+dopamine receptor D1
+GNAS complex locus
+adenylate cyclase 5
+protein kinase cAMP-activated catalytic subunit beta
+adenylate cyclase 3
+C-X3-C motif chemokine receptor 1
+G protein subunit alpha i1
+G protein subunit alpha o1
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+catenin beta 1
+G protein subunit beta 1
+G protein subunit beta 5
+G protein subunit gamma 13
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+Rac family small GTPase 1
+Rac family small GTPase 3
+p21 (RAC1) activated kinase 1
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma
+phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 1
+mechanistic target of rapamycin kinase
+glutamate metabotropic receptor 5
+G protein subunit alpha q
+phospholipase C beta 1
+inositol 1,4,5-trisphosphate receptor type 1
+huntingtin
+calcium voltage-gated channel subunit alpha1 C
+calcium voltage-gated channel subunit alpha1 D
+calcium voltage-gated channel subunit alpha1 F
+calcium voltage-gated channel subunit alpha1 A
+calcium voltage-gated channel subunit alpha1 B
+calcium voltage-gated channel subunit alpha1 E
+calcium voltage-gated channel subunit alpha1 G
+calcium voltage-gated channel subunit alpha1 H
+calcium voltage-gated channel subunit alpha1 I
+syntaxin 1A
+glutamate ionotropic receptor NMDA type subunit 1
+glutamate ionotropic receptor NMDA type subunit 2A
+glutamate ionotropic receptor NMDA type subunit 2B
+glutamate ionotropic receptor NMDA type subunit 2D
+discs large MAGUK scaffold protein 4
+proteasome 26S subunit, non-ATPase 12
+mitogen-activated protein kinase kinase kinase 7
+TGF-beta activated kinase 1 (MAP3K7) binding protein 2
+mitogen-activated protein kinase kinase kinase 10
+succinate dehydrogenase complex flavoprotein subunit A
+cytochrome c1
+dynactin subunit 2
+dynein axonemal heavy chain 3
+dynein axonemal heavy chain 10
+dynein axonemal heavy chain 17
+tubulin alpha 1a
+tubulin alpha 8
+tubulin beta class I
+tubulin beta 2A class IIa
+tubulin beta 2B class IIb
+tubulin beta 3 class III
+tubulin beta 4A class IVa
+kinesin family member 5A
+kinesin family member 5C
+RE1 silencing transcription factor
+SIN3 transcription regulator family member A
+glutamate metabotropic receptor 5
+G protein subunit alpha q
+phospholipase C beta 1
+inositol 1,4,5-trisphosphate receptor type 1
+ryanodine receptor 2
+calcium voltage-gated channel subunit alpha1 C
+calcium voltage-gated channel subunit alpha1 D
+calcium voltage-gated channel subunit alpha1 F
+calcium voltage-gated channel subunit alpha1 A
+calcium voltage-gated channel subunit alpha1 B
+calcium voltage-gated channel subunit alpha1 E
+calcium voltage-gated channel subunit alpha1 G
+calcium voltage-gated channel subunit alpha1 H
+calcium voltage-gated channel subunit alpha1 I
+glutamate ionotropic receptor NMDA type subunit 1
+glutamate ionotropic receptor NMDA type subunit 2A
+glutamate ionotropic receptor NMDA type subunit 2B
+glutamate ionotropic receptor NMDA type subunit 2D
+proteasome 26S subunit, non-ATPase 12
+eukaryotic translation initiation factor 2 alpha kinase 3
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+Rac family small GTPase 1
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+kinesin family member 5A
+kinesin family member 5C
+tubulin alpha 1a
+tubulin alpha 8
+tubulin beta class I
+tubulin beta 2A class IIa
+tubulin beta 2B class IIb
+tubulin beta 3 class III
+tubulin beta 4A class IVa
+casein kinase 2 alpha 1
+casein kinase 2 beta
+delta like canonical Notch ligand 1
+hes related family bHLH transcription factor with YRPW motif 1
+glutamate metabotropic receptor 1
+G protein subunit alpha q
+phospholipase C beta 1
+inositol 1,4,5-trisphosphate receptor type 1
+protein kinase C alpha
+protein kinase C beta
+protein kinase C gamma
+spectrin beta, non-erythrocytic 2
+glutamate metabotropic receptor 5
+calcium voltage-gated channel subunit alpha1 C
+calcium voltage-gated channel subunit alpha1 D
+calcium voltage-gated channel subunit alpha1 F
+calcium voltage-gated channel subunit alpha1 A
+calcium voltage-gated channel subunit alpha1 B
+calcium voltage-gated channel subunit alpha1 E
+calcium voltage-gated channel subunit alpha1 G
+calcium voltage-gated channel subunit alpha1 H
+calcium voltage-gated channel subunit alpha1 I
+glutamate ionotropic receptor NMDA type subunit 1
+glutamate ionotropic receptor NMDA type subunit 2A
+glutamate ionotropic receptor NMDA type subunit 2B
+glutamate ionotropic receptor NMDA type subunit 2D
+potassium voltage-gated channel subfamily C member 1
+potassium voltage-gated channel subfamily D member 2
+potassium voltage-gated channel subfamily D member 3
+reelin
+very low density lipoprotein receptor
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+TSC complex subunit 1
+TSC complex subunit 2
+Ras homolog, mTORC1 binding
+mechanistic target of rapamycin kinase
+RAR related orphan receptor A
+lysine acetyltransferase 5
+colony stimulating factor 1 receptor
+period circadian regulator 2
+zinc finger and BTB domain containing 16
+MYC proto-oncogene, bHLH transcription factor
+PBX homeobox 1
+SIN3 transcription regulator family member A
+nuclear receptor corepressor 1
+lysine methyltransferase 2A
+cyclin dependent kinase 9
+myocyte enhancer factor 2C
+jumonji domain containing 1C
+lysine demethylase 6A
+insulin like growth factor 1 receptor
+EYA transcriptional coactivator and phosphatase 1
+glutamate ionotropic receptor AMPA type subunit 3
+fucosyltransferase 8
+BAF chromatin remodeling complex subunit BCL11B
+LIM domain binding 1
+cyclin D2
+MAF bZIP transcription factor
+nuclear receptor binding SET domain protein 2
+H3.3 histone A
+hsa:H3F3A
+sonic hedgehog signaling molecule
+paired box 8
+transcription factor binding to IGHM enhancer 3
+ETS transcription factor ERG
+interleukin 1 receptor type 2
+insulin like growth factor 1
+aryl hydrocarbon receptor nuclear translocator 2
+ATM serine/threonine kinase
+tetraspanin 7
+MET proto-oncogene, receptor tyrosine kinase
+MYCN proto-oncogene, bHLH transcription factor
+neurotrophic receptor tyrosine kinase 1
+G protein subunit beta 1
+G protein subunit beta 5
+G protein subunit gamma 13
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma
+mechanistic target of rapamycin kinase
+G protein subunit alpha q
+phospholipase C beta 1
+phospholipase C gamma 2
+protein phosphatase 3 catalytic subunit alpha
+protein phosphatase 3 catalytic subunit beta
+nuclear factor of activated T cells 3
+G protein subunit alpha i1
+Rac family small GTPase 1
+Rac family small GTPase 3
+p21 (RAC1) activated kinase 1
+prostaglandin-endoperoxide synthase 2
+C-X3-C motif chemokine receptor 1
+adenylate cyclase 3
+adenylate cyclase 5
+protein kinase cAMP-activated catalytic subunit beta
+G protein subunit alpha o1
+colony stimulating factor 1 receptor
+discs large MAGUK scaffold protein 1
+ubiquitin protein ligase E3A
+phosphatase and tensin homolog
+AKT serine/threonine kinase 3
+PATJ crumbs cell polarity complex component
+occludin
+actin beta
+actin gamma 1
+integrin subunit alpha V
+integrin subunit beta 3
+G protein subunit alpha q
+Rac family small GTPase 1
+Rac family small GTPase 3
+tubulin alpha 1a
+tubulin alpha 8
+tubulin beta class I
+tubulin beta 2A class IIa
+tubulin beta 2B class IIb
+tubulin beta 3 class III
+tubulin beta 4A class IVa
+dedicator of cytokinesis 1
+WASP family member 1
+cytoplasmic FMR1 interacting protein 1
+cytoplasmic FMR1 interacting protein 2
+NCK associated protein 1
+cell division cycle 42
+ADP ribosylation factor 1
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma
+talin 1
+actinin alpha 4
+AHNAK nucleoprotein
+dehydrodolichyl diphosphate synthase subunit
+NUS1 dehydrodolichyl diphosphate synthase subunit
+steroid 5 alpha-reductase 3
+dolichol kinase
+dolichyl-phosphate N-acetylglucosaminephosphotransferase 1
+ALG13 UDP-N-acetylglucosaminyltransferase subunit
+ALG1 chitobiosyldiphosphodolichol beta-mannosyltransferase
+ALG2 alpha-1,3/1,6-mannosyltransferase
+ALG11 alpha-1,2-mannosyltransferase
+mannose phosphate isomerase
+phosphomannomutase 2
+GDP-mannose pyrophosphorylase B
+GDP-mannose pyrophosphorylase A
+dolichyl-phosphate mannosyltransferase subunit 1, catalytic
+RFT1 homolog
+ALG3 alpha-1,3- mannosyltransferase
+ALG9 alpha-1,2-mannosyltransferase
+ALG12 alpha-1,6-mannosyltransferase
+UDP-glucose pyrophosphorylase 2
+ALG6 alpha-1,3-glucosyltransferase
+ALG8 alpha-1,3-glucosyltransferase
+STT3 oligosaccharyltransferase complex catalytic subunit B
+STT3 oligosaccharyltransferase complex catalytic subunit A
+dolichyl-diphosphooligosaccharide--protein glycosyltransferase non-catalytic subunit
+tumor suppressor candidate 3
+mannosyl-oligosaccharide glucosidase
+mannosidase alpha class 1B member 1
+alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase
+fucosyltransferase 8
+beta-1,4-galactosyltransferase 1
+solute carrier family 35 member C1
+solute carrier family 35 member A2
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+fibroblast growth factor receptor 1
+fibroblast growth factor receptor 2
+fibroblast growth factor receptor 3
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+mechanistic target of rapamycin kinase
+phosphatase and tensin homolog
+Wnt family member 1
+dishevelled segment polarity protein 3
+catenin beta 1
+transcription factor 7 like 2
+MYC proto-oncogene, bHLH transcription factor
+delta like canonical Notch ligand 1
+hes related family bHLH transcription factor with YRPW motif 1
+cyclin D2
+cyclin dependent kinase 6
+estrogen receptor 2
+nuclear receptor coactivator 1
+nuclear receptor coactivator 2
+cathepsin D
+mitogen-activated protein kinase kinase kinase 7
+TGF-beta activated kinase 1 (MAP3K7) binding protein 2
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+G protein subunit alpha q
+phospholipase C beta 1
+phospholipase C gamma 2
+protein phosphatase 3 catalytic subunit alpha
+protein phosphatase 3 catalytic subunit beta
+nuclear factor of activated T cells 3
+G protein subunit alpha i1
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+G protein subunit beta 1
+G protein subunit beta 5
+G protein subunit gamma 13
+Rac family small GTPase 1
+Rac family small GTPase 3
+p21 (RAC1) activated kinase 1
+major histocompatibility complex, class I, A
+major histocompatibility complex, class I, B
+major histocompatibility complex, class I, G
+ATM serine/threonine kinase
+ATR serine/threonine kinase
+cyclin B1
+cullin 4B
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+MET proto-oncogene, receptor tyrosine kinase
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+SMAD family member 4
+mitogen-activated protein kinase kinase kinase 7
+TGF-beta activated kinase 1 (MAP3K7) binding protein 2
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+CREB binding protein
+E1A binding protein p300
+DEAD-box helicase 3 X-linked
+eukaryotic translation initiation factor 2 alpha kinase 2
+G protein subunit alpha q
+phospholipase C beta 1
+phospholipase C gamma 2
+protein kinase C alpha
+protein kinase C beta
+protein kinase C gamma
+early growth response 3
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+phosphatase and tensin homolog
+discs large MAGUK scaffold protein 1
+SMAD family member 4
+phospholipase C gamma 2
+protein phosphatase 3 catalytic subunit alpha
+protein phosphatase 3 catalytic subunit beta
+nuclear factor of activated T cells 3
+mitogen-activated protein kinase kinase kinase 7
+TGF-beta activated kinase 1 (MAP3K7) binding protein 2
+major histocompatibility complex, class I, A
+major histocompatibility complex, class I, B
+major histocompatibility complex, class I, G
+cyclin D2
+cyclin dependent kinase 6
+MYC proto-oncogene, bHLH transcription factor
+ATM serine/threonine kinase
+ATR serine/threonine kinase
+cyclin B1
+BUB1 mitotic checkpoint serine/threonine kinase B
+anaphase promoting complex subunit 1
+transformation/transcription domain associated protein
+lysine acetyltransferase 5
+major histocompatibility complex, class II, DP beta 1
+major histocompatibility complex, class II, DR beta 1
+telomerase reverse transcriptase
+glutamate metabotropic receptor 1
+G protein subunit alpha q
+phospholipase C beta 1
+inositol 1,4,5-trisphosphate receptor type 1
+protein kinase C alpha
+protein kinase C beta
+protein kinase C gamma
+spectrin beta, non-erythrocytic 2
+parkin RBR E3 ubiquitin protein ligase
+glutamate metabotropic receptor 5
+ryanodine receptor 2
+huntingtin
+cholinergic receptor muscarinic 1
+cholinergic receptor muscarinic 3
+calcium voltage-gated channel subunit alpha1 C
+calcium voltage-gated channel subunit alpha1 D
+calcium voltage-gated channel subunit alpha1 F
+calcium voltage-gated channel subunit alpha1 A
+calcium voltage-gated channel subunit alpha1 B
+calcium voltage-gated channel subunit alpha1 E
+calcium voltage-gated channel subunit alpha1 G
+calcium voltage-gated channel subunit alpha1 H
+calcium voltage-gated channel subunit alpha1 I
+syntaxin 1A
+glutamate ionotropic receptor NMDA type subunit 1
+glutamate ionotropic receptor NMDA type subunit 2A
+glutamate ionotropic receptor NMDA type subunit 2B
+glutamate ionotropic receptor NMDA type subunit 2D
+discs large MAGUK scaffold protein 4
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+fibroblast growth factor receptor 1
+fibroblast growth factor receptor 2
+fibroblast growth factor receptor 3
+MET proto-oncogene, receptor tyrosine kinase
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+mechanistic target of rapamycin kinase
+Wnt family member 1
+dishevelled segment polarity protein 3
+catenin beta 1
+transcription factor 7 like 2
+MYC proto-oncogene, bHLH transcription factor
+SMAD family member 4
+telomerase reverse transcriptase
+sonic hedgehog signaling molecule
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+MET proto-oncogene, receptor tyrosine kinase
+tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon
+tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+CREB binding protein
+E1A binding protein p300
+eukaryotic translation initiation factor 2 alpha kinase 2
+TGF-beta activated kinase 1 (MAP3K7) binding protein 2
+mitogen-activated protein kinase kinase kinase 7
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+cyclin D2
+cyclin dependent kinase 6
+MYC proto-oncogene, bHLH transcription factor
+insulin like growth factor 1
+insulin like growth factor 1 receptor
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+TSC complex subunit 1
+TSC complex subunit 2
+Ras homolog, mTORC1 binding
+mechanistic target of rapamycin kinase
+mitogen-activated protein kinase kinase kinase 7
+TGF-beta activated kinase 1 (MAP3K7) binding protein 2
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+interferon induced with helicase C domain 1
+eukaryotic translation initiation factor 2 alpha kinase 2
+eukaryotic translation initiation factor 2B subunit delta
+eukaryotic translation initiation factor 2B subunit epsilon
+protein phosphatase 1 catalytic subunit beta
+V-set and immunoglobulin domain containing 4
+major histocompatibility complex, class I, A
+major histocompatibility complex, class I, B
+major histocompatibility complex, class I, G
+major histocompatibility complex, class II, DP beta 1
+major histocompatibility complex, class II, DR beta 1
+serine and arginine rich splicing factor 1
+nuclear RNA export factor 1
+host cell factor C1
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+protein kinase C alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+NLR family pyrin domain containing 3
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+eukaryotic translation initiation factor 2 alpha kinase 2
+eukaryotic translation initiation factor 2B subunit delta
+eukaryotic translation initiation factor 2B subunit epsilon
+cyclin D2
+cyclin dependent kinase 6
+serine and arginine rich splicing factor 1
+nuclear RNA export factor 1
+ribonucleic acid export 1
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+mechanistic target of rapamycin kinase
+platelet derived growth factor receptor beta
+fibroblast growth factor receptor 1
+fibroblast growth factor receptor 2
+fibroblast growth factor receptor 3
+insulin like growth factor 1 receptor
+MET proto-oncogene, receptor tyrosine kinase
+Cbl proto-oncogene
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+insulin like growth factor 1
+phosphatase and tensin homolog
+discs large MAGUK scaffold protein 1
+adrenoceptor beta 2
+G protein subunit alpha i1
+cholinergic receptor nicotinic alpha 7 subunit
+estrogen receptor 2
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+platelet derived growth factor receptor beta
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+mechanistic target of rapamycin kinase
+phosphatase and tensin homolog
+phospholipase C gamma 2
+calcium/calmodulin dependent protein kinase II alpha
+calcium/calmodulin dependent protein kinase II beta
+calcium/calmodulin dependent protein kinase II gamma
+calcium/calmodulin dependent protein kinase IV
+cyclin D2
+cyclin dependent kinase 6
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+platelet derived growth factor receptor beta
+mechanistic target of rapamycin kinase
+insulin like growth factor 1
+insulin like growth factor 1 receptor
+TSC complex subunit 1
+TSC complex subunit 2
+Ras homolog, mTORC1 binding
+ubiquitin protein ligase E3A
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+phosphatase and tensin homolog
+discs large MAGUK scaffold protein 1
+protein phosphatase 2 catalytic subunit alpha
+protein phosphatase 2 scaffold subunit Aalpha
+protein phosphatase 2 scaffold subunit Abeta
+protein phosphatase 2 regulatory subunit B'delta
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+platelet derived growth factor receptor beta
+fibroblast growth factor receptor 1
+fibroblast growth factor receptor 2
+fibroblast growth factor receptor 3
+MYC proto-oncogene, bHLH transcription factor
+insulin like growth factor 1
+insulin like growth factor 1 receptor
+MET proto-oncogene, receptor tyrosine kinase
+neurotrophic receptor tyrosine kinase 1
+estrogen receptor 2
+cholinergic receptor nicotinic alpha 7 subunit
+cholinergic receptor nicotinic alpha 4 subunit
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+mechanistic target of rapamycin kinase
+RAS like proto-oncogene A
+Wnt family member 1
+dishevelled segment polarity protein 3
+catenin beta 1
+transcription factor 7 like 2
+MYC proto-oncogene, bHLH transcription factor
+SMAD family member 4
+DCC netrin 1 receptor
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+MET proto-oncogene, receptor tyrosine kinase
+phospholipase C gamma 2
+protein kinase C alpha
+protein kinase C beta
+protein kinase C gamma
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+mechanistic target of rapamycin kinase
+Ras association domain family member 5
+cyclin D2
+cyclin dependent kinase 6
+NADH dehydrogenase subunit 5
+NADH:ubiquinone oxidoreductase core subunit S1
+NADH:ubiquinone oxidoreductase core subunit S2
+NADH:ubiquinone oxidoreductase core subunit S3
+NADH:ubiquinone oxidoreductase subunit S4
+NADH:ubiquinone oxidoreductase core subunit S7
+NADH:ubiquinone oxidoreductase core subunit S8
+NADH:ubiquinone oxidoreductase core subunit V1
+NADH:ubiquinone oxidoreductase subunit A1
+NADH:ubiquinone oxidoreductase subunit A5
+NADH:ubiquinone oxidoreductase subunit A6
+NADH:ubiquinone oxidoreductase subunit A11
+NADH:ubiquinone oxidoreductase subunit B8
+cholinergic receptor nicotinic alpha 7 subunit
+microtubule associated protein tau
+succinate dehydrogenase complex flavoprotein subunit A
+huntingtin
+cytochrome c1
+cytochrome c oxidase subunit III
+cytochrome c oxidase subunit I
+cytochrome c oxidase subunit II
+cytochrome c oxidase subunit 6B1
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+platelet derived growth factor receptor beta
+MET proto-oncogene, receptor tyrosine kinase
+tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon
+tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma
+protein kinase C alpha
+TGF-beta activated kinase 1 (MAP3K7) binding protein 2
+mitogen-activated protein kinase kinase kinase 7
+Rac family small GTPase 1
+cell division cycle 42
+p21 (RAC1) activated kinase 1
+ADP ribosylation factor 1
+COPI coat complex subunit alpha
+COPI coat complex subunit beta 2
+archain 1
+trafficking protein particle complex subunit 4
+trafficking protein particle complex subunit 6B
+dynein cytoplasmic 1 heavy chain 1
+dynein cytoplasmic 1 intermediate chain 2
+dynein cytoplasmic 1 light intermediate chain 1
+dynactin subunit 2
+tubulin alpha 1a
+tubulin alpha 8
+tubulin beta class I
+tubulin beta 2A class IIa
+tubulin beta 2B class IIb
+tubulin beta 3 class III
+tubulin beta 4A class IVa
+kinesin family member 5A
+kinesin family member 5C
+VPS11 core subunit of CORVET and HOPS complexes
+VPS16 core subunit of CORVET and HOPS complexes
+G protein subunit alpha q
+phospholipase C beta 1
+protein kinase C alpha
+protein kinase C beta
+protein kinase C gamma
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+fibroblast growth factor receptor 1
+fibroblast growth factor receptor 2
+fibroblast growth factor receptor 3
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+G protein subunit alpha i1
+phosphatidylinositol glycan anchor biosynthesis class A
+phosphatidylinositol glycan anchor biosynthesis class C
+phosphatidylinositol glycan anchor biosynthesis class H
+phosphatidylinositol glycan anchor biosynthesis class P
+phosphatidylinositol glycan anchor biosynthesis class Q
+phosphatidylinositol glycan anchor biosynthesis class Y
+phosphatidylinositol glycan anchor biosynthesis class L
+phosphatidylinositol glycan anchor biosynthesis class W
+phosphatidylinositol glycan anchor biosynthesis class V
+phosphatidylinositol glycan anchor biosynthesis class N
+phosphatidylinositol glycan anchor biosynthesis class B
+phosphatidylinositol glycan anchor biosynthesis class O
+phosphatidylinositol glycan anchor biosynthesis class G
+glycosylphosphatidylinositol anchor attachment 1
+phosphatidylinositol glycan anchor biosynthesis class K
+phosphatidylinositol glycan anchor biosynthesis class S
+phosphatidylinositol glycan anchor biosynthesis class T
+phosphatidylinositol glycan anchor biosynthesis class U
+post-GPI attachment to proteins inositol deacylase 1
+branched chain keto acid dehydrogenase E1 subunit alpha
+branched chain keto acid dehydrogenase E1 subunit beta
+dihydrolipoamide branched chain transacylase E2
+dihydrolipoamide dehydrogenase
+isovaleryl-CoA dehydrogenase
+acyl-CoA dehydrogenase medium chain
+methylcrotonyl-CoA carboxylase subunit 1
+methylcrotonyl-CoA carboxylase subunit 2
+AU RNA binding methylglutaconyl-CoA hydratase
+3-hydroxy-3-methylglutaryl-CoA lyase
+acyl-CoA dehydrogenase short chain
+enoyl-CoA hydratase, short chain 1
+hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha
+3-hydroxyisobutyryl-CoA hydrolase
+hydroxyacyl-CoA dehydrogenase
+hydroxysteroid 17-beta dehydrogenase 10
+propionyl-CoA carboxylase subunit alpha
+propionyl-CoA carboxylase subunit beta
+methylmalonyl-CoA mutase
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+phospholipase C gamma 2
+protein phosphatase 3 catalytic subunit alpha
+protein phosphatase 3 catalytic subunit beta
+nuclear factor of activated T cells 3
+mitogen-activated protein kinase kinase kinase 7
+TGF-beta activated kinase 1 (MAP3K7) binding protein 2
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+eukaryotic translation initiation factor 2 alpha kinase 2
+major histocompatibility complex, class I, A
+major histocompatibility complex, class I, B
+major histocompatibility complex, class I, G
+cyclin D2
+cyclin dependent kinase 6
+ubiquitin specific peptidase 7
+recombination signal binding protein for immunoglobulin kappa J region
+MYC proto-oncogene, bHLH transcription factor
+MET proto-oncogene, receptor tyrosine kinase
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+RAS like proto-oncogene A
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+mechanistic target of rapamycin kinase
+cyclin D2
+cyclin dependent kinase 6
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+mechanistic target of rapamycin kinase
+colony stimulating factor 1 receptor
+period circadian regulator 2
+zinc finger and BTB domain containing 16
+MYC proto-oncogene, bHLH transcription factor
+dynactin subunit 2
+dynein axonemal heavy chain 3
+dynein axonemal heavy chain 10
+dynein axonemal heavy chain 17
+tubulin alpha 1a
+tubulin alpha 8
+tubulin beta class I
+tubulin beta 2A class IIa
+tubulin beta 2B class IIb
+tubulin beta 3 class III
+tubulin beta 4A class IVa
+huntingtin
+superoxide dismutase 1
+kinesin family member 5A
+kinesin family member 5C
+casein kinase 2 alpha 1
+casein kinase 2 beta
+cholinergic receptor nicotinic alpha 7 subunit
+microtubule associated protein tau
+phospholipase C gamma 2
+calcium/calmodulin dependent protein kinase II alpha
+calcium/calmodulin dependent protein kinase II beta
+calcium/calmodulin dependent protein kinase II gamma
+calcium/calmodulin dependent protein kinase IV
+platelet derived growth factor receptor beta
+protein phosphatase 3 catalytic subunit alpha
+protein phosphatase 3 catalytic subunit beta
+nuclear factor of activated T cells 3
+protein kinase C alpha
+protein kinase C beta
+protein kinase C gamma
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+MET proto-oncogene, receptor tyrosine kinase
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+solute carrier family 2 member 1
+cullin 2
+transcription factor binding to IGHM enhancer 3
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+phosphatase and tensin homolog
+AKT serine/threonine kinase 3
+Wnt family member 1
+dishevelled segment polarity protein 3
+catenin beta 1
+transcription factor 7 like 2
+MYC proto-oncogene, bHLH transcription factor
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+neurotrophic receptor tyrosine kinase 1
+Wnt family member 1
+dishevelled segment polarity protein 3
+catenin beta 1
+transcription factor 7 like 2
+MYC proto-oncogene, bHLH transcription factor
+paired box 8
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+Cbl proto-oncogene
+SMAD family member 4
+cyclin D2
+cyclin dependent kinase 6
+G protein subunit alpha q
+phospholipase C beta 1
+protein kinase C alpha
+protein kinase C beta
+protein kinase C gamma
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+GNAS complex locus
+adenylate cyclase 3
+adenylate cyclase 5
+protein kinase cAMP-activated catalytic subunit beta
+estrogen receptor 2
+nuclear receptor coactivator 1
+nuclear receptor coactivator 2
+cathepsin D
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+fibroblast growth factor receptor 1
+fibroblast growth factor receptor 2
+fibroblast growth factor receptor 3
+MYC proto-oncogene, bHLH transcription factor
+cyclin D2
+cyclin dependent kinase 6
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+phosphatase and tensin homolog
+AKT serine/threonine kinase 3
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+cyclin D2
+cyclin dependent kinase 6
+GNAS complex locus
+adenylate cyclase 3
+adenylate cyclase 5
+protein kinase cAMP-activated catalytic subunit beta
+insulin like growth factor 1
+insulin like growth factor 1 receptor
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+G protein subunit beta 1
+G protein subunit beta 5
+G protein subunit gamma 13
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma
+phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 1
+Rac family small GTPase 1
+AKT serine/threonine kinase 3
+mechanistic target of rapamycin kinase
+G protein subunit alpha q
+phospholipase C beta 1
+protein kinase C alpha
+protein kinase C beta
+protein kinase C gamma
+thyroid stimulating hormone subunit beta
+GNAS complex locus
+adenylate cyclase 3
+adenylate cyclase 5
+protein kinase cAMP-activated catalytic subunit beta
+paired box 8
+thyroid peroxidase
+solute carrier family 16 member 2
+thyroid hormone receptor beta
+thyroid hormone receptor alpha
+ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2
+reelin
+very low density lipoprotein receptor
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+TSC complex subunit 1
+TSC complex subunit 2
+Ras homolog, mTORC1 binding
+mechanistic target of rapamycin kinase
+neuregulin 2
+Rac family small GTPase 1
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+iduronate 2-sulfatase
+alpha-L-iduronidase
+arylsulfatase B
+N-sulfoglucosamine sulfohydrolase
+heparan-alpha-glucosaminide N-acetyltransferase
+N-acetyl-alpha-glucosaminidase
+glucuronidase beta
+glucosamine (N-acetyl)-6-sulfatase
+galactosamine (N-acetyl)-6-sulfatase
+galactosidase beta 1
+hexosaminidase subunit alpha
+hexosaminidase subunit beta
+cyclin D2
+cyclin dependent kinase 6
+ATM serine/threonine kinase
+ATR serine/threonine kinase
+E1A binding protein p300
+ubiquitin protein ligase E3A
+MYC proto-oncogene, bHLH transcription factor
+RB transcriptional corepressor like 2
+cyclin B1
+cullin 4B
+BUB1 mitotic checkpoint serine/threonine kinase B
+anaphase promoting complex subunit 1
+protein O-mannosyltransferase 1
+protein O-mannosyltransferase 2
+protein O-linked mannose N-acetylglucosaminyltransferase 2 (beta 1,4-)
+beta-1,3-N-acetylgalactosaminyltransferase 2
+protein O-mannose kinase
+CDP-L-ribitol pyrophosphorylase A
+fukutin
+fukutin related protein
+ribitol xylosyltransferase 1
+LARGE xylosyl- and glucuronyltransferase 1
+protein O-linked mannose N-acetylglucosaminyltransferase 1 (beta 1,2-)
+mitogen-activated protein kinase kinase kinase 7
+TGF-beta activated kinase 1 (MAP3K7) binding protein 2
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+protein tyrosine phosphatase non-receptor type 11
+CREB binding protein
+E1A binding protein p300
+DEAD-box helicase 3 X-linked
+ubiquitin specific peptidase 7
+recombination signal binding protein for immunoglobulin kappa J region
+MYC proto-oncogene, bHLH transcription factor
+CREB binding protein
+major histocompatibility complex, class II, DP beta 1
+major histocompatibility complex, class II, DR beta 1
+telomerase reverse transcriptase
+early growth response 3
+E1A binding protein p300
+host cell factor C1
+ubiquitin protein ligase E3A
+interferon induced with helicase C domain 1
+MBL associated serine protease 1
+complement C4B (Chido blood group)
+V-set and immunoglobulin domain containing 4
+complement C1q C chain
+fibrinogen alpha chain
+eukaryotic translation initiation factor 2 alpha kinase 2
+ribosomal protein S26
+ribosomal protein L4
+ribosomal protein L10
+ribosomal protein L26
+cyclin D2
+cyclin dependent kinase 6
+MYC proto-oncogene, bHLH transcription factor
+cholinergic receptor nicotinic alpha 7 subunit
+Raf-1 proto-oncogene, serine/threonine kinase
+cell division cycle 6
+ATM serine/threonine kinase
+ATR serine/threonine kinase
+cyclin B1
+BUB1 mitotic checkpoint serine/threonine kinase B
+anaphase promoting complex subunit 1
+GNAS complex locus
+adenylate cyclase 3
+adenylate cyclase 5
+protein kinase cAMP-activated catalytic subunit beta
+G protein subunit alpha i1
+PBX homeobox 1
+cytochrome P450 family 11 subfamily B member 1
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+prostaglandin-endoperoxide synthase 2
+lysine methyltransferase 2A
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+AKT serine/threonine kinase 3
+mitogen-activated protein kinase kinase kinase 7
+TGF-beta activated kinase 1 (MAP3K7) binding protein 2
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+interferon induced with helicase C domain 1
+eukaryotic translation initiation factor 2 alpha kinase 2
+eukaryotic translation initiation factor 2B subunit delta
+eukaryotic translation initiation factor 2B subunit epsilon
+androgen receptor
+estrogen receptor 2
+nuclear receptor coactivator 1
+nuclear receptor coactivator 2
+cathepsin D
+MYC proto-oncogene, bHLH transcription factor
+delta like canonical Notch ligand 1
+Wnt family member 1
+prostaglandin-endoperoxide synthase 2
+glutathione S-transferase mu 1
+phenylalanine hydroxylase
+GTP cyclohydrolase 1
+6-pyruvoyltetrahydropterin synthase
+sepiapterin reductase
+pterin-4 alpha-carbinolamine dehydratase 1
+quinoid dihydropteridine reductase
+tyrosine aminotransferase
+4-hydroxyphenylpyruvate dioxygenase
+fumarylacetoacetate hydrolase
+solute carrier family 22 member 5
+solute carrier family 25 member 20
+acyl-CoA synthetase long chain family member 4
+carnitine palmitoyltransferase 2
+acyl-CoA dehydrogenase medium chain
+acyl-CoA dehydrogenase short chain
+enoyl-CoA hydratase, short chain 1
+hydroxyacyl-CoA dehydrogenase
+hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha
+GNAS complex locus
+adenylate cyclase 3
+adenylate cyclase 5
+protein kinase cAMP-activated catalytic subunit beta
+G protein subunit alpha i1
+PBX homeobox 1
+cytochrome P450 family 11 subfamily B member 1
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+G protein subunit alpha q
+phospholipase C beta 1
+calcium/calmodulin dependent protein kinase II alpha
+calcium/calmodulin dependent protein kinase II beta
+calcium/calmodulin dependent protein kinase II gamma
+calcium/calmodulin dependent protein kinase IV
+calcium voltage-gated channel subunit alpha1 D
+calcium voltage-gated channel subunit alpha1 H
+ATPase Na+/K+ transporting subunit alpha 1
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+B-Raf proto-oncogene, serine/threonine kinase
+Raf-1 proto-oncogene, serine/threonine kinase
+mitogen-activated protein kinase kinase 1
+mitogen-activated protein kinase kinase 2
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 3
+galactosidase beta 1
+glucosylceramidase beta 2
+prosaposin
+galactosylceramidase
+arylsulfatase A
+sphingomyelin phosphodiesterase 1
+sphingomyelin phosphodiesterase 4
+N-acylsphingosine amidohydrolase 1
+SOS Ras/Rac guanine nucleotide exchange factor 1
+SOS Ras/Rho guanine nucleotide exchange factor 2
+HRas proto-oncogene, GTPase
+KRAS proto-oncogene, GTPase
+NRAS proto-oncogene, GTPase
+Ras association domain family member 5
+RAS like proto-oncogene A
+sonic hedgehog signaling molecule
+patched 1
+smoothened, frizzled class receptor
+SUFU negative regulator of hedgehog signaling
+GLI family zinc finger 2
+GLI family zinc finger 3
+Wnt family member 1
+mitogen-activated protein kinase kinase kinase 7
+TGF-beta activated kinase 1 (MAP3K7) binding protein 2
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+protein tyrosine phosphatase non-receptor type 11
+protein kinase D3
+protein kinase D2
+protein kinase D1
+adrenoceptor beta 2
+GNAS complex locus
+adenylate cyclase 3
+adenylate cyclase 5
+protein kinase cAMP-activated catalytic subunit beta
+phospholamban
+G protein subunit alpha i1
+sonic hedgehog signaling molecule
+patched 1
+smoothened, frizzled class receptor
+SUFU negative regulator of hedgehog signaling
+GLI family zinc finger 2
+GLI family zinc finger 3
+Wnt family member 1
+nuclear RNA export factor 1
+nucleoporin 133
+nucleoporin 107
+nucleoporin 37
+nucleoporin 188
+nucleoporin 155
+nucleoporin 214
+RAR related orphan receptor A
+lysine acetyltransferase 5
+inositol 1,4,5-trisphosphate receptor type 1
+glutamate metabotropic receptor 1
+huntingtin
+RE1 silencing transcription factor
+SIN3 transcription regulator family member A
+mitogen-activated protein kinase kinase kinase 7
+TGF-beta activated kinase 1 (MAP3K7) binding protein 2
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+F-box and WD repeat domain containing 11
+beta-transducin repeat containing E3 ubiquitin protein ligase
+chromodomain helicase DNA binding protein 4
+major histocompatibility complex, class I, A
+major histocompatibility complex, class I, B
+major histocompatibility complex, class I, G
+B cell receptor associated protein 31
+major histocompatibility complex, class II, DP beta 1
+major histocompatibility complex, class II, DR beta 1
+succinate dehydrogenase complex flavoprotein subunit A
+cytochrome c1
+cytochrome c oxidase subunit III
+cytochrome c oxidase subunit I
+cytochrome c oxidase subunit II
+cytochrome c oxidase subunit 6B1
+G protein subunit alpha q
+phospholipase C beta 1
+GNAS complex locus
+adenylate cyclase 3
+adenylate cyclase 5
+protein kinase cAMP-activated catalytic subunit beta
+Wnt family member 1
+dishevelled segment polarity protein 3
+catenin beta 1
+transcription factor 7 like 2
+MYC proto-oncogene, bHLH transcription factor
+MBL associated serine protease 1
+complement C4B (Chido blood group)
+V-set and immunoglobulin domain containing 4
+complement C1q C chain
+fibrinogen alpha chain
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+cell division cycle 42
+NLR family pyrin domain containing 3
+Rac family small GTPase 1
+protein kinase N2
+Wnt family member 1
+dishevelled segment polarity protein 3
+catenin beta 1
+transcription factor 7 like 2
+MYC proto-oncogene, bHLH transcription factor
+phosphatase and tensin homolog
+AKT serine/threonine kinase 3
+MYC proto-oncogene, bHLH transcription factor
+cyclin D2
+cyclin dependent kinase 6
+phosphatase and tensin homolog
+AKT serine/threonine kinase 3
+androgen receptor
+ETS transcription factor ERG
+interleukin 1 receptor type 2
+huntingtin
+superoxide dismutase 1
+parkin RBR E3 ubiquitin protein ligase
+HtrA serine peptidase 2
+mitogen-activated protein kinase kinase kinase 5
+parkin RBR E3 ubiquitin protein ligase
+G protein-coupled receptor 37
+proteasome 26S subunit, non-ATPase 12
+superoxide dismutase 1
+huntingtin
+tyrosine hydroxylase
+monoamine oxidase A
+monoamine oxidase B
+parkin RBR E3 ubiquitin protein ligase
+solute carrier family 18 member A2
+carbamoyl-phosphate synthase 1
+ornithine transcarbamylase
+argininosuccinate lyase
+arginase 1
+UDP-glucose pyrophosphorylase 2
+1,4-alpha-glucan branching enzyme 1
+phosphoglycerate kinase 1
+enolase 3
+delta like canonical Notch ligand 1
+hes related family bHLH transcription factor with YRPW motif 1
+recombination signal binding protein for immunoglobulin kappa J region
+mastermind like transcriptional coactivator 3
+phospholipase C gamma 2
+protein phosphatase 3 catalytic subunit alpha
+protein phosphatase 3 catalytic subunit beta
+nuclear factor of activated T cells 3
+eukaryotic translation initiation factor 2 alpha kinase 2
+eukaryotic translation initiation factor 2B subunit delta
+eukaryotic translation initiation factor 2B subunit epsilon
+protein phosphatase 1 catalytic subunit beta
+ribosomal protein S26
+ribosomal protein L4
+ribosomal protein L10
+ribosomal protein L26
+mitogen-activated protein kinase kinase kinase 7
+TGF-beta activated kinase 1 (MAP3K7) binding protein 2
+huntingtin
+mitogen-activated protein kinase kinase kinase 10
+acyl-CoA oxidase 1
+hydroxysteroid 17-beta dehydrogenase 4
+sterol carrier protein 2
+cytochrome P450 family 27 subfamily A member 1
+hydroxysteroid 17-beta dehydrogenase 4
+sterol carrier protein 2
+molybdenum cofactor synthesis 1
+molybdenum cofactor synthesis 2
+gephyrin
+glutathione synthetase
+glutathione peroxidase 1
+isocitrate dehydrogenase (NADP(+)) 2
+TGF-beta activated kinase 1 (MAP3K7) binding protein 2
+mitogen-activated protein kinase kinase kinase 7
+mitogen-activated protein kinase kinase kinase 5
+major histocompatibility complex, class I, A
+major histocompatibility complex, class I, B
+major histocompatibility complex, class I, G
+GNAS complex locus
+adenylate cyclase 3
+protein kinase cAMP-activated catalytic subunit beta
+potassium voltage-gated channel subfamily C member 1
+potassium voltage-gated channel subfamily D member 2
+potassium voltage-gated channel subfamily D member 3
+eukaryotic translation initiation factor 2 alpha kinase 3
+superoxide dismutase 1
+mitogen-activated protein kinase kinase kinase 5
+cytochrome P450 family 11 subfamily B member 1
+hydroxysteroid 11-beta dehydrogenase 1
+galactose-1-phosphate uridylyltransferase
+UDP-galactose-4-epimerase
+hexokinase 1
+ubiquitin protein ligase E3A
+interferon induced with helicase C domain 1
+inhibitor of nuclear factor kappa B kinase regulatory subunit gamma
+delta like canonical Notch ligand 1
+hes related family bHLH transcription factor with YRPW motif 1
+cholinergic receptor nicotinic alpha 7 subunit
+cholinergic receptor nicotinic alpha 4 subunit
+CREB binding protein
+E1A binding protein p300
+solute carrier family 2 member 1
+cullin 2
+hydroxysteroid 11-beta dehydrogenase 1
+glutathione S-transferase mu 1
+parkin RBR E3 ubiquitin protein ligase
+hexokinase 1
+actin beta
+actin gamma 1
