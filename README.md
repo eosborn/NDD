@@ -28,7 +28,7 @@ To do:
 1. add *README* to directory 
 2. fill in function docstrings in `counting.py`
 
-### Aim 4: identify relevant genes/groupings for clinical interpretation  
+### Aim 3: identify relevant genes/groupings for clinical interpretation  
 - currently workshopping in *sandbox*
 
 To do:  
