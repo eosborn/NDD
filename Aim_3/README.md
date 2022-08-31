@@ -12,13 +12,13 @@ all genes (excluding flagged genes listed above) containing a truncating mutatio
 > cat *grouped.txt | grep -vw 'TTN\|MUC12\|FLG' | grep -vw 'nonframeshift\|ExonicFunc\|nonsynonymous' | cut -f7 | sort | uniq
  > trunc_all.txt
 
-#### *trunc_mult.txt*
-genes (excluding flagged genes) containing a multiple truncating mutations across the cohort 
+#### *trunc_mult.txt* genes (excluding flagged genes) containing a multiple truncating mutations across the cohort 
 - 31 genes
 > cat *grouped.txt | grep -vw 'TTN\|MUC12\|FLG' | grep -vw 'nonframeshift\|ExonicFunc\|nonsynonymous' | cut -f7 | sort | uniq -c | grep -vw '1' | sed 's/.*[[:space:]]//' > trunc_mult.txt
 
-#### *trunc_mult_counts.txt*
-trunc_mult genes with second count column (# of times that gene has a truncating mutation across the cohort)
+#### *trunc_mult_counts.txt* trunc_mult genes with second count column (# of times that gene has a truncating mutation across the cohort)
 > cat *grouped.txt | grep -vw 'TTN\|MUC12\|FLG' | grep -vw 'nonframeshift\|ExonicFunc\|nonsynonymous' | cut -f7 | sort | uniq -c | grep -vw '1' | awk '$1=$1' | cut -f1 -d' ' > tmp.txt
 > paste trunc_mult.txt tmp.txt > trunc_mult_counts.txt
 > rm tmp.txt
+
+#### *get_trunc_vars.sh* extracts variants from given variant files in genes in given gene file
