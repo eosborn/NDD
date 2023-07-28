@@ -1,0 +1,20 @@
+level_0	index	KEGG_entry_ID	name	total_count	genes	20A0008882	18PA008847	19PA009214
+0	4	06410	Calcium signaling	6	['HTT', 'PRKN', 'GRM5', 'PLCB1', 'RYR2']	4	1	1
+1	18	06464	Amyotrophic lateral sclerosis	6	['PRKN', 'NUP188', 'GRM5', 'PLCB1', 'NDUFS2', 'NDUFA11']	4	1	1
+2	3	06461	Huntington disease	5	['HTT', 'GRM5', 'KIF5A', 'PLCB1']	4	1	0
+3	25	06460	Alzheimer disease	5	['GRM5', 'KIF5A', 'PLCB1', 'NDUFS2', 'NDUFA11']	3	1	1
+4	17	06463	Parkinson disease	5	['PRKN', 'KIF5A', 'PLCB1', 'NDUFS2', 'NDUFA11']	3	1	1
+5	5	06418	Oxidative phosphorylation	4	['HTT', 'NDUFS2', 'NDUFA11']	1	2	1
+6	26	06465	Prion disease	4	['GRM5', 'KIF5A', 'PLCB1', 'RYR2']	3	0	1
+7	0	06240	Transcription	3	['IL1R2', 'PER2', 'NCOR1']	2	0	1
+8	27	06462	Spinocerebellar ataxia	3	['GRM5', 'TSC2', 'PLCB1']	3	0	0
+9	11	06166	Human papillomavirus	3	['MAML3', 'TSC2', 'CHD4']	2	1	0
+10	9	06420	Ubiquitin-proteasome system	3	['HTT', 'PRKN']	2	1	0
+11	8	06414	Apoptosis	3	['HTT', 'PRKN']	2	1	0
+12	6	06419	Microtubule-based transport	3	['HTT', 'KIF5A']	2	1	0
+13	14	06168	Herpes simplex virus 1	2	['HLA-DRB1', 'TSC2']	2	0	0
+14	10	06416	TNF signaling	2	['HTT']	1	1	0
+15	21	06217	HH signaling	2	['GLI3', 'GLI2']	1	0	1
+16	22	06269	Basal cell carcinoma	2	['GLI3', 'GLI2']	1	0	1
+17	7	06440	Transcription	2	['HTT']	1	1	0
+18	29	06167	Human cytomegalovirus	2	['TSC2', 'PLCB1']	2	0	0

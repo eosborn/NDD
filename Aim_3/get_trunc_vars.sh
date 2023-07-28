@@ -1,6 +1,8 @@
 #!/bin/bash
 
-#input grouped.txt variant files
+#how to run:
+#bash get_trunc_vars.sh
+
 read -p 'Enter files: ' files
 #files=test_data2/*grouped.txt
 path=`echo $files[1] | sed s/"\/[^ ]*"//`
@@ -20,3 +22,5 @@ do
 		tee -a trunc_vars/all_trunc_vars.txt trunc_vars/${sample}_trunc_vars.txt
 done
 
+mv get_trunc_vars.sh trunc_vars/
+mv genes trunc_vars/

@@ -1,0 +1,86 @@
+level_0	index	KEGG_entry_ID	name	total_count	genes	20A0008882	18PA008847	19PA009214
+0	22	hsa01100	Metabolic pathways	32	['CYP2U1', 'PDE10A', 'GBA2', 'DHTKD1', 'ENTPD1', 'DHCR7', 'KMT2D', 'ACACB', 'MLYCD', 'PLCB1', 'NDUFS2', 'SETD2', 'PIGG', 'SETD1B', 'PMM2', 'ATP5F1A', 'AMPD1', 'CMPK2', 'CPS1', 'BST1', 'PDE1C', 'KMT2C', 'HEXA', 'FASN', 'NDUFA11', 'KMT2B', 'HLCS']	12	9	11
+1	16	hsa05022	Pathways of neurodegeneration - multiple diseases	10	['HTT', 'PRKN', 'GRM5', 'KIF5A', 'PLCB1', 'NDUFS2', 'ATP5F1A', 'RYR2', 'NDUFA11']	5	3	2
+2	17	hsa05016	Huntington disease	9	['HTT', 'GRM5', 'KIF5A', 'PLCB1', 'CLTCL1', 'NDUFS2', 'ATP5F1A', 'NDUFA11']	5	3	1
+3	60	hsa00230	Purine metabolism	9	['PDE10A', 'ENTPD1', 'AMPD1', 'PDE1C']	4	3	2
+4	11	hsa05414	Dilated cardiomyopathy	8	['TTN', 'LAMA2', 'RYR2', 'LAMA1']	2	2	4
+5	12	hsa05410	Hypertrophic cardiomyopathy	8	['TTN', 'LAMA2', 'RYR2', 'LAMA1']	2	2	4
+6	68	hsa01232	Nucleotide metabolism	7	['ENTPD1', 'AMPD1', 'CMPK2']	3	2	2
+7	8	hsa04340	Hedgehog signaling pathway	7	['LRP2', 'GLI3', 'KIF7', 'MEGF8', 'GLI2']	5	0	2
+8	72	hsa05010	Alzheimer disease	7	['GRM5', 'KIF5A', 'PLCB1', 'NDUFS2', 'LRP1', 'ATP5F1A', 'NDUFA11']	3	3	1
+9	49	hsa05200	Pathways in cancer	7	['LAMA2', 'GLI3', 'KIF7', 'PLCB1', 'LAMC3', 'GLI2', 'LAMA1']	4	1	2
+10	51	hsa04510	Focal adhesion	6	['LAMA2', 'LAMC3', 'FLNA', 'LAMA1']	1	4	1
+11	66	hsa00310	Lysine degradation	6	['DHTKD1', 'KMT2D', 'SETD2', 'SETD1B', 'KMT2C', 'KMT2B']	2	2	2
+12	54	hsa05014	Amyotrophic lateral sclerosis	6	['PRKN', 'NUP188', 'KIF5A', 'NDUFS2', 'ATP5F1A', 'NDUFA11']	3	2	1
+13	69	hsa00240	Pyrimidine metabolism	6	['ENTPD1', 'CMPK2']	3	2	1
+14	21	hsa04512	ECM-receptor interaction	6	['FRAS1', 'LAMA2', 'LAMC3', 'FREM2', 'HSPG2', 'LAMA1']	2	2	2
+15	70	hsa04142	Lysosome	6	['TPP1', 'CLN3', 'MAN2B1', 'CLTCL1', 'ABCA2', 'HEXA']	4	1	1
+16	25	hsa05165	Human papillomavirus infection	6	['MAML3', 'LAMA2', 'TSC2', 'LAMC3', 'CHD4', 'LAMA1']	3	2	1
+17	32	hsa05169	Epstein-Barr virus infection	6	['HLA-DRB1', 'ENTPD1']	4	2	0
+18	169	hsa05205	Proteoglycans in cancer	5	['FLNA', 'HSPG2', 'ANK2']	0	3	2
+19	81	hsa05020	Prion disease	5	['KIF5A', 'NDUFS2', 'ATP5F1A', 'RYR2', 'NDUFA11']	1	2	2
+20	59	hsa04024	cAMP signaling pathway	5	['PDE10A', 'GLI3', 'CNGB3', 'RYR2']	2	2	1
+21	113	hsa05415	Diabetic cardiomyopathy	5	['PLCB1', 'NDUFS2', 'ATP5F1A', 'RYR2', 'NDUFA11']	1	2	2
+22	4	hsa05146	Amoebiasis	5	['IL1R2', 'LAMA2', 'PLCB1', 'LAMC3', 'LAMA1']	3	1	1
+23	55	hsa05012	Parkinson disease	5	['PRKN', 'KIF5A', 'NDUFS2', 'ATP5F1A', 'NDUFA11']	2	2	1
+24	73	hsa04020	Calcium signaling pathway	4	['GRM5', 'PLCB1', 'RYR2', 'PDE1C']	2	0	2
+25	84	hsa05132	Salmonella infection	4	['KIF5A', 'FLNA']	1	3	0
+26	87	hsa04152	AMPK signaling pathway	4	['ACACB', 'TSC2', 'MLYCD', 'FASN']	3	0	1
+27	99	hsa04714	Thermogenesis	4	['TSC2', 'NDUFS2', 'ATP5F1A', 'NDUFA11']	1	2	1
+28	100	hsa04919	Thyroid hormone signaling pathway	4	['TSC2', 'PLCB1', 'MED12', 'NCOR1']	2	1	1
+29	168	hsa04010	MAPK signaling pathway	4	['FLNA', 'TAOK2']	0	3	1
+30	74	hsa04723	Retrograde endocannabinoid signaling	4	['GRM5', 'PLCB1', 'NDUFS2', 'NDUFA11']	2	1	1
+31	50	hsa04151	PI3K-Akt signaling pathway	4	['LAMA2', 'TSC2', 'LAMC3', 'LAMA1']	2	1	1
+32	9	hsa04918	Thyroid hormone synthesis	4	['LRP2', 'PLCB1']	3	0	1
+33	34	hsa05145	Toxoplasmosis	4	['HLA-DRB1', 'LAMA2', 'LAMC3', 'LAMA1']	2	1	1
+34	10	hsa04979	Cholesterol metabolism	4	['LRP2', 'LRP1']	2	1	1
+35	18	hsa04972	Pancreatic secretion	4	['SLC4A4', 'PLCB1', 'RYR2', 'BST1']	2	0	2
+36	53	hsa05222	Small cell lung cancer	3	['LAMA2', 'LAMC3', 'LAMA1']	1	1	1
+37	83	hsa04144	Endocytosis	3	['KIF5A', 'CLTCL1', 'AGAP1']	2	0	1
+38	158	hsa04360	Axon guidance	3	['TRPC6', 'NEO1', 'SEMA6B']	0	3	0
+39	154	hsa00190	Oxidative phosphorylation	3	['NDUFS2', 'ATP5F1A', 'NDUFA11']	0	2	1
+40	152	hsa05208	Chemical carcinogenesis - reactive oxygen species	3	['NDUFS2', 'ATP5F1A', 'NDUFA11']	0	2	1
+41	7	hsa04742	Taste transduction	3	['SCN9A', 'PLCB1', 'PDE1C']	2	0	1
+42	98	hsa03460	Fanconi anemia pathway	3	['TELO2', 'FANCA', 'BLM']	2	1	0
+43	61	hsa05032	Morphine addiction	3	['PDE10A', 'PDE1C']	1	1	1
+44	89	hsa04936	Alcoholic liver disease	3	['ACACB', 'MLYCD', 'FASN']	2	0	1
+45	13	hsa04713	Circadian entrainment	3	['PER2', 'PLCB1', 'RYR2']	2	0	1
+46	86	hsa04910	Insulin signaling pathway	3	['ACACB', 'TSC2', 'FASN']	2	0	1
+47	0	hsa05166	Human T-cell leukemia virus 1 infection	3	['IL1R2', 'HLA-DRB1', 'VAC14']	2	1	0
+48	1	hsa05202	Transcriptional misregulation in cancer	3	['IL1R2', 'PER2', 'NCOR1']	2	0	1
+49	77	hsa04072	Phospholipase D signaling pathway	3	['GRM5', 'TSC2', 'PLCB1']	3	0	0
+50	35	hsa05416	Viral myocarditis	3	['HLA-DRB1', 'LAMA2', 'LAMA1']	2	0	1
+51	64	hsa00511	Other glycan degradation	3	['GBA2', 'MAN2B1', 'HEXA']	2	0	1
+52	62	hsa05217	Basal cell carcinoma	3	['GLI3', 'KIF7', 'GLI2']	2	0	1
+53	52	hsa05412	Arrhythmogenic right ventricular cardiomyopathy	3	['LAMA2', 'RYR2', 'LAMA1']	1	0	2
+54	159	hsa05203	Viral carcinogenesis	2	['CHD4', 'VAC14']	0	2	0
+55	162	hsa01240	Biosynthesis of cofactors	2	['PMM2', 'CMPK2']	0	1	1
+56	63	hsa00600	Sphingolipid metabolism	2	['GBA2', 'HEXA']	1	0	1
+57	153	hsa04932	Non-alcoholic fatty liver disease	2	['NDUFS2', 'NDUFA11']	0	1	1
+58	115	hsa04261	Adrenergic signaling in cardiomyocytes	2	['PLCB1', 'RYR2']	1	0	1
+59	163	hsa00520	Amino sugar and nucleotide sugar metabolism	2	['PMM2', 'HEXA']	0	1	1
+60	145	hsa04924	Renin secretion	2	['PLCB1', 'PDE1C']	1	0	1
+61	142	hsa04961	Endocrine and other factor-regulated calcium reabsorption	2	['PLCB1', 'CLTCL1']	2	0	0
+62	6	hsa04640	Hematopoietic cell lineage	2	['IL1R2', 'HLA-DRB1']	2	0	0
+63	140	hsa04970	Salivary secretion	2	['PLCB1', 'BST1']	1	0	1
+64	131	hsa04911	Insulin secretion	2	['PLCB1', 'RYR2']	1	0	1
+65	125	hsa04371	Apelin signaling pathway	2	['PLCB1', 'RYR2']	1	0	1
+66	118	hsa04022	cGMP-PKG signaling pathway	2	['PLCB1', 'TRPC6']	1	1	0
+67	26	hsa04658	Th1 and Th2 cell differentiation	2	['MAML3', 'HLA-DRB1']	2	0	0
+68	112	hsa04921	Oxytocin signaling pathway	2	['PLCB1', 'RYR2']	1	0	1
+69	114	hsa04725	Cholinergic synapse	2	['PLCB1', 'ACHE']	1	1	0
+70	82	hsa04728	Dopaminergic synapse	2	['KIF5A', 'PLCB1']	2	0	0
+71	110	hsa04721	Synaptic vesicle cycle	2	['UNC13A', 'CLTCL1']	2	0	0
+72	109	hsa02010	ABC transporters	2	['ABCA7', 'ABCA2']	1	1	0
+73	101	hsa05163	Human cytomegalovirus infection	2	['TSC2', 'PLCB1']	2	0	0
+74	29	hsa05168	Herpes simplex virus 1 infection	2	['HLA-DRB1', 'TSC2']	2	0	0
+75	28	hsa04514	Cell adhesion molecules	2	['HLA-DRB1', 'NEO1']	1	1	0
+76	97	hsa04150	mTOR signaling pathway	2	['TELO2', 'TSC2']	2	0	0
+77	94	hsa00061	Fatty acid biosynthesis	2	['ACACB', 'FASN']	1	0	1
+78	91	hsa00640	Propanoate metabolism	2	['ACACB', 'MLYCD']	2	0	0
+79	76	hsa04724	Glutamatergic synapse	2	['GRM5', 'PLCB1']	2	0	0
+80	88	hsa04922	Glucagon signaling pathway	2	['ACACB', 'PLCB1']	2	0	0
+81	78	hsa04720	Long-term potentiation	2	['GRM5', 'PLCB1']	2	0	0
+82	79	hsa04540	Gap junction	2	['GRM5', 'PLCB1']	2	0	0
+83	80	hsa04934	Cushing syndrome	2	['KMT2D', 'PLCB1']	2	0	0
+84	95	hsa04350	TGF-beta signaling pathway	2	['FBN1', 'NEO1']	1	1	0

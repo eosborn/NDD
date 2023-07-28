@@ -1,0 +1,14 @@
+level_0	index	gene	KEGG_entry_ID	name	total_count	cross_reference	fs_insertion_count	fs_del_count	fs_block_sub_count	stopgain_count	stoploss_count	nonfs_insertion_count	nonfs_del_count	nonfs_block_sub_count	nonsyn_SNV_count	syn_SNV_count	unknown_count	20A0008882	18PA008847	19PA009214
+0	8	TTN	hsa:7273	titin	5	Cardiomyopathy, dilated, 1G;Cardiomyopathy, familial hypertrophic, 9;Muscular dystrophy, limb-girdle, type 2J, Autosomal recessive;Myopathy, early-onset, with fatal cardiomyopathy, Autosomal recessive;Myopathy, proximal, with early respiratory muscle involvement;Tibial muscular dystrophy, tardive, Autosomal dominant	0	0	0	0	0	0	0	0	1	0	0	1	2	2
+1	37	ENTPD1	hsa:953	ectonucleoside triphosphate diphosphohydrolase 1	5	Spastic paraplegia 64, autosomal recessive, Autosomal recessive	1	0	0	0	0	0	0	0	0	0	0	3	2	0
+2	2	FLG	hsa:2312	filaggrin	4	Ichthyosis vulgaris, Autosomal dominant	0	0	0	0	0	0	0	0	1	0	0	3	0	1
+3	7	LRP2	hsa:4036	LDL receptor related protein 2	3	Donnai-Barrow syndrome, Autosomal recessive	0	0	0	0	0	0	0	0	1	0	0	2	0	1
+4	122	FLNA	hsa:2316	filamin A	3	Cardiac valvular dysplasia, X-linked, X-linked recessive;Congenital short bowel syndrome, X-linked recessive;FG syndrome 2;Frontometaphyseal dysplasia 1, X-linked recessive;Heterotopia, periventricular, X-linked dominant;Intestinal pseudoobstruction, neuronal, X-linked recessive;Melnick-Needles syndrome, X-linked dominant;Otopalatodigital syndrome, type I, X-linked dominant;Otopalatodigital syndrome, type II, X-linked dominant;Terminal osseous dysplasia	0	0	0	0	0	0	0	0	1	0	0	0	3	0
+5	0	RERE	hsa:473	arginine-glutamic acid dipeptide repeats	2	Neurodevelopmental disorder with or without anomalies of the brain, eye, or heart, Autosomal dominant	0	0	0	0	0	0	0	0	1	0	0	1	0	1
+6	4	ALMS1	hsa:7840	ALMS1 centrosome and basal body associated protein	2	Alstrom syndrome, Autosomal recessive	0	0	0	0	0	0	0	0	1	0	0	2	0	0
+7	12	HTT	hsa:3064	huntingtin	2	Huntington disease, Autosomal dominant	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+8	15	CCSER1			2	.	0	0	0	0	0	0	0	0	1	0	0	1	0	1
+9	28	PDE10A	hsa:10846	phosphodiesterase 10A	2	Dyskinesia, limb and orofacial, infantile-onset, Autosomal recessive;Striatal degeneration, autosomal dominant, Autosomal dominant	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+10	31	VPS13B	hsa:157680	vacuolar protein sorting 13 homolog B	2	Cohen syndrome, Autosomal recessive	0	0	0	0	0	0	0	0	1	0	0	2	0	0
+11	102	POLG	hsa:5428	DNA polymerase gamma, catalytic subunit	2	Mitochondrial DNA depletion syndrome 4A (Alpers type), Autosomal recessive;Mitochondrial DNA depletion syndrome 4B (MNGIE type), Autosomal recessive;Mitochondrial recessive ataxia syndrome (includes SANDO and SCAE), Autosomal recessive;Progressive external ophthalmoplegia, autosomal dominant 1, Autosomal dominant;Progressive external ophthalmoplegia, autosomal recessive 1, Autosomal recessive	0	0	0	0	0	0	0	0	1	0	0	0	2	0
+12	156	TMEM94			2	.	0	0	0	0	0	0	0	0	1	0	0	0	0	2

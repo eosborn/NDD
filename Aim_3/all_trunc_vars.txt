@@ -1,0 +1,170 @@
+Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	Xref.refGene	BayesDel_noAF_score	BayesDel_noAF_rankscore	BayesDel_noAF_pred	ClinPred_score	ClinPred_rankscore	Additional_Info	pathways	networks	modules	brite
+18PA004616
+18PA004715
+chr12	132062544	132062544	-	GC	exonic	EP400	.	frameshift insertion	EP400:NM_015409:exon47:c.8177_8178insGC:p.Q2727Hfs*51	.	.	.	.	.	.	.	[]	[]	[]	['hsa03036']
+chr12	132062545	132062545	-	GCAG	exonic	EP400	.	frameshift insertion	EP400:NM_015409:exon47:c.8178_8179insGCAG:p.Q2727Afs*257	.	.	.	.	.	.	.	[]	[]	[]	['hsa03036']
+18PA004934
+18PA004940
+18PA006387
+18PA008847
+chr10	95711973	95711973	A	-	exonic	ENTPD1	.	frameshift deletion	ENTPD1:NM_001098175:exon1:c.17delA:p.D6Afs*2	Spastic paraplegia 64, autosomal recessive, Autosomal recessive	.	.	.	.	.	.	['hsa01100', 'hsa00230', 'hsa05169', 'hsa01232', 'hsa00240']	[]	[]	['hsa04090']
+19CT013554
+chr1	247921019	247921019	T	C	exonic	OR2T8	.	startloss	OR2T8:NM_001005522:exon1:c.T2C:p.M1?	.	-0.506	0.217	T	0.059	0.070	.	['hsa04740']	[]	[]	['hsa04030']
+chr7	100896627	100896627	C	-	exonic	ACHE	.	frameshift deletion	ACHE:NM_001367918:exon1:c.104delG:p.S35Ifs*34,ACHE:NM_001367919:exon1:c.104delG:p.S35Ifs*33	.	.	.	.	.	.	.	['hsa04725', 'hsa00564']	[]	[]	['hsa00537']
+19CT014597
+19CT016403
+19CT016404
+19CT016837
+chr1	156561909	156561909	G	A	exonic	IQGAP3	.	stopgain	IQGAP3:NM_178229:exon10:c.C970T:p.R324X	.	0.295	0.880	D	.	.	.	['hsa04810']	[]	[]	['hsa04147', 'hsa04812']
+chr10	95711966	95711966	-	C	exonic	ENTPD1	.	frameshift insertion	ENTPD1:NM_001098175:exon1:c.11dupC:p.K5Qfs*11	Spastic paraplegia 64, autosomal recessive, Autosomal recessive	.	.	.	.	.	.	['hsa01100', 'hsa00230', 'hsa05169', 'hsa01232', 'hsa00240']	[]	[]	['hsa04090']
+chr10	95711973	95711973	A	-	exonic	ENTPD1	.	frameshift deletion	ENTPD1:NM_001098175:exon1:c.17delA:p.D6Afs*2	Spastic paraplegia 64, autosomal recessive, Autosomal recessive	.	.	.	.	.	.	['hsa01100', 'hsa00230', 'hsa05169', 'hsa01232', 'hsa00240']	[]	[]	['hsa04090']
+19CT020478
+19CT021756
+chr19	9342709	9342709	C	T	exonic	ZNF559	.	stopgain	ZNF559:NM_001202406:exon6:c.C1450T:p.R484X,ZNF559:NM_001202407:exon6:c.C1132T:p.R378X,ZNF559:NM_032497:exon7:c.C1258T:p.R420X	.	0.189	0.825	D	.	.	.	['hsa05168']	[]	[]	['hsa03000']
+chr19	46347098	46347098	T	C	exonic	PPP5C	.	startloss	PPP5C:NM_001204284:exon1:c.T2C:p.M1?,PPP5C:NM_006247:exon1:c.T2C:p.M1?	.	-0.298	0.449	T	0.151	0.172	.	['hsa04010']	[]	[]	['hsa01009']
+19CT024233
+chr19	9342709	9342709	C	T	exonic	ZNF559	.	stopgain	ZNF559:NM_001202406:exon6:c.C1450T:p.R484X,ZNF559:NM_001202407:exon6:c.C1132T:p.R378X,ZNF559:NM_032497:exon7:c.C1258T:p.R420X	.	0.189	0.825	D	.	.	.	['hsa05168']	[]	[]	['hsa03000']
+chr19	46347098	46347098	T	C	exonic	PPP5C	.	startloss	PPP5C:NM_001204284:exon1:c.T2C:p.M1?,PPP5C:NM_006247:exon1:c.T2C:p.M1?	.	-0.298	0.449	T	0.151	0.172	.	['hsa04010']	[]	[]	['hsa01009']
+19CT024234
+19CT024296
+chr1	151692437	151692438	CC	-	exonic	SNX27	.	frameshift deletion	SNX27:NM_001330723:exon9:c.1242_1243del:p.L415Qfs*7,SNX27:NM_030918:exon9:c.1242_1243del:p.L415Qfs*7	.	.	.	.	.	.	.	[]	[]	[]	['hsa04131', 'hsa04990']
+chr1	151692439	151692439	-	TAAAA	exonic	SNX27	.	frameshift insertion	SNX27:NM_001330723:exon9:c.1244_1245insTAAAA:p.N416Kfs*5,SNX27:NM_030918:exon9:c.1244_1245insTAAAA:p.N416Kfs*5	.	.	.	.	.	.	.	[]	[]	[]	['hsa04131', 'hsa04990']
+19CT024299
+19CT024854
+19CT028732
+19CT030002
+19CT030702
+19CT030925
+chr15	44584057	44584057	G	A	exonic	SPG11	.	stopgain	SPG11:NM_001160227:exon30:c.C5623T:p.Q1875X,SPG11:NM_025137:exon30:c.C5623T:p.Q1875X	Amyotrophic lateral sclerosis 5, juvenile, Autosomal recessive;Charcot-Marie-Tooth disease, axonal, type 2X, Autosomal recessive;Spastic paraplegia 11, autosomal recessive, Autosomal recessive	0.66	0.994	D	.	.	.	['hsa05022', 'hsa05014']	[]	[]	['hsa03400']
+19CT031559
+chr5	61332767	61332776	CGCAACCTCG	-	exonic	ZSWIM6	.	frameshift deletion	ZSWIM6:NM_020928:exon1:c.495_504del:p.A166Pfs*51	Acromelic frontonasal dysostosis, Autosomal dominant	.	.	.	.	.	.	[]	[]	[]	['hsa03037']
+19CT031909
+19CT034631
+chr17	81241151	81241151	T	C	exonic	NDUFAF8	.	stoploss	NDUFAF8:NM_001353402:exon3:c.T364C:p.X122Q,NDUFAF8:NM_001353403:exon3:c.T202C:p.X68Q	.	.	.	.	.	.	.	['hsa04714']	[]	[]	['hsa03029']
+19CT034641
+chr1	8358584	8358593	CCGCTCTCGG	-	exonic	RERE	.	frameshift deletion	RERE:NM_001042682:exon10:c.2280_2289del:p.I760Mfs*7,RERE:NM_001042681:exon20:c.3942_3951del:p.I1314Mfs*7,RERE:NM_012102:exon21:c.3942_3951del:p.I1314Mfs*7	Neurodevelopmental disorder with or without anomalies of the brain, eye, or heart, Autosomal dominant	.	.	.	.	.	.	[]	[]	[]	['hsa03000']
+chr1	8358595	8358614	TCTCCCGCTCTCGGATCTCC	-	exonic	RERE	.	frameshift deletion	RERE:NM_001042682:exon10:c.2259_2278del:p.E754Pfs*80,RERE:NM_001042681:exon20:c.3921_3940del:p.E1308Pfs*80,RERE:NM_012102:exon21:c.3921_3940del:p.E1308Pfs*80	Neurodevelopmental disorder with or without anomalies of the brain, eye, or heart, Autosomal dominant	.	.	.	.	.	.	[]	[]	[]	['hsa03000']
+19CT034643
+chr11	108292689	108292689	C	T	exonic	ATM	.	stopgain	ATM:NM_000051:exon30:c.C4507T:p.Q1503X,ATM:NM_001351834:exon31:c.C4507T:p.Q1503X	Ataxia-telangiectasia, Autosomal recessive;Lymphoma, B-cell non-Hodgkin, somatic (3);Lymphoma, mantle cell, somatic (3);T-cell prolymphocytic leukemia, somatic (3)	0.653	0.983	D	.	.	.	['hsa05165', 'hsa05170', 'hsa05206', 'hsa05166', 'hsa04218', 'hsa05202', 'hsa04068', 'hsa05131', 'hsa04210', 'hsa04110', 'hsa04115', 'hsa01524', 'hsa04064', 'hsa03440']	['06166', '06240', '06161', '06160', '06130', '06230']	[]	['hsa01001', 'hsa03400', 'hsa03032']
+chr17	10454606	10454606	C	-	exonic	MYH4	.	frameshift deletion	MYH4:NM_017533:exon22:c.2640delG:p.M881Wfs*2	.	.	.	.	.	.	.	[]	[]	[]	['hsa04812']
+19CT034845
+19CT035369
+chr1	247921019	247921019	T	C	exonic	OR2T8	.	startloss	OR2T8:NM_001005522:exon1:c.T2C:p.M1?	.	-0.506	0.217	T	0.059	0.070	.	['hsa04740']	[]	[]	['hsa04030']
+chr10	77637609	77637610	TG	-	exonic	KCNMA1	.	frameshift deletion	KCNMA1:NM_001014797:exon1:c.33_34del:p.S11Rfs*13,KCNMA1:NM_001161352:exon1:c.33_34del:p.S11Rfs*13,KCNMA1:NM_001161353:exon1:c.33_34del:p.S11Rfs*13,KCNMA1:NM_001271518:exon1:c.33_34del:p.S11Rfs*13,KCNMA1:NM_001271519:exon1:c.33_34del:p.S11Rfs*13,KCNMA1:NM_001271520:exon1:c.33_34del:p.S11Rfs*13,KCNMA1:NM_001271521:exon1:c.33_34del:p.S11Rfs*13,KCNMA1:NM_001271522:exon1:c.33_34del:p.S11Rfs*13,KCNMA1:NM_001322829:exon1:c.33_34del:p.S11Rfs*13,KCNMA1:NM_001322830:exon1:c.33_34del:p.S11Rfs*13,KCNMA1:NM_001322832:exon1:c.33_34del:p.S11Rfs*13,KCNMA1:NM_001322835:exon1:c.33_34del:p.S11Rfs*13,KCNMA1:NM_001322836:exon1:c.33_34del:p.S11Rfs*13,KCNMA1:NM_001322837:exon1:c.33_34del:p.S11Rfs*13,KCNMA1:NM_001322839:exon1:c.33_34del:p.S11Rfs*13,KCNMA1:NM_002247:exon1:c.33_34del:p.S11Rfs*13	Generalized epilepsy and paroxysmal dyskinesia, Autosomal dominant	.	.	.	.	.	.	['hsa04022', 'hsa04270', 'hsa04911', 'hsa04972', 'hsa04970', 'hsa04924']	[]	[]	['hsa04040']
+chr10	77637612	77637612	T	-	exonic	KCNMA1	.	frameshift deletion	KCNMA1:NM_001014797:exon1:c.31delA:p.S11Afs*15,KCNMA1:NM_001161352:exon1:c.31delA:p.S11Afs*15,KCNMA1:NM_001161353:exon1:c.31delA:p.S11Afs*15,KCNMA1:NM_001271518:exon1:c.31delA:p.S11Afs*15,KCNMA1:NM_001271519:exon1:c.31delA:p.S11Afs*15,KCNMA1:NM_001271520:exon1:c.31delA:p.S11Afs*15,KCNMA1:NM_001271521:exon1:c.31delA:p.S11Afs*15,KCNMA1:NM_001271522:exon1:c.31delA:p.S11Afs*15,KCNMA1:NM_001322829:exon1:c.31delA:p.S11Afs*15,KCNMA1:NM_001322830:exon1:c.31delA:p.S11Afs*15,KCNMA1:NM_001322832:exon1:c.31delA:p.S11Afs*15,KCNMA1:NM_001322835:exon1:c.31delA:p.S11Afs*15,KCNMA1:NM_001322836:exon1:c.31delA:p.S11Afs*15,KCNMA1:NM_001322837:exon1:c.31delA:p.S11Afs*15,KCNMA1:NM_001322839:exon1:c.31delA:p.S11Afs*15,KCNMA1:NM_002247:exon1:c.31delA:p.S11Afs*15	Generalized epilepsy and paroxysmal dyskinesia, Autosomal dominant	.	.	.	.	.	.	['hsa04022', 'hsa04270', 'hsa04911', 'hsa04972', 'hsa04970', 'hsa04924']	[]	[]	['hsa04040']
+19CT036423
+19CT036523
+chr5	61332770	61332774	AACCT	-	exonic	ZSWIM6	.	frameshift deletion	ZSWIM6:NM_020928:exon1:c.498_502del:p.T167Gfs*85	Acromelic frontonasal dysostosis, Autosomal dominant	.	.	.	.	.	.	[]	[]	[]	['hsa03037']
+chr5	61332776	61332776	-	CC	exonic	ZSWIM6	.	frameshift insertion	ZSWIM6:NM_020928:exon1:c.504_505insCC:p.A169Pfs*52	Acromelic frontonasal dysostosis, Autosomal dominant	.	.	.	.	.	.	[]	[]	[]	['hsa03037']
+19CT039196
+chr1	247921019	247921019	T	C	exonic	OR2T8	.	startloss	OR2T8:NM_001005522:exon1:c.T2C:p.M1?	.	-0.506	0.217	T	0.059	0.070	.	['hsa04740']	[]	[]	['hsa04030']
+19CT039201
+chr16	88859552	88859552	G	A	exonic	TRAPPC2L	.	startloss	TRAPPC2L:NM_001318527:exon3:c.G3A:p.M1?,TRAPPC2L:NM_001318529:exon3:c.G3A:p.M1?,TRAPPC2L:NM_001318532:exon3:c.G3A:p.M1?	.	.	.	.	.	.	.	[]	[]	[]	['hsa04131']
+chr16	89284253	89284254	CT	-	exonic	ANKRD11	.	frameshift deletion	ANKRD11:NM_001256183:exon9:c.2288_2289del:p.E763Gfs*18,ANKRD11:NM_013275:exon9:c.2288_2289del:p.E763Gfs*18,ANKRD11:NM_001256182:exon10:c.2288_2289del:p.E763Gfs*18	KBG syndrome, Autosomal dominant	.	.	.	.	.	.	[]	[]	[]	['hsa03036']
+19CT039890
+chr19	5131539	5131605	GGGGCAGGTGGGGTGGAGCGGGGGAGGCAGGGAGGAGGGGGGCAGGTGGGGTGGGGCAGGGGAGGAG	-	exonic	KDM4B	.	frameshift deletion	KDM4B:NM_015015:exon12:c.1779_1785del:p.G594Hfs*8	.	.	.	.	.	.	.	[]	[]	[]	['hsa03036']
+19CT039895
+19CT040719
+19CT040732
+19CT040892
+19CT041295
+chr2	162277580	162277580	C	A	exonic	IFIH1	.	stopgain	IFIH1:NM_022168:exon10:c.G1879T:p.E627X	Aicardi-Goutieres syndrome 7, Autosomal dominant;Singleton-Merten syndrome 1, Autosomal dominant	0.588	0.968	D	.	.	.	['hsa05168', 'hsa05161', 'hsa05164', 'hsa05171', 'hsa05162', 'hsa04622']	['06168', '06171', '06169', '06133']	[]	['hsa04054']
+19CT041747
+chr16	88859552	88859552	G	A	exonic	TRAPPC2L	.	startloss	TRAPPC2L:NM_001318527:exon3:c.G3A:p.M1?,TRAPPC2L:NM_001318529:exon3:c.G3A:p.M1?,TRAPPC2L:NM_001318532:exon3:c.G3A:p.M1?	.	.	.	.	.	.	.	[]	[]	[]	['hsa04131']
+19CT041822
+19CT044120
+19CT044338
+19CT044501
+19CT044566
+19CT044751
+19CT045844
+19CT046369
+chr15	42682283	42682283	C	T	exonic	STARD9	.	stopgain	STARD9:NM_020759:exon22:c.C2245T:p.Q749X	.	0.617	0.975	D	.	.	.	[]	[]	[]	['hsa03036']
+19CT046414
+chr12	132053401	132053402	AG	-	exonic	EP400	.	frameshift deletion	EP400:NM_015409:exon43:c.7532_7533del:p.Q2511Pfs*70	.	.	.	.	.	.	.	[]	[]	[]	['hsa03036']
+chr12	132053407	132053408	AG	-	exonic	EP400	.	frameshift deletion	EP400:NM_015409:exon43:c.7538_7539del:p.Q2513Pfs*68	.	.	.	.	.	.	.	[]	[]	[]	['hsa03036']
+chr12	132053408	132053408	-	CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC	exonic	EP400	.	frameshift insertion	EP400:NM_015409:exon43:c.7539_7540insCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC:p.Q2519Pfs*73	.	.	.	.	.	.	.	[]	[]	[]	['hsa03036']
+19CT046641
+chr17	10453166	10453166	G	A	exonic	MYH4	.	stopgain	MYH4:NM_017533:exon24:c.C3097T:p.Q1033X	.	0.656	0.987	D	.	.	.	[]	[]	[]	['hsa04812']
+19CT048087
+chr3	12516659	12516659	A	T	exonic	TSEN2	.	stopgain	TSEN2:NM_001145393:exon6:c.A880T:p.K294X,TSEN2:NM_001321279:exon6:c.A880T:p.K294X,TSEN2:NM_001145392:exon7:c.A958T:p.K320X,TSEN2:NM_001321277:exon7:c.A958T:p.K320X,TSEN2:NM_001321278:exon7:c.A958T:p.K320X,TSEN2:NM_025265:exon7:c.A958T:p.K320X,TSEN2:NM_001145394:exon8:c.A781T:p.K261X	Pontocerebellar hypoplasia type 2B, Autosomal recessive	0.65	0.98	D	.	.	.	[]	[]	[]	['hsa03016']
+19CT051360
+19CT052347
+chr2	162277580	162277580	C	A	exonic	IFIH1	.	stopgain	IFIH1:NM_022168:exon10:c.G1879T:p.E627X	Aicardi-Goutieres syndrome 7, Autosomal dominant;Singleton-Merten syndrome 1, Autosomal dominant	0.588	0.968	D	.	.	.	['hsa05168', 'hsa05161', 'hsa05164', 'hsa05171', 'hsa05162', 'hsa04622']	['06168', '06171', '06169', '06133']	[]	['hsa04054']
+chr12	75506399	75506482	CCTGTATCAAGAGATCAAGTTAAAATTCATTACTCTGAAAAAGTATTAAGGAAGAGACTCAAGTTTTCCACTAATTAAAAAATA	-	exonic	KRR1	.	frameshift deletion	KRR1:NM_007043:exon5:c.520delG:p.A174Hfs*5	.	.	.	.	.	.	.	[]	[]	[]	['hsa03009']
+chr12	75506563	75506563	-	T	exonic	KRR1	.	frameshift insertion	KRR1:NM_007043:exon4:c.439dupA:p.I147Nfs*8	.	.	.	.	.	.	.	[]	[]	[]	['hsa03009']
+19PA009214
+19PA009426
+19PA009444
+chr5	111484359	111484359	G	T	exonic	CAMK4	.	stopgain	CAMK4:NM_001323376:exon9:c.G724T:p.E242X,CAMK4:NM_001323377:exon10:c.G724T:p.E242X,CAMK4:NM_001744:exon11:c.G1315T:p.E439X,CAMK4:NM_001323374:exon12:c.G1315T:p.E439X,CAMK4:NM_001323375:exon12:c.G1315T:p.E439X	.	0.286	0.874	D	.	.	.	['hsa04024', 'hsa04020', 'hsa04921', 'hsa04725', 'hsa05034', 'hsa04720', 'hsa05031', 'hsa04722', 'hsa04371', 'hsa04925', 'hsa05214', 'hsa04211', 'hsa04380']	['06273', '06220', '06316']	[]	['hsa01001']
+chr6	57052715	57052715	G	-	exonic	KIAA1586	.	frameshift deletion	KIAA1586:NM_001286274:exon3:c.135delG:p.G46Vfs*7,KIAA1586:NM_001286275:exon4:c.15delG:p.G6Vfs*7,KIAA1586:NM_001286276:exon4:c.15delG:p.G6Vfs*7,KIAA1586:NM_020931:exon4:c.216delG:p.G73Vfs*7	.	.	.	.	.	.	.	[]	[]	[]	[]
+chr6	57053498	57053498	T	G	exonic	KIAA1586	.	stopgain	KIAA1586:NM_001286274:exon3:c.T918G:p.Y306X,KIAA1586:NM_001286275:exon4:c.T798G:p.Y266X,KIAA1586:NM_001286276:exon4:c.T798G:p.Y266X,KIAA1586:NM_020931:exon4:c.T999G:p.Y333X	.	0.544	0.955	D	.	.	.	[]	[]	[]	[]
+chr9	2039775	2039775	-	GC	exonic	SMARCA2	.	frameshift insertion	SMARCA2:NM_001289396:exon4:c.665_666insGC:p.Q223Hfs*48,SMARCA2:NM_001289397:exon4:c.665_666insGC:p.Q223Hfs*48,SMARCA2:NM_003070:exon4:c.665_666insGC:p.Q223Hfs*48,SMARCA2:NM_139045:exon4:c.665_666insGC:p.Q223Hfs*48	Nicolaides-Baraitser syndrome, Autosomal dominant	.	.	.	.	.	.	['hsa04714', 'hsa05225']	[]	[]	['hsa03036', 'hsa03021']
+chr9	2039776	2039776	-	G	exonic	SMARCA2	.	frameshift insertion	SMARCA2:NM_001289396:exon4:c.666_667insG:p.Q223Afs*36,SMARCA2:NM_001289397:exon4:c.666_667insG:p.Q223Afs*36,SMARCA2:NM_003070:exon4:c.666_667insG:p.Q223Afs*36,SMARCA2:NM_139045:exon4:c.666_667insG:p.Q223Afs*36	Nicolaides-Baraitser syndrome, Autosomal dominant	.	.	.	.	.	.	['hsa04714', 'hsa05225']	[]	[]	['hsa03036', 'hsa03021']
+chr19	5144400	5144400	-	GAGAGCATCACGGTGAGCTGTGGGGTGGGGTAGGGGGCGGGGGGAGGCTGGGAGCACAGCGACAACCTGTACCCC	exonic	KDM4B	.	stopgain	KDM4B:NM_015015:exon20:c.2889_2890insGAGAGCATCACGGTGAGCTGTGGGGTGGGGTAGGGGGCGGGGGGAGGCTGGGAGCACAGCGACAACCTGTACCCC:p.S968_F1096delinsVSCGVG	.	.	.	.	.	.	.	[]	[]	[]	['hsa03036']
+19PA009450
+19PA009666
+19PA009669
+20A0000412
+20A0000618
+chr16	89268645	89268645	G	A	exonic	ANKRD11	.	stopgain	ANKRD11:NM_001256183:exon13:c.C7825T:p.Q2609X,ANKRD11:NM_013275:exon13:c.C7825T:p.Q2609X,ANKRD11:NM_001256182:exon14:c.C7825T:p.Q2609X	KBG syndrome, Autosomal dominant	0.567	0.961	D	.	.	.	[]	[]	[]	['hsa03036']
+20A0000620
+chr15	44565997	44565997	G	A	exonic	SPG11	.	stopgain	SPG11:NM_001160227:exon36:c.C6517T:p.R2173X,SPG11:NM_025137:exon38:c.C6856T:p.R2286X	Amyotrophic lateral sclerosis 5, juvenile, Autosomal recessive;Charcot-Marie-Tooth disease, axonal, type 2X, Autosomal recessive;Spastic paraplegia 11, autosomal recessive, Autosomal recessive	0.66	0.994	D	.	.	.	['hsa05022', 'hsa05014']	[]	[]	['hsa03400']
+20A0001282
+chr5	111484208	111484208	G	-	exonic	CAMK4	.	frameshift deletion	CAMK4:NM_001323376:exon9:c.573delG:p.A193Hfs*5,CAMK4:NM_001323377:exon10:c.573delG:p.A193Hfs*5,CAMK4:NM_001744:exon11:c.1164delG:p.A390Hfs*5,CAMK4:NM_001323374:exon12:c.1164delG:p.A390Hfs*5,CAMK4:NM_001323375:exon12:c.1164delG:p.A390Hfs*5	.	.	.	.	.	.	.	['hsa04024', 'hsa04020', 'hsa04921', 'hsa04725', 'hsa05034', 'hsa04720', 'hsa05031', 'hsa04722', 'hsa04371', 'hsa04925', 'hsa05214', 'hsa04211', 'hsa04380']	['06273', '06220', '06316']	[]	['hsa01001']
+20A0002063
+chr3	158665466	158665466	T	-	exonic	GFM1	.	frameshift deletion	GFM1:NM_001374358:exon9:c.1051delT:p.Y351Mfs*49,GFM1:NM_001374361:exon9:c.826delT:p.Y276Mfs*49,GFM1:NM_001374359:exon10:c.943delT:p.Y315Mfs*49,GFM1:NM_001374360:exon10:c.943delT:p.Y315Mfs*49,GFM1:NM_001374356:exon11:c.1393delT:p.Y465Mfs*49,GFM1:NM_001308166:exon12:c.1510delT:p.Y504Mfs*49,GFM1:NM_001374355:exon12:c.1429delT:p.Y477Mfs*49,GFM1:NM_001374357:exon12:c.1285delT:p.Y429Mfs*49,GFM1:NM_024996:exon12:c.1510delT:p.Y504Mfs*49,GFM1:NM_001308164:exon13:c.1567delT:p.Y523Mfs*49	Combined oxidative phosphorylation deficiency 1, Autosomal recessive	.	.	.	.	.	.	[]	[]	[]	['hsa03029', 'hsa03012']
+chr3	158665469	158665469	G	-	exonic	GFM1	.	frameshift deletion	GFM1:NM_001374358:exon9:c.1054delG:p.A352Lfs*48,GFM1:NM_001374361:exon9:c.829delG:p.A277Lfs*48,GFM1:NM_001374359:exon10:c.946delG:p.A316Lfs*48,GFM1:NM_001374360:exon10:c.946delG:p.A316Lfs*48,GFM1:NM_001374356:exon11:c.1396delG:p.A466Lfs*48,GFM1:NM_001308166:exon12:c.1513delG:p.A505Lfs*48,GFM1:NM_001374355:exon12:c.1432delG:p.A478Lfs*48,GFM1:NM_001374357:exon12:c.1288delG:p.A430Lfs*48,GFM1:NM_024996:exon12:c.1513delG:p.A505Lfs*48,GFM1:NM_001308164:exon13:c.1570delG:p.A524Lfs*48	Combined oxidative phosphorylation deficiency 1, Autosomal recessive	.	.	.	.	.	.	[]	[]	[]	['hsa03029', 'hsa03012']
+20A0002445
+20A0002478
+chr6	57054856	57054860	TAAAA	-	exonic	KIAA1586	.	frameshift deletion	KIAA1586:NM_001286274:exon3:c.2276_2280del:p.K760Efs*31,KIAA1586:NM_001286275:exon4:c.2156_2160del:p.K720Efs*31,KIAA1586:NM_001286276:exon4:c.2156_2160del:p.K720Efs*31,KIAA1586:NM_020931:exon4:c.2357_2361del:p.K787Efs*31	.	.	.	.	.	.	.	[]	[]	[]	[]
+chr17	81241127	81241127	C	T	exonic	NDUFAF8	.	stopgain	NDUFAF8:NM_001353402:exon3:c.C340T:p.R114X,NDUFAF8:NM_001353403:exon3:c.C178T:p.R60X	.	.	.	.	.	.	.	['hsa04714']	[]	[]	['hsa03029']
+20A0002973
+chr7	100896627	100896627	C	-	exonic	ACHE	.	frameshift deletion	ACHE:NM_001367918:exon1:c.104delG:p.S35Ifs*34,ACHE:NM_001367919:exon1:c.104delG:p.S35Ifs*33	.	.	.	.	.	.	.	['hsa04725', 'hsa00564']	[]	[]	['hsa00537']
+chr16	88859552	88859552	G	A	exonic	TRAPPC2L	.	startloss	TRAPPC2L:NM_001318527:exon3:c.G3A:p.M1?,TRAPPC2L:NM_001318529:exon3:c.G3A:p.M1?,TRAPPC2L:NM_001318532:exon3:c.G3A:p.M1?	.	.	.	.	.	.	.	[]	[]	[]	['hsa04131']
+20A0004025
+chr1	240207728	240207728	-	GCGG	exonic	FMN2	.	frameshift insertion	FMN2:NM_020066:exon5:c.2916_2917insGCGG:p.I975Rfs*279,FMN2:NM_001305424:exon6:c.2928_2929insGCGG:p.I979Rfs*279	Mental retardation, autosomal recessive 47, Autosomal recessive	.	.	.	.	.	.	[]	[]	[]	['hsa04812']
+chr1	240207731	240207731	-	TACCCCCTCCTCCCCCTCTTCCC	exonic	FMN2	.	frameshift insertion	FMN2:NM_020066:exon5:c.2919_2920insTACCCCCTCCTCCCCCTCTTCCC:p.G974Yfs*309,FMN2:NM_001305424:exon6:c.2931_2932insTACCCCCTCCTCCCCCTCTTCCC:p.G978Yfs*309	Mental retardation, autosomal recessive 47, Autosomal recessive	.	.	.	.	.	.	[]	[]	[]	['hsa04812']
+chr15	42685477	42685477	-	ACCCCATT	exonic	STARD9	.	frameshift insertion	STARD9:NM_020759:exon23:c.3899_3900insACCCCATT:p.E1304Pfs*10	.	.	.	.	.	.	.	[]	[]	[]	['hsa03036']
+chr15	42685478	42685478	-	TGAGCTCCAA	exonic	STARD9	.	stopgain	STARD9:NM_020759:exon23:c.3900_3901insTGAGCTCCAA:p.P1301*	.	.	.	.	.	.	.	[]	[]	[]	['hsa03036']
+20A0004030
+20A0004217
+chr6	135466250	135466250	G	A	exonic	AHI1	.	stopgain	AHI1:NM_001134830:exon5:c.C313T:p.Q105X,AHI1:NM_001134832:exon6:c.C313T:p.Q105X,AHI1:NM_017651:exon6:c.C313T:p.Q105X,AHI1:NM_001134831:exon7:c.C313T:p.Q105X,AHI1:NM_001350503:exon7:c.C313T:p.Q105X,AHI1:NM_001350504:exon7:c.C313T:p.Q105X	Joubert syndrome-3, Autosomal recessive	0.66	0.994	D	.	.	.	[]	[]	[]	['hsa03037']
+chr11	68908180	68908186	GGCAGTC	-	exonic	IGHMBP2	.	frameshift deletion	IGHMBP2:NM_002180:exon3:c.292_298del:p.G98Sfs*7	Charcot-Marie-Tooth disease, axonal, type 2S, Autosomal recessive;Neuronopathy, distal hereditary motor, type VI, Autosomal recessive	.	.	.	.	.	.	[]	[]	[]	['hsa03009', 'hsa03012']
+chr11	68908187	68908187	-	T	exonic	IGHMBP2	.	frameshift insertion	IGHMBP2:NM_002180:exon3:c.299_300insT:p.Q100Hfs*20	Charcot-Marie-Tooth disease, axonal, type 2S, Autosomal recessive;Neuronopathy, distal hereditary motor, type VI, Autosomal recessive	.	.	.	.	.	.	[]	[]	[]	['hsa03009', 'hsa03012']
+chr11	68908191	68908191	G	-	exonic	IGHMBP2	.	frameshift deletion	IGHMBP2:NM_002180:exon3:c.303delG:p.A102Pfs*5	Charcot-Marie-Tooth disease, axonal, type 2S, Autosomal recessive;Neuronopathy, distal hereditary motor, type VI, Autosomal recessive	.	.	.	.	.	.	[]	[]	[]	['hsa03009', 'hsa03012']
+20A0004325
+20A0004327
+chr6	135466250	135466250	G	A	exonic	AHI1	.	stopgain	AHI1:NM_001134830:exon5:c.C313T:p.Q105X,AHI1:NM_001134832:exon6:c.C313T:p.Q105X,AHI1:NM_017651:exon6:c.C313T:p.Q105X,AHI1:NM_001134831:exon7:c.C313T:p.Q105X,AHI1:NM_001350503:exon7:c.C313T:p.Q105X,AHI1:NM_001350504:exon7:c.C313T:p.Q105X	Joubert syndrome-3, Autosomal recessive	0.66	0.994	D	.	.	.	[]	[]	[]	['hsa03037']
+chr11	68908180	68908186	GGCAGTC	-	exonic	IGHMBP2	.	frameshift deletion	IGHMBP2:NM_002180:exon3:c.292_298del:p.G98Sfs*7	Charcot-Marie-Tooth disease, axonal, type 2S, Autosomal recessive;Neuronopathy, distal hereditary motor, type VI, Autosomal recessive	.	.	.	.	.	.	[]	[]	[]	['hsa03009', 'hsa03012']
+chr11	68908187	68908187	-	T	exonic	IGHMBP2	.	frameshift insertion	IGHMBP2:NM_002180:exon3:c.299_300insT:p.Q100Hfs*20	Charcot-Marie-Tooth disease, axonal, type 2S, Autosomal recessive;Neuronopathy, distal hereditary motor, type VI, Autosomal recessive	.	.	.	.	.	.	[]	[]	[]	['hsa03009', 'hsa03012']
+chr11	68908191	68908191	G	-	exonic	IGHMBP2	.	frameshift deletion	IGHMBP2:NM_002180:exon3:c.303delG:p.A102Pfs*5	Charcot-Marie-Tooth disease, axonal, type 2S, Autosomal recessive;Neuronopathy, distal hereditary motor, type VI, Autosomal recessive	.	.	.	.	.	.	[]	[]	[]	['hsa03009', 'hsa03012']
+20A0004392
+chr10	95711966	95711966	-	C	exonic	ENTPD1	.	frameshift insertion	ENTPD1:NM_001098175:exon1:c.11dupC:p.K5Qfs*11	Spastic paraplegia 64, autosomal recessive, Autosomal recessive	.	.	.	.	.	.	['hsa01100', 'hsa00230', 'hsa05169', 'hsa01232', 'hsa00240']	[]	[]	['hsa04090']
+chr10	95711973	95711973	A	-	exonic	ENTPD1	.	frameshift deletion	ENTPD1:NM_001098175:exon1:c.17delA:p.D6Afs*2	Spastic paraplegia 64, autosomal recessive, Autosomal recessive	.	.	.	.	.	.	['hsa01100', 'hsa00230', 'hsa05169', 'hsa01232', 'hsa00240']	[]	[]	['hsa04090']
+20A0004401
+chr7	100896627	100896627	C	-	exonic	ACHE	.	frameshift deletion	ACHE:NM_001367918:exon1:c.104delG:p.S35Ifs*34,ACHE:NM_001367919:exon1:c.104delG:p.S35Ifs*33	.	.	.	.	.	.	.	['hsa04725', 'hsa00564']	[]	[]	['hsa00537']
+chr10	95711957	95711957	A	G	exonic	ENTPD1	.	startloss	ENTPD1:NM_001098175:exon1:c.A1G:p.M1?	Spastic paraplegia 64, autosomal recessive, Autosomal recessive	-0.581	0.144	T	0.088	0.109	.	['hsa01100', 'hsa00230', 'hsa05169', 'hsa01232', 'hsa00240']	[]	[]	['hsa04090']
+chr10	95711959	95711959	G	C	exonic	ENTPD1	.	startloss	ENTPD1:NM_001098175:exon1:c.G3C:p.M1?	Spastic paraplegia 64, autosomal recessive, Autosomal recessive	-0.551	0.172	T	0.142	0.164	.	['hsa01100', 'hsa00230', 'hsa05169', 'hsa01232', 'hsa00240']	[]	[]	['hsa04090']
+chr10	95711966	95711966	-	C	exonic	ENTPD1	.	frameshift insertion	ENTPD1:NM_001098175:exon1:c.11dupC:p.K5Qfs*11	Spastic paraplegia 64, autosomal recessive, Autosomal recessive	.	.	.	.	.	.	['hsa01100', 'hsa00230', 'hsa05169', 'hsa01232', 'hsa00240']	[]	[]	['hsa04090']
+chr10	95711973	95711973	A	-	exonic	ENTPD1	.	frameshift deletion	ENTPD1:NM_001098175:exon1:c.17delA:p.D6Afs*2	Spastic paraplegia 64, autosomal recessive, Autosomal recessive	.	.	.	.	.	.	['hsa01100', 'hsa00230', 'hsa05169', 'hsa01232', 'hsa00240']	[]	[]	['hsa04090']
+20A0007427
+20A0008696
+chr11	108267183	108267183	A	-	exonic	ATM	.	frameshift deletion	ATM:NM_000051:exon17:c.2479delA:p.K828Sfs*8,ATM:NM_001351834:exon18:c.2479delA:p.K828Sfs*8	Ataxia-telangiectasia, Autosomal recessive;Lymphoma, B-cell non-Hodgkin, somatic (3);Lymphoma, mantle cell, somatic (3);T-cell prolymphocytic leukemia, somatic (3)	.	.	.	.	.	.	['hsa05165', 'hsa05170', 'hsa05206', 'hsa05166', 'hsa04218', 'hsa05202', 'hsa04068', 'hsa05131', 'hsa04210', 'hsa04110', 'hsa04115', 'hsa01524', 'hsa04064', 'hsa03440']	['06166', '06240', '06161', '06160', '06130', '06230']	[]	['hsa01001', 'hsa03400', 'hsa03032']
+20A0008697
+chr11	108267183	108267183	A	-	exonic	ATM	.	frameshift deletion	ATM:NM_000051:exon17:c.2479delA:p.K828Sfs*8,ATM:NM_001351834:exon18:c.2479delA:p.K828Sfs*8	Ataxia-telangiectasia, Autosomal recessive;Lymphoma, B-cell non-Hodgkin, somatic (3);Lymphoma, mantle cell, somatic (3);T-cell prolymphocytic leukemia, somatic (3)	.	.	.	.	.	.	['hsa05165', 'hsa05170', 'hsa05206', 'hsa05166', 'hsa04218', 'hsa05202', 'hsa04068', 'hsa05131', 'hsa04210', 'hsa04110', 'hsa04115', 'hsa01524', 'hsa04064', 'hsa03440']	['06166', '06240', '06161', '06160', '06130', '06230']	[]	['hsa01001', 'hsa03400', 'hsa03032']
+20A0008698
+20A0008882
+chr10	95711966	95711966	-	C	exonic	ENTPD1	.	frameshift insertion	ENTPD1:NM_001098175:exon1:c.11dupC:p.K5Qfs*11	Spastic paraplegia 64, autosomal recessive, Autosomal recessive	.	.	.	.	.	.	['hsa01100', 'hsa00230', 'hsa05169', 'hsa01232', 'hsa00240']	[]	[]	['hsa04090']
+chr10	95711973	95711973	A	-	exonic	ENTPD1	.	frameshift deletion	ENTPD1:NM_001098175:exon1:c.17delA:p.D6Afs*2	Spastic paraplegia 64, autosomal recessive, Autosomal recessive	.	.	.	.	.	.	['hsa01100', 'hsa00230', 'hsa05169', 'hsa01232', 'hsa00240']	[]	[]	['hsa04090']
+DS184317
+chr7	100896627	100896627	C	-	exonic	ACHE	.	frameshift deletion	ACHE:NM_001367918:exon1:c.104delG:p.S35Ifs*34,ACHE:NM_001367919:exon1:c.104delG:p.S35Ifs*33	.	.	.	.	.	.	.	['hsa04725', 'hsa00564']	[]	[]	['hsa00537']
+chr11	101482997	101483000	TTTT	-	exonic	TRPC6	.	frameshift deletion	TRPC6:NM_004621:exon5:c.1459_1462del:p.K487Hfs*15	Glomerulosclerosis, focal segmental, 2	.	.	.	.	.	.	['hsa04360', 'hsa04022']	[]	[]	['hsa04040']
+chr11	101483000	101483000	-	AAAA	exonic	TRPC6	.	stopgain	TRPC6:NM_004621:exon5:c.1458_1459insTTTT:p.K487Ffs*2	Glomerulosclerosis, focal segmental, 2	.	.	.	.	.	.	['hsa04360', 'hsa04022']	[]	[]	['hsa04040']
+chr12	75506399	75506482	CCTGTATCAAGAGATCAAGTTAAAATTCATTACTCTGAAAAAGTATTAAGGAAGAGACTCAAGTTTTCCACTAATTAAAAAATA	-	exonic	KRR1	.	frameshift deletion	KRR1:NM_007043:exon5:c.520delG:p.A174Hfs*5	.	.	.	.	.	.	.	[]	[]	[]	['hsa03009']
+chr12	75506563	75506563	-	T	exonic	KRR1	.	frameshift insertion	KRR1:NM_007043:exon4:c.439dupA:p.I147Nfs*8	.	.	.	.	.	.	.	[]	[]	[]	['hsa03009']
+DS187051
+chr1	156548393	156548396	AGGA	-	exonic	IQGAP3	.	frameshift deletion	IQGAP3:NM_178229:exon18:c.2085_2088del:p.P696Afs*9	.	.	.	.	.	.	.	['hsa04810']	[]	[]	['hsa04147', 'hsa04812']
+chr1	156548396	156548396	-	TCCT	exonic	IQGAP3	.	frameshift insertion	IQGAP3:NM_178229:exon18:c.2084_2085insAGGA:p.P696Gfs*28	.	.	.	.	.	.	.	['hsa04810']	[]	[]	['hsa04147', 'hsa04812']
+chr7	155462511	155462511	A	-	exonic	EN2	.	frameshift deletion	EN2:NM_001427:exon2:c.826delA:p.S276Afs*6	.	.	.	.	.	.	.	[]	[]	[]	['hsa03000']
+chr7	155462513	155462513	-	T	exonic	EN2	.	frameshift insertion	EN2:NM_001427:exon2:c.828_829insT:p.L277Sfs*71	.	.	.	.	.	.	.	[]	[]	[]	['hsa03000']
